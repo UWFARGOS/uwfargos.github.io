@@ -1,0 +1,60 @@
+name: Refresh postings
+
+on:
+  schedule:
+    # 06:00, 12:00, 18:00, 00:00 UTC — four pulls a day is plenty and keeps
+    # you well clear of any employer's rate limiting.
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
+  push:
+    branches: [main]
+    paths: ['content/**', 'site/**', 'scripts/**']   # publish a new guide the moment you commit it
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch postings
+        env:
+          USAJOBS_KEY: ${{ secrets.USAJOBS_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+        run: python scripts/fetch.py --audit
+
+      - name: Build guides
+        run: python scripts/build_posts.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "argo-bot"
+          git config user.email "actions@github.com"
+          git add site/jobs.json site/rejected.json site/posts.json site/posts
+          git diff --staged --quiet || git commit -m "Refresh $(date -u +%Y-%m-%d\ %H:%M)"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
