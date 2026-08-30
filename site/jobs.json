@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T23:43:05+00:00",
+ "generated": "2026-08-30T23:51:50+00:00",
  "count": 17,
  "jobs": [
   {
@@ -16,7 +16,14 @@
    "level": "Internship",
    "state": "TN",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Knoxville, TN - Northwest Knoxville Branch"
+   ],
+   "states": [
+    "TN"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104915",
@@ -32,7 +39,14 @@
    "level": "Internship",
    "state": "AL",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Birmingham, AL - Regions Center"
+   ],
+   "states": [
+    "AL"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104908",
@@ -48,7 +62,14 @@
    "level": "Internship",
    "state": "AL",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Birmingham, AL - Regions Center"
+   ],
+   "states": [
+    "AL"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104914",
@@ -65,7 +86,12 @@
    "level": "Internship",
    "state": null,
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104968",
@@ -81,7 +107,14 @@
    "level": "Internship",
    "state": "AL",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Birmingham, AL - Regions Center"
+   ],
+   "states": [
+    "AL"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104961",
@@ -97,7 +130,14 @@
    "level": "Internship",
    "state": "GA",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Atlanta, GA - Regions Plaza Office"
+   ],
+   "states": [
+    "GA"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104966",
@@ -113,7 +153,14 @@
    "level": "Internship",
    "state": "NC",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Charlotte, NC - Charlotte Uptown Branch"
+   ],
+   "states": [
+    "NC"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104972",
@@ -129,7 +176,14 @@
    "level": "Internship",
    "state": "TX",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Dallas, TX - 17 Seventeen Building Branch"
+   ],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104974",
@@ -145,7 +199,14 @@
    "level": "Internship",
    "state": "TN",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Nashville, TN - Music Row Branch"
+   ],
+   "states": [
+    "TN"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104973",
@@ -161,7 +222,14 @@
    "level": "Internship",
    "state": "TX",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Houston, TX - Regions Houston Headquarters Office"
+   ],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104978",
@@ -177,7 +245,14 @@
    "level": "Internship",
    "state": "FL",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
+   ],
+   "states": [
+    "FL"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104979",
@@ -193,7 +268,14 @@
    "level": "Internship",
    "state": "LA",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "New Orleans, LA - New Orleans Main Poydras Street Branch"
+   ],
+   "states": [
+    "LA"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R104951",
@@ -210,7 +292,12 @@
    "level": "Internship",
    "state": null,
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "5 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R105176",
@@ -227,7 +314,12 @@
    "level": "Internship",
    "state": null,
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "4 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R105425",
@@ -243,7 +335,14 @@
    "level": "Internship",
    "state": "AL",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Hoover, AL - Riverchase Operations Center (Birmingham, AL)"
+   ],
+   "states": [
+    "AL"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R105426",
@@ -259,7 +358,14 @@
    "level": "Internship",
    "state": "AL",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Hoover, AL - Riverchase Operations Center (Birmingham, AL)"
+   ],
+   "states": [
+    "AL"
+   ],
+   "extra_locations": 0
   },
   {
    "id": "wd-regions-R105416",
@@ -275,7 +381,14 @@
    "level": "Internship",
    "state": "AL",
    "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,"
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Huntsville, AL - Madison Street Branch"
+   ],
+   "states": [
+    "AL"
+   ],
+   "extra_locations": 0
   }
  ]
 }
