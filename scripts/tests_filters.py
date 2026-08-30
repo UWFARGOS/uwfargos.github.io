@@ -52,6 +52,17 @@ CASES = [
      "accounting", False, "manager"),
 ]
 
+# (title, description, location, should_keep, note)
+LOCATION_CASES = [
+    ("Audit Intern", "Currently enrolled.", "Tampa, FL", True, "US"),
+    ("Audit Intern", "Currently enrolled.", "Toronto, ON", False, "Canada"),
+    ("Tax Intern", "Currently enrolled.", "London, United Kingdom", False, "UK"),
+    ("Audit Intern", "Currently enrolled.", "Bengaluru, India", False, "India"),
+    ("Audit Intern", "Currently enrolled.", "Multiple Locations", True, "ambiguous kept, flagged"),
+    ("Audit Intern", "Currently enrolled.", "Chicago, IL; Toronto, ON", True, "mixed: US signal wins"),
+    ("Audit Intern", "Currently enrolled.", "Ontario, CA", True, "Ontario California, not Canada"),
+]
+
 
 def main():
     fails = 0
@@ -65,7 +76,20 @@ def main():
         print(f"[{mark}] {title:<38} {detail}")
         if not ok:
             print(f"       ^ expected keep={expect} — {note}")
-    print(f"\n{len(CASES) - fails}/{len(CASES)} passed")
+    print()
+    for title, desc, loc, expect, note in LOCATION_CASES:
+        job = classify({"title": title, "description": desc, "location": loc}, "accounting")
+        ok = job["keep"] == expect
+        if not ok:
+            fails += 1
+        mark = "PASS" if ok else "FAIL"
+        detail = job["reject_reason"] or f'kept, state={job["state"]} {job["flags"]}'
+        print(f"[{mark}] {loc:<38} {detail}")
+        if not ok:
+            print(f"       ^ expected keep={expect} — {note}")
+
+    total = len(CASES) + len(LOCATION_CASES)
+    print(f"\n{total - fails}/{total} passed")
     return fails
 
 

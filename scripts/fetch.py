@@ -53,6 +53,11 @@ def main():
     ap.add_argument("--only", help="run a single employer by name")
     ap.add_argument("--max-years", type=int, default=1,
                     help="reject postings demanding more than this many years")
+    ap.add_argument("--allow-non-us", action="store_true",
+                    help="keep postings outside the US (off by default)")
+    ap.add_argument("--strict-location", action="store_true",
+                    help="also drop postings whose location is unclear, e.g. "
+                         "'Multiple Locations' or bare 'Remote'")
     args = ap.parse_args()
 
     employers = load_employers()
@@ -77,7 +82,9 @@ def main():
 
         n_kept = 0
         for job in raw:
-            job = classify(job, emp.get("kind", "other"), args.max_years)
+            job = classify(job, emp.get("kind", "other"), args.max_years,
+                           us_only=not args.allow_non_us,
+                           keep_ambiguous_location=not args.strict_location)
             job["employer_kind"] = emp.get("kind", "other")
             if job.pop("keep"):
                 job.pop("reject_reason", None)
@@ -109,6 +116,9 @@ def main():
         print(f"{status:<7} {name:<32} {detail}")
     print("-" * 62)
     print(f"{len(kept)} postings written to {OUT.relative_to(ROOT)}")
+    if not args.allow_non_us:
+        states = sorted({j["state"] for j in kept if j.get("state")})
+        print(f"US states represented: {', '.join(states) if states else 'none yet'}")
     failures = sum(1 for _, s, _ in report if s in ("FAILED", "ERROR"))
     if failures:
         print(f"{failures} employer(s) need attention — run scripts/verify.py")
