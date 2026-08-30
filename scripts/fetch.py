@@ -12,6 +12,7 @@ the summary at the end tells you what needs attention.
 import argparse
 import json
 import pathlib
+import re
 import sys
 from datetime import datetime, timezone
 
@@ -33,16 +34,41 @@ def load_employers():
 def dedupe(jobs):
     """
     Same role posted to two boards, or one Workday req advertised in six
-    cities. Collapse on company + normalised title, keeping the first.
+    cities. Collapse only true duplicates, and merge the multi-city case into
+    a single entry carrying every location, so one req in forty cities shows
+    as one row that is searchable by all forty.
+
+    The earlier version keyed on company + title alone, which silently threw
+    away every city after the first.
     """
-    seen, out = set(), []
+    groups = {}
     for j in jobs:
         key = (j["company"].lower().strip(),
                " ".join(j["title"].lower().split()))
-        if key in seen:
-            continue
-        seen.add(key)
-        out.append(j)
+        if key not in groups:
+            j["locations"] = []
+            j["states"] = []
+            groups[key] = j
+        g = groups[key]
+
+        for loc in re.split(r"\s*;\s*", (j.get("location") or "").strip()):
+            loc = loc.strip()
+            if loc and loc not in g["locations"]:
+                g["locations"].append(loc)
+        if j.get("state") and j["state"] not in g["states"]:
+            g["states"].append(j["state"])
+
+        # Prefer the flags of whichever copy carries the most information.
+        if len(j.get("flags", [])) > len(g.get("flags", [])):
+            g["flags"] = j["flags"]
+
+    out = []
+    for g in groups.values():
+        locs = g["locations"]
+        g["location"] = locs[0] if locs else ""
+        g["extra_locations"] = max(0, len(locs) - 1)
+        g["state"] = g["states"][0] if g["states"] else None
+        out.append(g)
     return out
 
 
@@ -111,17 +137,39 @@ def main():
     if args.audit:
         (ROOT / "site" / "rejected.json").write_text(json.dumps(rejected, indent=1))
 
-    print("\n" + "-" * 62)
+    print("\n" + "=" * 68)
+    print(f"{'EMPLOYER':<32} {'STATUS':<9} DETAIL")
+    print("-" * 68)
     for name, status, detail in report:
-        print(f"{status:<7} {name:<32} {detail}")
-    print("-" * 62)
+        print(f"{name:<32} {status:<9} {detail}")
+    print("=" * 68)
+
+    working = [r for r in report if r[1] == "ok" and "0 kept" not in r[2]]
+    empty = [r for r in report if r[1] == "ok" and "0 kept" in r[2]]
+    broken = [r for r in report if r[1] in ("FAILED", "ERROR")]
+
     print(f"{len(kept)} postings written to {OUT.relative_to(ROOT)}")
     if not args.allow_non_us:
-        states = sorted({j["state"] for j in kept if j.get("state")})
+        states = sorted({s for j in kept for s in (j.get("states") or [])})
         print(f"US states represented: {', '.join(states) if states else 'none yet'}")
-    failures = sum(1 for _, s, _ in report if s in ("FAILED", "ERROR"))
-    if failures:
-        print(f"{failures} employer(s) need attention — run scripts/verify.py")
+
+    print(f"\n{len(working)} employer(s) produced postings, "
+          f"{len(empty)} returned nothing, {len(broken)} failed outright.")
+
+    if broken:
+        print("\nFAILED — these are almost always a wrong careers_url or token:")
+        for name, _, detail in broken:
+            print(f"  · {name}: {detail}")
+    if empty:
+        print("\nRETURNED NOTHING — the endpoint answered but nothing survived "
+              "the filter. Usually a career site with no campus roles posted, "
+              "or a search term that matches nothing there:")
+        for name, _, detail in empty:
+            print(f"  · {name}: {detail}")
+    if len(working) <= 2 and len(report) > 3:
+        print("\n!! Almost every employer is failing. Fix employers.yaml before "
+              "trusting anything on the site. Run the 'Check employer list' "
+              "workflow to see what each one needs.")
 
 
 if __name__ == "__main__":

@@ -139,6 +139,10 @@ def workday(emp, want_details=True, cap=400):
     Workday's list response is thin, so full descriptions need a second call
     per posting. `cap` bounds that: enterprise tenants can have thousands of
     roles and you only need the ones a student could plausibly hold.
+
+    `search` may be a single string or a list. A list runs one query per term
+    and merges the results, which matters because a single "intern" query
+    silently excludes every entry-level full-time role.
     """
     tenant, dc, site = parse_workday_url(emp["careers_url"])
     base = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
@@ -146,32 +150,44 @@ def workday(emp, want_details=True, cap=400):
     sess.headers.update({"User-Agent": UA, "Content-Type": "application/json",
                          "Accept": "application/json"})
 
-    out, offset, total = [], 0, None
-    while offset < (total if total is not None else 1) and offset < cap:
-        r = sess.post(f"{base}/jobs", json={"appliedFacets": {}, "limit": 20,
-                                            "offset": offset,
-                                            "searchText": emp.get("search", "")},
-                      timeout=TIMEOUT)
-        r.raise_for_status()
-        payload = r.json()
-        total = payload.get("total", 0)
-        postings = payload.get("jobPostings", [])
-        if not postings:
-            break
-        for j in postings:
-            path = j.get("externalPath", "")
-            out.append({
-                "id": f"wd-{tenant}-{j.get('bulletFields', [path])[0]}",
-                "title": j.get("title", ""),
-                "company": emp["name"],
-                "location": j.get("locationsText", ""),
-                "url": f"https://{tenant}.{dc}.myworkdayjobs.com/{site}{path}",
-                "posted": j.get("postedOn", ""),
-                "description": "",
-                "_path": path,
-            })
-        offset += 20
-        time.sleep(PAUSE)
+    terms = emp.get("search", "")
+    if isinstance(terms, str):
+        terms = [terms]
+    if not terms:
+        terms = [""]
+
+    out, seen = [], set()
+
+    for term in terms:
+        offset, total = 0, None
+        while offset < (total if total is not None else 1) and len(out) < cap:
+            r = sess.post(f"{base}/jobs",
+                          json={"appliedFacets": {}, "limit": 20,
+                                "offset": offset, "searchText": term},
+                          timeout=TIMEOUT)
+            r.raise_for_status()
+            payload = r.json()
+            total = payload.get("total", 0)
+            postings = payload.get("jobPostings", [])
+            if not postings:
+                break
+            for j in postings:
+                path = j.get("externalPath", "")
+                if path in seen:
+                    continue
+                seen.add(path)
+                out.append({
+                    "id": f"wd-{tenant}-{j.get('bulletFields', [path])[0]}",
+                    "title": j.get("title", ""),
+                    "company": emp["name"],
+                    "location": j.get("locationsText", ""),
+                    "url": f"https://{tenant}.{dc}.myworkdayjobs.com/{site}{path}",
+                    "posted": j.get("postedOn", ""),
+                    "description": "",
+                    "_path": path,
+                })
+            offset += 20
+            time.sleep(PAUSE)
 
     if want_details:
         for job in out:
