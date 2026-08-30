@@ -25,7 +25,7 @@ employers:
   - name: PwC
     kind: accounting
     source: workday
-    careers_url: https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers
+    careers_url: https://pwc.wd3.myworkdayjobs.com/en-US/Campus_Careers
     search: intern
 
   - name: KPMG
