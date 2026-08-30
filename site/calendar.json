@@ -1,0 +1,48 @@
+{
+  "_note": "Windows are observed/expected, not guarantees. Review each August. Sources listed per track so a student can check for themselves.",
+  "updated": "2026-08-27",
+  "tracks": [
+    {
+      "track": "Investment banking & markets",
+      "audience": "Penultimate-year students. Recruits earliest by a wide margin.",
+      "source": "Extern / Adventis cycle reporting",
+      "windows": [
+        { "cycle": "Summer 2027 (class of 2028)", "opens": "2025-12-01", "closes": "2026-01-31", "status": "closed", "note": "Most bulge brackets opened and closed inside about eight weeks." },
+        { "cycle": "Summer 2028 (class of 2029)", "opens": "2026-12-01", "closes": "2027-02-28", "status": "upcoming", "note": "Expect a trickle from Nov 2026, then heavy volume in January." }
+      ]
+    },
+    {
+      "track": "Big 4 & public accounting",
+      "audience": "Sophomores and juniors. Leadership programs start earlier than the internship itself.",
+      "source": "Firm campus pages",
+      "windows": [
+        { "cycle": "Summer 2027 internships", "opens": "2025-08-01", "closes": "2026-11-30", "status": "open", "note": "PwC posted first. Rolling, so early applicants see the most open seats." },
+        { "cycle": "Summer 2028 internships", "opens": "2026-08-15", "closes": "2027-11-30", "status": "opening", "note": "Deloitte and KPMG run main fall cycles for 2028 graduates." }
+      ]
+    },
+    {
+      "track": "Early identification & sophomore programs",
+      "audience": "Freshmen and sophomores. The realistic entry point if you are not at a target school.",
+      "source": "Firm diversity and pipeline program pages",
+      "windows": [
+        { "cycle": "Spring 2027 programs", "opens": "2026-09-01", "closes": "2026-12-15", "status": "opening", "note": "Rarely advertised. Search the firm name plus 'early insight' or 'explore'." }
+      ]
+    },
+    {
+      "track": "Regional banking & corporate FP&A",
+      "audience": "Juniors and seniors. Much shorter lead time than the national firms.",
+      "source": "Employer career pages",
+      "windows": [
+        { "cycle": "Summer 2027 internships", "opens": "2026-10-01", "closes": "2027-03-31", "status": "upcoming", "note": "Regions, Hancock Whitney and Truist post roughly six months ahead." }
+      ]
+    },
+    {
+      "track": "Federal (accounting & audit series)",
+      "audience": "Any year. Pathways postings run continuously.",
+      "source": "USAJOBS",
+      "windows": [
+        { "cycle": "Rolling", "opens": "2026-01-01", "closes": "2027-12-31", "status": "open", "note": "Announcements can close in days once the application cap is hit. Apply the day you see it." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+ "generated": "2026-08-27T00:00:00+00:00",
+ "_note": "Sample data so the page renders before your first fetch. Overwritten by scripts/fetch.py.",
+ "count": 6,
+ "jobs": [
+  {
+   "title": "Audit Intern - Summer 2027",
+   "location": "Pensacola, FL",
+   "flags": [
+    "CPA track"
+   ],
+   "bucket": "Audit & Assurance",
+   "level": "Internship",
+   "grad_years": [
+    2028
+   ],
+   "snippet": "Currently enrolled in a Bachelor's or Master's program in Accounting. Progress toward 150 semester hours preferred. Class of 2028.",
+   "id": "sample-1",
+   "company": "Sample CPA Firm",
+   "url": "https://example.com",
+   "posted": "2026-08-20",
+   "employer_kind": "accounting"
+  },
+  {
+   "title": "Tax Associate",
+   "location": "Mobile, AL",
+   "flags": [
+    "CPA track",
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "snippet": "Entry-level role for recent graduates. CPA-eligible candidates preferred. We will not sponsor visas.",
+   "id": "sample-2",
+   "company": "Sample CPA Firm",
+   "url": "https://example.com",
+   "posted": "2026-08-18",
+   "employer_kind": "accounting"
+  },
+  {
+   "title": "Early Insight Program - Sophomore",
+   "location": "Birmingham, AL",
+   "flags": [
+    "Sophomore eligible"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "snippet": "Our early identification program for first-year students and sophomores exploring credit and commercial banking.",
+   "id": "sample-3",
+   "company": "Sample Regional Bank",
+   "url": "https://example.com",
+   "posted": "2026-08-15",
+   "employer_kind": "bank"
+  },
+  {
+   "title": "Accounting Intern",
+   "location": "Pensacola, FL",
+   "flags": [
+    "Clearance needed"
+   ],
+   "bucket": "General Finance & Accounting",
+   "level": "Internship",
+   "snippet": "Pathways internship supporting the comptroller's office. Currently enrolled students. Public trust determination required.",
+   "id": "sample-4",
+   "company": "Sample Federal Agency",
+   "url": "https://example.com",
+   "posted": "2026-08-12",
+   "employer_kind": "government"
+  },
+  {
+   "title": "Financial Analyst I",
+   "location": "Remote",
+   "flags": [
+    "Remote"
+   ],
+   "bucket": "Corporate FP&A",
+   "level": "Entry level",
+   "snippet": "Support budgeting and forecasting. No prior experience required. Financial planning and analysis team.",
+   "id": "sample-5",
+   "company": "Sample Energy Co",
+   "url": "https://example.com",
+   "posted": "2026-08-10",
+   "employer_kind": "corporate"
+  },
+  {
+   "title": "Financial Planning Intern",
+   "location": "Destin, FL",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "snippet": "Support advisors with retirement and wealth planning analysis. Coursework toward CFP a plus.",
+   "id": "sample-6",
+   "company": "Sample Wealth Advisors",
+   "url": "https://example.com",
+   "posted": "2026-08-05",
+   "employer_kind": "wealth"
+  }
+ ]
+}

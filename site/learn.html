@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guides — Argo Internship Board</title>
+<meta name="description" content="Recruiting timelines, interview preparation, and career guidance for finance and accounting students.">
+<style>
+:root{--navy:#041E42;--green:#00AF66;--marigold:#FFB81C;--ink:#0E1726;
+--muted:#5B6675;--line:#DCE1E8;--paper:#F7F8FA;--white:#fff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font:16px/1.55 Arial,Helvetica,sans-serif}
+.wrap{max-width:820px;margin:0 auto;padding:0 20px}
+a{color:var(--navy)}
+:focus-visible{outline:3px solid var(--marigold);outline-offset:2px}
+.bar{background:var(--navy);padding:12px 0}
+.bar .wrap{display:flex;gap:18px;align-items:center}
+.bar a{color:#C7D2E0;text-decoration:none;font-size:13.5px;font-weight:700}
+.bar a:hover,.bar a[aria-current]{color:#fff}
+header.hero{background:var(--navy);color:#fff;padding:12px 0 34px}
+.eyebrow{font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--marigold);font-weight:700;margin:0 0 10px}
+header.hero h1{margin:0;font-size:clamp(26px,4.4vw,40px);letter-spacing:-.02em;line-height:1.1}
+header.hero p{margin:12px 0 0;max-width:56ch;color:#C7D2E0;font-size:15px}
+main{padding:28px 0 60px}
+.card{background:var(--white);border:1px solid var(--line);border-left:3px solid var(--green);
+  border-radius:8px;padding:18px 20px;margin-bottom:12px;
+  box-shadow:0 1px 2px rgba(4,30,66,.06),0 8px 24px -12px rgba(4,30,66,.18)}
+.card h2{margin:0 0 6px;font-size:19px;letter-spacing:-.01em}
+.card h2 a{text-decoration:none}
+.card h2 a:hover{text-decoration:underline}
+.kicker{margin:0 0 8px;font-size:12px;color:var(--muted);
+  text-transform:uppercase;letter-spacing:.08em;font-weight:700}
+.card p.sum{margin:0;color:var(--muted);font-size:14.5px}
+.tags{margin:12px 0 0;display:flex;gap:6px;flex-wrap:wrap}
+.tags span{font-size:11px;font-weight:700;padding:3px 9px;border-radius:99px;
+  background:#E4F6EE;color:#046B45}
+.empty{text-align:center;padding:56px 20px;color:var(--muted)}
+.empty b{display:block;color:var(--ink);font-size:17px;margin-bottom:6px}
+footer{border-top:1px solid var(--line);padding:22px 0 40px;font-size:12.5px;color:var(--muted)}
+</style>
+</head>
+<body>
+
+<nav class="bar"><div class="wrap">
+  <a href="index.html">Board</a>
+  <a href="learn.html" aria-current="page">Guides</a>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <p class="eyebrow">Lewis Bear Jr. College of Business · University of West Florida</p>
+  <h1>Guides</h1>
+  <p>Recruiting timelines, interview preparation, and the things about finance
+     and accounting hiring that nobody tells you until it's too late.</p>
+</div></header>
+
+<main><div class="wrap" id="list"></div></main>
+
+<footer><div class="wrap">
+  Written for UWF finance and accounting students.
+  <a href="index.html">Back to the board</a>.
+</div></footer>
+
+<script>
+const esc = s => String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const nice = d => new Date(d+"T12:00:00").toLocaleDateString("en-US",
+  {year:"numeric",month:"long",day:"numeric"});
+
+fetch("posts.json").then(r=>r.json()).then(data=>{
+  const posts = data.posts || [];
+  const list = document.getElementById("list");
+  if(!posts.length){
+    list.innerHTML = `<div class="empty"><b>No guides published yet.</b>
+      Add a markdown file to the content/ folder and push.</div>`;
+    return;
+  }
+  list.innerHTML = posts.map(p=>`
+    <article class="card">
+      <p class="kicker">${nice(p.date)} · ${p.mins} min read</p>
+      <h2><a href="posts/${esc(p.slug)}.html">${esc(p.title)}</a></h2>
+      ${p.summary?`<p class="sum">${esc(p.summary)}</p>`:""}
+      ${p.tags&&p.tags.length?`<div class="tags">${p.tags.map(t=>`<span>${esc(t)}</span>`).join("")}</div>`:""}
+    </article>`).join("");
+}).catch(()=>{
+  document.getElementById("list").innerHTML =
+    `<div class="empty"><b>Guides didn't load.</b>
+     Run <code>python scripts/build_posts.py</code> and reload.</div>`;
+});
+</script>
+</body>
+</html>
