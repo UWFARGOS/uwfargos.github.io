@@ -10,6 +10,13 @@ on:
     branches: [main]
     paths: ['content/**', 'site/**', 'scripts/**']   # publish a new guide the moment you commit it
 
+# Only one refresh at a time. Without this, two runs finishing together both
+# try to push and the loser fails with "fetch first". Queue them rather than
+# cancelling, so a run that is mid-deploy is never killed.
+concurrency:
+  group: refresh-and-deploy
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pages: write
@@ -20,6 +27,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # full history — a shallow clone cannot rebase
 
       - uses: actions/setup-python@v5
         with:
@@ -37,13 +46,34 @@ jobs:
       - name: Build guides
         run: python scripts/build_posts.py
 
-      - name: Commit if changed
+      - name: Commit and push
         run: |
           git config user.name "argo-bot"
           git config user.email "actions@github.com"
           git add site/jobs.json site/rejected.json site/posts.json site/posts
-          git diff --staged --quiet || git commit -m "Refresh $(date -u +%Y-%m-%d\ %H:%M)"
-          git push
+
+          if git diff --staged --quiet; then
+            echo "Nothing changed — skipping commit."
+            exit 0
+          fi
+
+          git commit -m "Refresh $(date -u +%Y-%m-%d\ %H:%M)"
+
+          # Retry with rebase. Everything staged above is generated output, so
+          # on a conflict our freshly built version is the one to keep. During
+          # a rebase, -X theirs refers to the commit being replayed, i.e. ours.
+          for attempt in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin main; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Attempt $attempt failed — someone pushed first. Retrying."
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+
+          echo "Could not push after 3 attempts."
+          exit 1
 
       - uses: actions/upload-pages-artifact@v3
         with:
