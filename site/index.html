@@ -106,6 +106,7 @@ main{padding:22px 0 60px}
 .card h3 a:hover{text-decoration:underline}
 .org{font-size:13.5px;color:var(--muted);margin:0 0 9px}
 .org b{color:var(--ink);font-weight:700}
+.more{color:var(--green);font-weight:700;font-size:12px}
 .snippet{margin:0;font-size:13.5px;color:var(--muted);line-height:1.5}
 .tags{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 0}
 .tag{font-size:11px;font-weight:700;padding:3px 9px;border-radius:99px;background:#EEF1F6;color:var(--muted)}
@@ -135,7 +136,7 @@ footer{border-top:1px solid var(--line);padding:22px 0 40px;font-size:12.5px;col
   <div class="wrap">
     <p class="eyebrow">Lewis Bear Jr. College of Business · University of West Florida</p>
     <h1>Argo Internship Board</h1>
-    <p>Internships and first jobs in finance and accounting only. Every posting here is screened against its own text, so nothing asking for three years of experience makes it onto the page.</p>
+    <p>United States internships and first jobs in finance and accounting only. Every posting here is screened against its own text, so nothing asking for three years of experience makes it onto the page.</p>
     <p class="meta"><b id="jobCount">—</b> open postings <span>·</span> updated <b id="updated">—</b></p>
   </div>
 </header>
@@ -167,6 +168,7 @@ footer{border-top:1px solid var(--line);padding:22px 0 40px;font-size:12.5px;col
         <option>Entry level</option>
       </select>
       <select id="bucket" aria-label="Filter by field"><option value="">All fields</option></select>
+      <select id="state" aria-label="Filter by state"><option value="">All states</option></select>
       <span class="count" id="count"></span>
     </div>
     <div class="chips" id="chips"></div>
@@ -244,10 +246,12 @@ function render(){
   const q = document.getElementById("q").value.toLowerCase().trim();
   const lvl = document.getElementById("level").value;
   const bkt = document.getElementById("bucket").value;
+  const st  = document.getElementById("state").value;
 
   const hits = JOBS.filter(j=>{
     if(lvl && j.level !== lvl) return false;
     if(bkt && j.bucket !== bkt) return false;
+    if(st && !(j.states||[j.state]).includes(st)) return false;
     for(const f of active) if(!(j.flags||[]).includes(f)) return false;
     if(q && !`${j.title} ${j.company} ${j.location}`.toLowerCase().includes(q)) return false;
     return true;
@@ -272,7 +276,7 @@ function render(){
     ].join("");
     return `<article class="card ${j.level==="Internship"?"internship":""}">
       <h3><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h3>
-      <p class="org"><b>${esc(j.company)}</b>${j.location?" · "+esc(j.location):""}</p>
+      <p class="org"><b>${esc(j.company)}</b>${j.location?" · "+esc(j.location):""}${j.extra_locations?` <span class="more">+${j.extra_locations} more location${j.extra_locations>1?"s":""}</span>`:""}</p>
       ${j.snippet?`<p class="snippet">${esc(j.snippet)}…</p>`:""}
       <div class="tags">${tags}</div>
     </article>`;
@@ -309,11 +313,17 @@ Promise.all([
     const o = document.createElement("option"); o.textContent = b; sel.appendChild(o);
   });
 
+  const stSel = document.getElementById("state");
+  [...new Set(JOBS.flatMap(j=>j.states||[j.state]).filter(Boolean))].sort().forEach(st=>{
+    const o = document.createElement("option"); o.value = st; o.textContent = st;
+    stSel.appendChild(o);
+  });
+
   buildChips();
   drawClock(cal);
   render();
 
-  ["q","level","bucket"].forEach(id=>{
+  ["q","level","bucket","state"].forEach(id=>{
     const el = document.getElementById(id);
     el.addEventListener(id==="q" ? "input" : "change", render);
   });
