@@ -215,37 +215,65 @@ def usajobs(emp):
     """
     key, email = os.environ.get("USAJOBS_KEY"), os.environ.get("USAJOBS_EMAIL")
     if not (key and email):
-        print("  ! skipping USAJOBS — set USAJOBS_KEY and USAJOBS_EMAIL")
-        return []
+        # Raise rather than return [], so the run report shows FAILED with a
+        # reason. Returning an empty list made this look like "answered, but
+        # nothing matched", which sent us chasing the wrong problem.
+        raise RuntimeError(
+            "USAJOBS_KEY / USAJOBS_EMAIL not set. Add them under "
+            "Settings > Secrets and variables > Actions. Key is free from "
+            "developer.usajobs.gov/apirequest")
 
     headers = {"Host": "data.usajobs.gov", "User-Agent": email,
                "Authorization-Key": key}
-    params = {
-        "JobCategoryCode": emp.get("series", "0510;0511;0501;1160"),  # accounting/finance series
-        "LocationName": emp.get("location", ""),
-        "ResultsPerPage": 250,
-        "HiringPath": "student;grad",
+
+    # Only documented parameters, and never send an empty one — an empty
+    # LocationName is not the same as omitting it and can zero out results.
+    # HiringPath was dropped deliberately: it isn't in the documented
+    # parameter set, and the text filter already screens for student and
+    # entry-level roles far more reliably than a facet we're guessing at.
+    base = {
+        "JobCategoryCode": emp.get("series", "0510;0511;0501;1160"),
+        "ResultsPerPage": 500,
     }
-    r = requests.get("https://data.usajobs.gov/api/search", headers=headers,
-                     params=params, timeout=TIMEOUT)
-    r.raise_for_status()
-    items = r.json().get("SearchResult", {}).get("SearchResultItems", [])
-    out = []
-    for it in items:
-        d = it.get("MatchedObjectDescriptor", {})
-        ud = d.get("UserArea", {}).get("Details", {})
-        out.append({
-            "id": f"us-{d.get('PositionID')}",
-            "title": d.get("PositionTitle", ""),
-            "company": d.get("OrganizationName", "Federal Government"),
-            "location": "; ".join(l.get("LocationName", "")
-                                  for l in d.get("PositionLocation", [])[:3]),
-            "url": d.get("PositionURI", ""),
-            "posted": d.get("PublicationStartDate", ""),
-            "description": _clean(" ".join([
-                d.get("QualificationSummary", ""),
-                ud.get("JobSummary", ""), ud.get("Requirements", "")])),
-        })
+    if emp.get("location"):
+        base["LocationName"] = emp["location"]
+    if emp.get("keyword"):
+        base["Keyword"] = emp["keyword"]
+
+    out, page, pages = [], 1, 1
+    while page <= pages and page <= 5:
+        params = dict(base, Page=page)
+        r = requests.get("https://data.usajobs.gov/api/search", headers=headers,
+                         params=params, timeout=TIMEOUT)
+        r.raise_for_status()
+        result = r.json().get("SearchResult", {})
+        items = result.get("SearchResultItems", [])
+        if page == 1:
+            total = int(result.get("SearchResultCountAll", 0) or 0)
+            per = int(base["ResultsPerPage"])
+            pages = max(1, -(-total // per)) if total else 1
+            print(f"  USAJOBS: {total} announcements across {pages} page(s)")
+        if not items:
+            break
+
+        for it in items:
+            d = it.get("MatchedObjectDescriptor", {})
+            ud = d.get("UserArea", {}).get("Details", {})
+            out.append({
+                "id": f"us-{d.get('PositionID')}",
+                "title": d.get("PositionTitle", ""),
+                "company": d.get("OrganizationName", "Federal Government"),
+                "location": "; ".join(l.get("LocationName", "")
+                                      for l in d.get("PositionLocation", [])[:5]),
+                "url": d.get("PositionURI", ""),
+                "posted": d.get("PublicationStartDate", ""),
+                "description": _clean(" ".join([
+                    d.get("QualificationSummary", ""),
+                    ud.get("JobSummary", ""), ud.get("Requirements", ""),
+                    ud.get("Education", "")])),
+            })
+        page += 1
+        time.sleep(PAUSE)
     return out
 
 
