@@ -620,11 +620,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Legal Professional 2 - Strategic Contracting Legal",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -648,6 +643,11 @@
   "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
   "company": "Truist",
   "reason": "senior title"
+ },
+ {
+  "title": "Legal Professional 2 - Strategic Contracting Legal",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Enterprise Resilience Officer I",
@@ -1700,6 +1700,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant",
+  "company": "Bureau of the Fiscal Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Senior Tax Analyst",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -2447,6 +2452,21 @@
  {
   "title": "Supervisory Accountant",
   "company": "Department of State Headquarters",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Deputy Director, Financial Operations, EM-0501-00",
+  "company": "Federal Deposit Insurance Corporation",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Individual Taxpayer Advisory Specialist",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT SPECIALIST",
+  "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
  },
  {

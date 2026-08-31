@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T06:12:56+00:00",
+ "generated": "2026-08-31T12:13:18+00:00",
  "count": 49,
  "jobs": [
   {
@@ -49,33 +49,12 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0118260",
-   "title": "Healthcare Services Group (HSG) Analyst I",
-   "company": "Truist",
-   "location": "Charlotte, NC",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Healthcare-Services-Group--HSG--Analyst-I_R0118260",
-   "posted": "Posted 9 Days Ago",
-   "flags": [],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": "NC",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "states": [
-    "NC"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-truist-R0114407",
    "title": "Process Analyst II",
    "company": "Truist",
    "location": "4 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA---1001-Semmes-Ave---Truist-Plaza-Richmond/Process-Analyst-II_R0114407",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -96,7 +75,7 @@
    "company": "Citi",
    "location": "2 Locations",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Guadalajara-Jalisco-Mexico/Banamex-Asesor-Previsional_26989690",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -117,7 +96,7 @@
    "company": "Regions Bank",
    "location": "Knoxville, TN - Northwest Knoxville Branch",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Knoxville-TN---Northwest-Knoxville-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Nashville-TN_R105548",
-   "posted": "Posted 5 Days Ago",
+   "posted": "Posted 6 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -140,7 +119,7 @@
    "company": "Citi",
    "location": "Houston Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",
@@ -153,6 +132,27 @@
    "states": [
     "TX"
    ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118329",
+   "title": "Financial Crimes Sanctions Analyst II",
+   "company": "Truist",
+   "location": "5 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Financial-Crimes-Sanctions-Analyst-II_R0118329",
+   "posted": "Posted 4 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "5 Locations"
+   ],
+   "states": [],
    "extra_locations": 0
   },
   {
@@ -223,24 +223,24 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0118329",
-   "title": "Financial Crimes Sanctions Analyst II",
-   "company": "Truist",
-   "location": "5 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Financial-Crimes-Sanctions-Analyst-II_R0118329",
+   "id": "wd-citi-26983640",
+   "title": "Markets \u2013 Sales and Trading, Internship, Mexico City, Mexico 2027",
+   "company": "Citi",
+   "location": "THE SUMMIT - CIUDAD DE MEXICO",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Markets---Sales-and-Trading--Internship--Mexico-City--Mexico-2027_26983640",
    "posted": "Posted 3 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
+   "flags": [],
+   "bucket": "Investment Banking & Markets",
+   "level": "Internship",
+   "state": "DE",
    "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "snippet": "About the Program Are you ready to bring your knowledge from the classroom and make an impact on the global financial markets? Citi invites ambitious, innovative, and driven senior students to join our\u00a0Markets Internship Program in Mexico. Our highly competitive Markets Internshi",
    "locations": [
-    "5 Locations"
+    "THE SUMMIT - CIUDAD DE MEXICO"
    ],
-   "states": [],
+   "states": [
+    "DE"
+   ],
    "extra_locations": 0
   },
   {
@@ -249,7 +249,7 @@
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-Intern---Risk-Management--Birmingham--AL_R104915",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -272,7 +272,7 @@
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Finance-Development-Program--Birmingham--AL_R104908",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -295,7 +295,7 @@
    "company": "Regions Bank",
    "location": "2 Locations",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Internal-Audit--Birmingham--AL_R104914",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -317,7 +317,7 @@
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Multiple-Opportunities--Birmingham--AL_R104968",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -340,7 +340,7 @@
    "company": "Regions Bank",
    "location": "Atlanta, GA - Regions Plaza Office",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Atlanta-GA---Regions-Plaza-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Multiple-Opportunities--Atlanta--GA_R104961",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -363,7 +363,7 @@
    "company": "Regions Bank",
    "location": "Charlotte, NC - Charlotte Uptown Branch",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Charlotte-NC---Charlotte-Uptown-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Multiple-Opportunities--Charlotte--NC_R104966",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -386,7 +386,7 @@
    "company": "Regions Bank",
    "location": "Dallas, TX - 17 Seventeen Building Branch",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Dallas-TX---17-Seventeen-Building-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Multiple-Opportunities--Dallas--TX_R104972",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -409,7 +409,7 @@
    "company": "Regions Bank",
    "location": "Nashville, TN - Music Row Branch",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Nashville-TN---Music-Row-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Healthcare-Industries--Nashville--TN_R104974",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -432,7 +432,7 @@
    "company": "Regions Bank",
    "location": "Houston, TX - Regions Houston Headquarters Office",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -455,7 +455,7 @@
    "company": "Regions Bank",
    "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -478,7 +478,7 @@
    "company": "Regions Bank",
    "location": "New Orleans, LA - New Orleans Main Poydras Street Branch",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/New-Orleans-LA---New-Orleans-Main-Poydras-Street-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--New-Orleans--LA_R104979",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -501,7 +501,7 @@
    "company": "Citi",
    "location": "Tampa Florida United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
@@ -522,7 +522,7 @@
    "company": "Citi",
    "location": "Irving Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
@@ -543,7 +543,7 @@
    "company": "Citi",
    "location": "New York New York United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Functions---Internal-Audit--Summer-Analyst--New-York---USA--2027_26951374",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
@@ -564,7 +564,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Analyst-I-or-II---Real-Estate-Investment-Banking_R0116842-1",
-   "posted": "Posted 23 Days Ago",
+   "posted": "Posted 24 Days Ago",
    "flags": [],
    "bucket": "Tax",
    "level": "Entry level",
@@ -585,7 +585,7 @@
    "company": "Regions Bank",
    "location": "5 Locations",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Wealth-Management--Multiple-Opportuniities_R104951",
-   "posted": "Posted 22 Days Ago",
+   "posted": "Posted 23 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -602,33 +602,12 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-26983640",
-   "title": "Markets \u2013 Sales and Trading, Internship, Mexico City, Mexico 2027",
-   "company": "Citi",
-   "location": "THE SUMMIT - CIUDAD DE MEXICO",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Markets---Sales-and-Trading--Internship--Mexico-City--Mexico-2027_26983640",
-   "posted": "Posted 2 Days Ago",
-   "flags": [],
-   "bucket": "Investment Banking & Markets",
-   "level": "Internship",
-   "state": "DE",
-   "employer_kind": "bank",
-   "snippet": "About the Program Are you ready to bring your knowledge from the classroom and make an impact on the global financial markets? Citi invites ambitious, innovative, and driven senior students to join our\u00a0Markets Internship Program in Mexico. Our highly competitive Markets Internshi",
-   "locations": [
-    "THE SUMMIT - CIUDAD DE MEXICO"
-   ],
-   "states": [
-    "DE"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-citi-25926681",
    "title": "Banking - Commercial Banking - Natural Resources & Energy,  Summer Analyst, Houston - US, 2027",
    "company": "Citi",
    "location": "Houston Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Commercial-Banking--Summer-Analyst--Houston---US--2027_25926681",
-   "posted": "Posted 19 Days Ago",
+   "posted": "Posted 20 Days Ago",
    "flags": [],
    "bucket": "Advisory & Consulting",
    "level": "Internship",
@@ -649,7 +628,7 @@
    "company": "Regions Bank",
    "location": "4 Locations",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Atlanta-GA---Regions-Plaza-Office/XMLNAME-2027-CBG-ETP-Analyst---Real-Estate-Banking--Multiple-Opportunities-and-Locations_R105176",
-   "posted": "Posted 18 Days Ago",
+   "posted": "Posted 19 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -671,7 +650,7 @@
    "company": "Truist",
    "location": "3 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA---303-Peachtree-Street---Truist-Plaza/Financial-Crimes-Analyst-I-6_R0117031",
-   "posted": "Posted 17 Days Ago",
+   "posted": "Posted 18 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -692,7 +671,7 @@
    "company": "Regions Bank",
    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -715,7 +694,7 @@
    "company": "Regions Bank",
    "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -738,7 +717,7 @@
    "company": "Regions Bank",
    "location": "Huntsville, AL - Madison Street Branch",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Huntsville-AL---Madison-Street-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Huntsville--AL_R105416",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -752,6 +731,27 @@
    ],
    "states": [
     "AL"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118260",
+   "title": "Healthcare Services Group (HSG) Analyst I",
+   "company": "Truist",
+   "location": "Charlotte, NC",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Healthcare-Services-Group--HSG--Analyst-I_R0118260",
+   "posted": "Posted 10 Days Ago",
+   "flags": [],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "states": [
+    "NC"
    ],
    "extra_locations": 0
   },
