@@ -1,0 +1,33 @@
+name: Find Workday URL
+
+# Run from the Actions tab. Type one or more tenant guesses in the input box,
+# read the working URLs out of the log, paste them into employers.yaml.
+#
+# A "tenant" is the first part of a Workday careers URL:
+#   https://TENANT.wd5.myworkdayjobs.com/en-US/SITE
+# Usually the company name, lowercase, no spaces. Guess a few variants at once
+# if you aren't sure: pwc pwcus pwccareers
+
+on:
+  workflow_dispatch:
+    inputs:
+      tenants:
+        description: "Tenant guesses, space separated (e.g. pwc kpmg deloittecareers)"
+        required: true
+        default: "pwc kpmg ey deloittecareers"
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Probe Workday
+        run: python scripts/discover.py ${{ inputs.tenants }}
