@@ -102,7 +102,13 @@ employers:
   # source: workday
   # careers_url: https://hancockwhitney.wd1.myworkdayjobs.com/en-US/HW_Careers
 
-  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  - name: Truist
+    kind: bank
+    source: workday
+    careers_url: https://truist.wd1.myworkdayjobs.com/en-US/Careers   # CONFIRMED 2026-08-30, 1094 postings
+    search: [intern, internship, campus, graduate, associate, analyst]
+
+  # superseded by the confirmed entry above
   # - name: Truist
   # kind: bank
   # source: workday
@@ -196,16 +202,24 @@ employers:
         cycle: "Opens ~Dec-Jan"
         note: Also runs Advancing Black Pathways and Winning Women sophomore programs.
 
+  # Citi turned up on Workday at wd5. Run Check employer list once to confirm;
+  # if it fails, comment this out and uncomment the manual entry below it.
   - name: Citi
     kind: bank
-    source: manual
-    url: https://jobs.citi.com/campus
-    roles:
-      - title: Summer Analyst Program
-        level: Internship
-        bucket: Investment Banking & Markets
-        location: New York, NY
-        cycle: "Opens ~Dec-Jan"
+    source: workday
+    careers_url: https://citi.wd5.myworkdayjobs.com/en-US/2
+    search: [intern, internship, campus, graduate, analyst]
+
+  # - name: Citi
+  #   kind: bank
+  #   source: manual
+  #   url: https://jobs.citi.com/campus
+  #   roles:
+  #     - title: Summer Analyst Program
+  #       level: Internship
+  #       bucket: Investment Banking & Markets
+  #       location: New York, NY
+  #       cycle: "Opens ~Dec-Jan"
 
   - name: Bank of America
     kind: bank
@@ -245,3 +259,76 @@ employers:
         bucket: Investment Banking & Markets
         location: St. Louis, MO
         cycle: "Opens ~Jan-Mar"
+
+  # =====================================================================
+  # BIG 4 — manual, and this is not going to change
+  # =====================================================================
+  # Verified 2026-08-30: none of these are reachable by public API.
+  #   Deloitte US -> apply.deloitte.com (Avature), no public feed
+  #   EY          -> careers.ey.com (SAP SuccessFactors), no public feed
+  #   KPMG US     -> own system, not on Workday
+  #   PwC US      -> the pwc.wd3 Workday tenant is EUROPEAN (Ireland,
+  #                  Netherlands, Belgium, Luxembourg, Austria, France,
+  #                  Spain, Switzerland, Denmark, Poland). PwC US is not
+  #                  in it. That tenant was the source of the European
+  #                  postings on the board.
+  # Don't spend more time probing these. Link out and keep the cycle notes
+  # current — for these firms the timing is the useful part anyway.
+
+  - name: Deloitte US
+    kind: accounting
+    source: manual
+    url: https://apply.deloitte.com/careers
+    roles:
+      - title: "Audit & Assurance Intern — Financial Statement Audit"
+        level: Internship
+        bucket: Audit & Assurance
+        location: Multiple US locations
+        cycle: "Summer 2027 postings live now"
+      - title: "Discovery Intern (Sophomore/Junior) — Accounting Profile"
+        level: Internship
+        bucket: Audit & Assurance
+        location: Multiple US locations
+        cycle: "Sophomore program — apply early"
+        note: The realistic entry point for a UWF sophomore. Deloitte also runs a Tax version.
+      - title: Tax Consultant Intern
+        level: Internship
+        bucket: Tax
+        location: Multiple US locations
+        cycle: "Summer 2027 postings live now"
+
+  - name: PwC US
+    kind: accounting
+    source: manual
+    url: https://www.pwc.com/us/en/careers/entry-level.html
+    roles:
+      - title: Assurance / Tax / Advisory Internship
+        level: Internship
+        bucket: Audit & Assurance
+        location: Multiple US locations
+        cycle: "Rolling — earliest applicants see the most seats"
+        note: Apply on pwc.com/us, not the global Workday board.
+
+  - name: EY US
+    kind: accounting
+    source: manual
+    url: https://careers.ey.com/ey/search/?q=intern&locationsearch=United+States
+    roles:
+      - title: Assurance / Tax / Consulting Intern
+        level: Internship
+        bucket: Audit & Assurance
+        location: Multiple US locations
+        cycle: "Fall cycle for the following summer"
+        note: One global site — filter to United States using the country facet.
+
+  - name: KPMG US
+    kind: accounting
+    source: manual
+    url: https://www.kpmuscareers.com/campus
+    roles:
+      - title: Audit / Tax / Advisory Internship
+        level: Internship
+        bucket: Audit & Assurance
+        location: Multiple US locations
+        cycle: "Rolling — recruits until filled"
+        note: KPMG recruits on a rolling basis; apply to one role, early.
