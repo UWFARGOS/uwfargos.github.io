@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-31T12:13:18+00:00",
- "count": 49,
+ "generated": "2026-08-31T18:13:22+00:00",
+ "count": 50,
  "jobs": [
   {
    "id": "wd-regions-R105622",
@@ -45,6 +45,27 @@
    ],
    "states": [
     "NC"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118559",
+   "title": "Investment Grade- Debt Capital Markets Analyst I",
+   "company": "Truist",
+   "location": "Atlanta, GA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Grade--Debt-Capital-Markets-Analyst-I_R0118559",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Treasury",
+   "level": "Entry level",
+   "state": "GA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "states": [
+    "GA"
    ],
    "extra_locations": 0
   },
