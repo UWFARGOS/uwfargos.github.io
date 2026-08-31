@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-31T00:10:51+00:00",
- "count": 17,
+ "generated": "2026-08-31T00:18:41+00:00",
+ "count": 27,
  "jobs": [
   {
    "id": "wd-regions-R105548",
@@ -387,6 +387,252 @@
    ],
    "states": [
     "AL"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "us-CARZ-13047008-26-DLe",
+   "title": "Accountant",
+   "company": "Veterans Health Administration",
+   "location": "Roanoke, Virginia",
+   "url": "https://www.usajobs.gov:443/job/882386000",
+   "posted": "2026-08-27T09:36:52.4970",
+   "flags": [
+    "Sophomore eligible"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "VA",
+   "employer_kind": "government",
+   "snippet": "Applicant(s) must meet at least one of the following Basic Requirements to qualify for this Accountant position. A. Bachelor's Degree (or higher) (Transcript Required): accounting; or a degree in a related field such as business administration, finance, or public administration t",
+   "locations": [
+    "Roanoke, Virginia"
+   ],
+   "states": [
+    "VA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "us-EX-26-062-SP",
+   "title": "Financial Analyst (Auditor) Recent Grad",
+   "company": "U.S. International Trade Commission",
+   "location": "Washington, District of Columbia",
+   "url": "https://www.usajobs.gov:443/job/882264300",
+   "posted": "2026-08-26T13:45:38.6100",
+   "flags": [],
+   "bucket": "Corporate FP&A",
+   "level": "Entry level",
+   "state": "WA",
+   "employer_kind": "government",
+   "snippet": "The requirements for this opportunity are simply: Meet the requirements for a Recent Graduate under the Pathways Program Be willing to sign and agree to a Pathways Program agreement developed specifically for you Meet all qualification requirements as of the closing date of this ",
+   "locations": [
+    "Washington, District of Columbia"
+   ],
+   "states": [
+    "WA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "us-C-26-DHA-ACCT-0510-PK",
+   "title": "ACCOUNTANT",
+   "company": "Air Force Civilian Career Training",
+   "location": "Robins AFB, Georgia",
+   "url": "https://www.usajobs.gov:443/job/850125600",
+   "posted": "2025-10-01T00:00:00.0000",
+   "flags": [
+    "Sophomore eligible"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "GA",
+   "employer_kind": "government",
+   "snippet": "Any individual who completed all requirements for a bachelor, masters or doctorate degree from a qualifying educational institution within the previous two years or will complete these requirements by 31 May 2026 meets the basic requirement to apply for the Recent Graduate Progra",
+   "locations": [
+    "Robins AFB, Georgia",
+    "Scott AFB, Illinois",
+    "Hanscom AFB, Massachusetts",
+    "Wright-Patterson AFB, Ohio",
+    "Tinker AFB, Oklahoma"
+   ],
+   "states": [
+    "GA"
+   ],
+   "extra_locations": 4
+  },
+  {
+   "id": "mn-goldman-sachs-1",
+   "title": "Summer Analyst Programme",
+   "company": "Goldman Sachs",
+   "location": "New York, NY",
+   "url": "https://www.goldmansachs.com/careers/students",
+   "posted": "",
+   "level": "Internship",
+   "bucket": "Investment Banking & Markets",
+   "flags": [
+    "Check directly",
+    "Apply early"
+   ],
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "Penultimate-year students. Divisions include IBD, Global Markets, Asset Management.",
+   "cycle": "Opens ~Mar-Jun for the following summer",
+   "locations": [
+    "New York, NY"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "mn-morgan-stanley-1",
+   "title": "Summer Analyst Program",
+   "company": "Morgan Stanley",
+   "location": "New York, NY",
+   "url": "https://www.morganstanley.com/careers/students-graduates",
+   "posted": "",
+   "level": "Internship",
+   "bucket": "Investment Banking & Markets",
+   "flags": [
+    "Check directly",
+    "Apply early"
+   ],
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "Penultimate-year students. Also runs a sophomore Early Insights program.",
+   "cycle": "Opens ~Dec-Jan, closes fast",
+   "locations": [
+    "New York, NY"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "mn-jpmorganchase-1",
+   "title": "Summer Analyst Program",
+   "company": "JPMorganChase",
+   "location": "New York, NY",
+   "url": "https://careers.jpmorgan.com/us/en/students",
+   "posted": "",
+   "level": "Internship",
+   "bucket": "Investment Banking & Markets",
+   "flags": [
+    "Check directly",
+    "Apply early"
+   ],
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "Also runs Advancing Black Pathways and Winning Women sophomore programs.",
+   "cycle": "Opens ~Dec-Jan",
+   "locations": [
+    "New York, NY"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "mn-citi-1",
+   "title": "Summer Analyst Program",
+   "company": "Citi",
+   "location": "New York, NY",
+   "url": "https://jobs.citi.com/campus",
+   "posted": "",
+   "level": "Internship",
+   "bucket": "Investment Banking & Markets",
+   "flags": [
+    "Check directly",
+    "Apply early"
+   ],
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "",
+   "cycle": "Opens ~Dec-Jan",
+   "locations": [
+    "New York, NY"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "mn-bank-of-america-1",
+   "title": "Global Markets / Investment Banking Analyst Program",
+   "company": "Bank of America",
+   "location": "Charlotte, NC",
+   "url": "https://campus.bankofamerica.com",
+   "posted": "",
+   "level": "Internship",
+   "bucket": "Investment Banking & Markets",
+   "flags": [
+    "Check directly",
+    "Apply early"
+   ],
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "Charlotte presence makes this more reachable for Southeast students.",
+   "cycle": "Opens ~Dec-Jan",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "states": [
+    "NC"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "mn-raymond-james-1",
+   "title": "Summer Internship Program",
+   "company": "Raymond James",
+   "location": "St. Petersburg, FL",
+   "url": "https://www.raymondjames.com/careers/campus-recruiting",
+   "posted": "",
+   "level": "Internship",
+   "bucket": "Investment Banking & Markets",
+   "flags": [
+    "Check directly",
+    "Apply early"
+   ],
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Florida headquarters. Realistically the strongest IB target on this list for a UWF student.",
+   "cycle": "Opens ~Aug-Oct",
+   "locations": [
+    "St. Petersburg, FL"
+   ],
+   "states": [
+    "FL"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "mn-stifel-1",
+   "title": "Investment Banking Summer Analyst",
+   "company": "Stifel",
+   "location": "St. Louis, MO",
+   "url": "https://www.stifel.com/careers/campus-recruiting",
+   "posted": "",
+   "level": "Internship",
+   "bucket": "Investment Banking & Markets",
+   "flags": [
+    "Check directly",
+    "Apply early"
+   ],
+   "state": "MO",
+   "employer_kind": "bank",
+   "snippet": "",
+   "cycle": "Opens ~Jan-Mar",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "states": [
+    "MO"
    ],
    "extra_locations": 0
   }
