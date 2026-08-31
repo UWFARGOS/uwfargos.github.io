@@ -48,7 +48,8 @@ a{color:var(--navy)}
 .sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:4px}
 .sec-head h2{margin:0;font-size:17px;letter-spacing:-.01em}
 .sec-head .hint{font-size:13px;color:var(--muted);margin:0}
-.axis{position:relative;height:20px;margin:18px 0 2px;border-bottom:1px solid var(--line)}
+.axis-row{padding:0;border-bottom:0;margin:18px 0 2px}
+.axis{position:relative;height:20px;border-bottom:1px solid var(--line)}
 .tick{position:absolute;top:0;font-size:11px;color:var(--muted);transform:translateX(-50%);white-space:nowrap}
 .tick::after{content:"";position:absolute;left:50%;top:16px;width:1px;height:5px;background:var(--line)}
 .track{display:grid;grid-template-columns:190px 1fr;gap:14px;align-items:center;padding:9px 0;border-bottom:1px solid #EFF2F6}
@@ -151,7 +152,7 @@ footer{border-top:1px solid var(--line);padding:22px 0 40px;font-size:12.5px;col
       <h2 id="clockHead">Recruiting clock</h2>
       <p class="hint">Finance recruits up to 18 months ahead. Find your track, then check what has already closed.</p>
     </div>
-    <div class="axis" id="axis"></div>
+    <div class="track axis-row"><div></div><div class="axis" id="axis"></div></div>
     <div id="tracks"></div>
     <div class="legend">
       <span><i style="background:#00AF66"></i>Open now</span>
