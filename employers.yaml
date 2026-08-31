@@ -12,106 +12,127 @@
 # kind: accounting | bank | corporate | wealth | insurance | government | other
 #   `accounting` matters — it tells the filter that "Associate" is an
 #   entry-level campus title rather than a post-MBA hire.
+#
+# US ONLY: the filter drops non-US postings, but it's far cheaper to not fetch
+# them in the first place. Several large firms run ONE global Workday tenant,
+# so a global careers_url pulls Toronto, London and Bangalore reqs you then
+# throw away. Where a firm has a US-specific career site, point at that — look
+# for "US", "Americas", or "Campus" in the site path. The `search` field also
+# helps: it is passed to Workday as a keyword query.
 
+#
+# STATUS AS OF YOUR LAST RUN: only Regions Bank is confirmed working. Every
+# other Workday entry below returned 404 or 422 and is COMMENTED OUT until you
+# resolve it. This is deliberate — a list of sixteen broken employers produces
+# a red run log every six hours and tells you nothing.
+#
+# To add one back: run the "Find Workday URL" workflow with a tenant guess,
+# paste the URL it prints, and uncomment the entry.
+#
 employers:
 
   # --- Big 4 and national accounting -------------------------------------
-  - name: Deloitte
-    kind: accounting
-    source: workday
-    careers_url: https://deloittecareers.wd1.myworkdayjobs.com/en-US/DeloitteUS
-    search: [intern, internship, campus, graduate, associate, analyst]
-
-  - name: PwC
-    kind: accounting
-    source: workday
-    careers_url: https://pwc.wd3.myworkdayjobs.com/en-US/Campus_Careers
-    search: [intern, internship, campus, graduate, associate, analyst]
-
-  - name: KPMG
-    kind: accounting
-    source: workday
-    careers_url: https://kpmg.wd12.myworkdayjobs.com/en-US/KPMGCareers
-    search: [intern, internship, campus, graduate, associate, analyst]
-
-  - name: EY
-    kind: accounting
-    source: workday
-    careers_url: https://ey.wd3.myworkdayjobs.com/en-US/EY_Campus
-    search: [intern, internship, campus, graduate, associate, analyst]
-
-  - name: RSM US
-    kind: accounting
-    source: workday
-    careers_url: https://rsmus.wd1.myworkdayjobs.com/en-US/RSMCareers
-    search: [intern, internship, campus, graduate, associate, analyst]
-
-  - name: Grant Thornton
-    kind: accounting
-    source: workday
-    careers_url: https://grantthornton.wd1.myworkdayjobs.com/en-US/GT_Careers
-    search: [intern, internship, campus, graduate, associate, analyst]
-
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Deloitte
+  # kind: accounting
+  # source: workday
+  # careers_url: https://deloittecareers.wd1.myworkdayjobs.com/en-US/DeloitteUS
+  # search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: PwC
+  # kind: accounting
+  # source: workday
+  # careers_url: https://pwc.wd3.myworkdayjobs.com/en-US/Campus_Careers  # US campus site, not Global_
+  # search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: KPMG
+  # kind: accounting
+  # source: workday
+  # careers_url: https://kpmg.wd12.myworkdayjobs.com/en-US/KPMGCareers   # verify: check this is the US tenant, not global
+  # search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: EY
+  # kind: accounting
+  # source: workday
+  # careers_url: https://ey.wd3.myworkdayjobs.com/en-US/EY_US_Campus     # verify: EY runs several regional sites
+  # search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: RSM US
+  # kind: accounting
+  # source: workday
+  # careers_url: https://rsmus.wd1.myworkdayjobs.com/en-US/RSMCareers
+  # search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Grant Thornton
+  # kind: accounting
+  # source: workday
+  # careers_url: https://grantthornton.wd1.myworkdayjobs.com/en-US/GT_Careers
+  # search: [intern, internship, campus, graduate, associate, analyst]
   # --- Southeast and Gulf Coast regional accounting -----------------------
   # These are the firms that actually hire UWF accounting majors. Verify each
   # one's platform — several regional firms use iCIMS or Paycom, which have no
   # public feed. Where that's true, list them in manual.yaml instead.
-  - name: Warren Averett
-    kind: accounting
-    source: workday
-    careers_url: https://warrenaverett.wd1.myworkdayjobs.com/en-US/WACareers
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Warren Averett
+  # kind: accounting
+  # source: workday
+  # careers_url: https://warrenaverett.wd1.myworkdayjobs.com/en-US/WACareers
 
-  - name: Carr Riggs & Ingram
-    kind: accounting
-    source: greenhouse
-    token: carrriggsingram
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Carr Riggs & Ingram
+  # kind: accounting
+  # source: greenhouse
+  # token: carrriggsingram
 
-  - name: Forvis Mazars
-    kind: accounting
-    source: workday
-    careers_url: https://forvismazars.wd1.myworkdayjobs.com/en-US/Careers
-    search: [intern, internship, campus, graduate, associate, analyst]
-
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Forvis Mazars
+  # kind: accounting
+  # source: workday
+  # careers_url: https://forvismazars.wd1.myworkdayjobs.com/en-US/Careers
+  # search: [intern, internship, campus, graduate, associate, analyst]
   # --- Banking and credit -------------------------------------------------
   - name: Regions Bank
     kind: bank
     source: workday
     careers_url: https://regions.wd5.myworkdayjobs.com/en-US/Regions_Careers
     search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Hancock Whitney
+  # kind: bank
+  # source: workday
+  # careers_url: https://hancockwhitney.wd1.myworkdayjobs.com/en-US/HW_Careers
 
-  - name: Hancock Whitney
-    kind: bank
-    source: workday
-    careers_url: https://hancockwhitney.wd1.myworkdayjobs.com/en-US/HW_Careers
-
-  - name: Truist
-    kind: bank
-    source: workday
-    careers_url: https://truist.wd1.myworkdayjobs.com/en-US/Truist_Careers
-    search: [intern, internship, campus, graduate, associate, analyst]
-
-  - name: Navy Federal Credit Union
-    kind: bank
-    source: workday
-    careers_url: https://navyfederal.wd1.myworkdayjobs.com/en-US/NFCUCareers
-    search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Truist
+  # kind: bank
+  # source: workday
+  # careers_url: https://truist.wd1.myworkdayjobs.com/en-US/Truist_Careers
+  # search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Navy Federal Credit Union
+  #   kind: bank
+  #   source: workday
+  #   careers_url: https://navyfederal.wd1.myworkdayjobs.com/en-US/NFCUCareers
+  #   search: [intern, internship, campus, graduate, associate, analyst]
 
   # --- Regional corporates ------------------------------------------------
-  - name: NextEra Energy
-    kind: corporate
-    source: workday
-    careers_url: https://nextenergy.wd1.myworkdayjobs.com/en-US/NEE_Careers
-    search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: NextEra Energy
+  # kind: corporate
+  # source: workday
+  # careers_url: https://nextenergy.wd1.myworkdayjobs.com/en-US/NEE_Careers
+  # search: [intern, internship, campus, graduate, associate, analyst]
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Baptist Health Care
+  # kind: corporate
+  # source: workday
+  # careers_url: https://baptisthealthcare.wd1.myworkdayjobs.com/en-US/BHC
 
-  - name: Baptist Health Care
-    kind: corporate
-    source: workday
-    careers_url: https://baptisthealthcare.wd1.myworkdayjobs.com/en-US/BHC
-
-  - name: Ascend Performance Materials
-    kind: corporate
-    source: greenhouse
-    token: ascendmaterials
+  # UNVERIFIED — resolve with the Find Workday URL workflow, then uncomment
+  # - name: Ascend Performance Materials
+  # kind: corporate
+  # source: greenhouse
+  # token: ascendmaterials
 
   # --- Federal ------------------------------------------------------------
   # One entry pulls every federal accounting and finance posting on the
@@ -128,3 +149,99 @@ employers:
     source: usajobs
     series: "0510;0511;0501;1160"
     location: ""
+
+  # =====================================================================
+  # INVESTMENT BANKING
+  # =====================================================================
+  # The bulge brackets have no public feed. These are manual entries: they
+  # show on the board as programs with a link out, not as live req counts.
+  # Verify each URL once, then they need touching maybe twice a year.
+  #
+  # Cycle timing is the real value here — these windows close in weeks, so a
+  # student who knows "opens December" beats one refreshing a job board.
+
+  - name: Goldman Sachs
+    kind: bank
+    source: manual
+    url: https://www.goldmansachs.com/careers/students
+    roles:
+      - title: Summer Analyst Programme
+        level: Internship
+        bucket: Investment Banking & Markets
+        location: New York, NY
+        cycle: "Opens ~Mar-Jun for the following summer"
+        note: Penultimate-year students. Divisions include IBD, Global Markets, Asset Management.
+
+  - name: Morgan Stanley
+    kind: bank
+    source: manual
+    url: https://www.morganstanley.com/careers/students-graduates
+    roles:
+      - title: Summer Analyst Program
+        level: Internship
+        bucket: Investment Banking & Markets
+        location: New York, NY
+        cycle: "Opens ~Dec-Jan, closes fast"
+        note: Penultimate-year students. Also runs a sophomore Early Insights program.
+
+  - name: JPMorganChase
+    kind: bank
+    source: manual
+    url: https://careers.jpmorgan.com/us/en/students
+    roles:
+      - title: Summer Analyst Program
+        level: Internship
+        bucket: Investment Banking & Markets
+        location: New York, NY
+        cycle: "Opens ~Dec-Jan"
+        note: Also runs Advancing Black Pathways and Winning Women sophomore programs.
+
+  - name: Citi
+    kind: bank
+    source: manual
+    url: https://jobs.citi.com/campus
+    roles:
+      - title: Summer Analyst Program
+        level: Internship
+        bucket: Investment Banking & Markets
+        location: New York, NY
+        cycle: "Opens ~Dec-Jan"
+
+  - name: Bank of America
+    kind: bank
+    source: manual
+    url: https://campus.bankofamerica.com
+    roles:
+      - title: Global Markets / Investment Banking Analyst Program
+        level: Internship
+        bucket: Investment Banking & Markets
+        location: Charlotte, NC
+        cycle: "Opens ~Dec-Jan"
+        note: Charlotte presence makes this more reachable for Southeast students.
+
+  # --- Middle market and regional — far better odds for a non-target student,
+  # --- and several of these DO have fetchable feeds. Try the discovery tool
+  # --- on the tenant guesses in the comments before settling for manual.
+  - name: Raymond James
+    kind: bank
+    source: manual
+    url: https://www.raymondjames.com/careers/campus-recruiting
+    roles:
+      - title: Summer Internship Program
+        level: Internship
+        bucket: Investment Banking & Markets
+        location: St. Petersburg, FL
+        cycle: "Opens ~Aug-Oct"
+        note: Florida headquarters. Realistically the strongest IB target on this list for a UWF student.
+
+  # try discovery: stifel  piper  bairdcareers  jefferies  hlhz
+  - name: Stifel
+    kind: bank
+    source: manual
+    url: https://www.stifel.com/careers/campus-recruiting
+    roles:
+      - title: Investment Banking Summer Analyst
+        level: Internship
+        bucket: Investment Banking & Markets
+        location: St. Louis, MO
+        cycle: "Opens ~Jan-Mar"
