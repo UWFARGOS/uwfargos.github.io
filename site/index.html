@@ -101,12 +101,16 @@ main{padding:22px 0 60px}
   border-radius:8px;padding:16px 18px;margin-bottom:10px;box-shadow:var(--shadow)
 }
 .card.internship{border-left-color:var(--green)}
+.card.program{border-left-color:var(--marigold)}
 .card h3{margin:0 0 4px;font-size:16.5px;letter-spacing:-.01em}
 .card h3 a{text-decoration:none}
 .card h3 a:hover{text-decoration:underline}
 .org{font-size:13.5px;color:var(--muted);margin:0 0 9px}
 .org b{color:var(--ink);font-weight:700}
 .more{color:var(--green);font-weight:700;font-size:12px}
+.cycle{margin:0 0 8px;font-size:13px;font-weight:700;color:#8A5A00;
+  background:#FFF6E3;border-left:3px solid var(--marigold);
+  padding:6px 10px;border-radius:0 5px 5px 0}
 .snippet{margin:0;font-size:13.5px;color:var(--muted);line-height:1.5}
 .tags{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 0}
 .tag{font-size:11px;font-weight:700;padding:3px 9px;border-radius:99px;background:#EEF1F6;color:var(--muted)}
@@ -274,10 +278,11 @@ function render(){
       `<span class="tag bucket">${esc(j.bucket)}</span>`,
       ...(j.flags||[]).map(f=>`<span class="tag ${warn.has(f)?"warn":""}">${esc(f)}</span>`)
     ].join("");
-    return `<article class="card ${j.level==="Internship"?"internship":""}">
+    return `<article class="card ${(j.flags||[]).includes("Check directly")?"program":(j.level==="Internship"?"internship":"")}">
       <h3><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h3>
       <p class="org"><b>${esc(j.company)}</b>${j.location?" · "+esc(j.location):""}${j.extra_locations?` <span class="more">+${j.extra_locations} more location${j.extra_locations>1?"s":""}</span>`:""}</p>
-      ${j.snippet?`<p class="snippet">${esc(j.snippet)}…</p>`:""}
+      ${j.cycle?`<p class="cycle">${esc(j.cycle)}</p>`:""}
+      ${j.snippet?`<p class="snippet">${esc(j.snippet)}</p>`:""}
       <div class="tags">${tags}</div>
     </article>`;
   }).join("");
