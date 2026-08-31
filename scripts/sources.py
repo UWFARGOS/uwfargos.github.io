@@ -249,6 +249,38 @@ def usajobs(emp):
     return out
 
 
+def manual(emp):
+    """
+    Hand-maintained entries for employers with no public feed.
+
+    The bulge brackets are the reason this exists. Goldman, Morgan Stanley and
+    JPMorgan don't expose campus roles through any public API, and no amount of
+    probing changes that. But a student still needs to know the program exists
+    and roughly when it opens — arguably more than they need a live req count,
+    since these cycles close in weeks.
+
+    Entries carry an explicit level and bucket and skip the text filter, since
+    there is no posting text to screen. They render on the board with a
+    "Check directly" flag so nobody mistakes them for a live listing.
+    """
+    out = []
+    for i, role in enumerate(emp.get("roles", []), 1):
+        out.append({
+            "id": f"mn-{emp['name'].lower().replace(' ', '-')}-{i}",
+            "title": role["title"],
+            "company": emp["name"],
+            "location": role.get("location", ""),
+            "url": role.get("url") or emp.get("url", ""),
+            "posted": "",
+            "description": role.get("note") or emp.get("note", ""),
+            "_manual": True,
+            "_level": role.get("level", "Internship"),
+            "_bucket": role.get("bucket", "Investment Banking & Markets"),
+            "_cycle": role.get("cycle", ""),
+        })
+    return out
+
+
 ADAPTERS = {
     "greenhouse": greenhouse,
     "lever": lever,
@@ -256,4 +288,5 @@ ADAPTERS = {
     "workable": workable,
     "workday": workday,
     "usajobs": usajobs,
+    "manual": manual,
 }

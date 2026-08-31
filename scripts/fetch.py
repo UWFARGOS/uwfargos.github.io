@@ -20,7 +20,7 @@ import yaml
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from sources import ADAPTERS          # noqa: E402
-from filters import classify          # noqa: E402
+from filters import classify, us_location  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "site" / "jobs.json"
@@ -108,6 +108,20 @@ def main():
 
         n_kept = 0
         for job in raw:
+            if job.pop("_manual", False):
+                # No posting text to screen, so the filter would reject it.
+                job["level"] = job.pop("_level")
+                job["bucket"] = job.pop("_bucket")
+                cycle = job.pop("_cycle", "")
+                job["flags"] = ["Check directly"] + (["Apply early"] if cycle else [])
+                verdict, job["state"] = us_location(job.get("location"))
+                job["employer_kind"] = emp.get("kind", "other")
+                job["snippet"] = (job.pop("description") or "")[:280]
+                job["cycle"] = cycle
+                kept.append(job)
+                n_kept += 1
+                continue
+
             job = classify(job, emp.get("kind", "other"), args.max_years,
                            us_only=not args.allow_non_us,
                            keep_ambiguous_location=not args.strict_location)
