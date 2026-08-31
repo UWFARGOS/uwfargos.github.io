@@ -1,7 +1,53 @@
 {
- "generated": "2026-08-31T00:57:06+00:00",
- "count": 47,
+ "generated": "2026-08-31T06:12:56+00:00",
+ "count": 49,
  "jobs": [
+  {
+   "id": "wd-regions-R105622",
+   "title": "2027 ETP Intern - Corporate Banking Group, Capital Markets, Charlotte, NC",
+   "company": "Regions Bank",
+   "location": "Charlotte, NC - Charlotte Uptown Branch",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Charlotte-NC---Charlotte-Uptown-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Capital-Markets--Charlotte--NC_R105622",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Treasury",
+   "level": "Internship",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Charlotte, NC - Charlotte Uptown Branch"
+   ],
+   "states": [
+    "NC"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R105648",
+   "title": "2027 ETP Intern - Corporate Banking Group, Commercial Credit Products, Charlotte, NC",
+   "company": "Regions Bank",
+   "location": "Charlotte, NC - Charlotte Uptown Branch",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Charlotte-NC---Charlotte-Uptown-Branch/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Charlotte--NC_R105648",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Charlotte, NC - Charlotte Uptown Branch"
+   ],
+   "states": [
+    "NC"
+   ],
+   "extra_locations": 0
+  },
   {
    "id": "wd-truist-R0118260",
    "title": "Healthcare Services Group (HSG) Analyst I",

@@ -105,16 +105,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Contact Center Banker - SLC, Utah",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Bilingual Contact Center Banker-  Hoover, AL: Nashville, TN",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wealth Management Centralized Trading Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -216,11 +206,6 @@
  },
  {
   "title": "Accounting Policy Controller Associate",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Associate Financial Consultant - RIS",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -436,6 +421,11 @@
  },
  {
   "title": "Digital Product Analyst [On-Site]",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Government & Institutional Banking Credit Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -1280,6 +1270,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Supervisory Financial Specialist (MSP) - Temporary NTE 1 Year, MBE up to 5 Years, MBMP",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -1705,11 +1700,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Accountant",
-  "company": "Bureau of the Fiscal Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Tax Analyst",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -1810,6 +1800,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Recreation Fee Specialist",
+  "company": "National Park Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Assistant Finance Officer",
   "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
@@ -1865,11 +1860,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "Washington Headquarters Services",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Supervisory Accountant",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -1915,11 +1905,6 @@
   "reason": "requires 4+ years experience"
  },
  {
-  "title": "Accountant GS-0510-13/14 FPL GS-14 (MP)",
-  "company": "Department of Education Headquarters",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Accountant",
   "company": "Employment and Training Administration",
   "reason": "no internship or entry-level signal"
@@ -1962,16 +1947,6 @@
  {
   "title": "Financial Specialist",
   "company": "U.S. Marshals Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Resource Management Officer",
-  "company": "HQDA Field Operating Agencies and Staff Support Agencies",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Resource Management Officer",
-  "company": "HQDA Field Operating Agencies and Staff Support Agencies",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2265,8 +2240,18 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant",
+  "company": "Drug Enforcement Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Uniform Business Office Analyst",
   "company": "Military Treatment Facilities under DHA",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Specialist",
+  "company": "Drug Enforcement Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2365,6 +2350,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Management Analyst",
+  "company": "Washington Headquarters Services",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Business Administrator",
   "company": "Bureau of Prisons/Federal Prison System",
   "reason": "no internship or entry-level signal"
@@ -2375,8 +2365,38 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Financial Management Officer",
+  "company": "Department of State Headquarters",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT SPECIALIST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SYSTEMS ANALYST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Analyst",
+  "company": "U.S. Army Corps of Engineers",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Accountant",
   "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant - Technical Career Field (TCF) Trainee",
+  "company": "Veterans Health Administration",
+  "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2425,6 +2445,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Accountant",
+  "company": "Department of State Headquarters",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2461,11 +2486,6 @@
  },
  {
   "title": "Officer - Ops Sup Intermed Analyst (IBCO)",
-  "company": "Citi",
-  "reason": "outside the US (Taguig  Philippines)"
- },
- {
-  "title": "Execution and Relationship Manager (ERM) \u2013 International East, Assistant Vice President",
   "company": "Citi",
   "reason": "outside the US (Taguig  Philippines)"
  },
