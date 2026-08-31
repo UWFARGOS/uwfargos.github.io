@@ -40,7 +40,10 @@ SITE_TEMPLATES = [
     "{t}Careers", "{t}_Careers", "{T}_External_Career_Site",
     "{t}_External", "Global_Careers", "GlobalCareers",
     "Campus", "CampusCareers", "Campus_Careers", "US_Campus",
-    "Experienced", "Professional", "Search", "careers",
+    "Global_Campus_Careers", "GlobalCampusCareers", "Campus_Recruiting",
+    "US_External_Career_Site", "External_Career_Site_US", "USCareers",
+    "US_Careers", "Early_Careers", "EarlyCareers", "Students",
+    "Experienced", "Professional", "Search", "careers", "1", "2",
 ]
 
 SENTINEL = "ZzNotARealCareerSite"
@@ -62,8 +65,8 @@ def find_data_centre(session, tenant):
     """Sweep wdN until one answers 404 (real tenant) rather than 422."""
     for dc in DATA_CENTRES:
         code, _ = _post(session, tenant, dc, SENTINEL)
-        if code == 404:
-            print(f"    {dc}: 404 -> tenant exists here")
+        if code in (404, 401):
+            print(f"    {dc}: {code} -> tenant exists here")
             return dc
         if code == 200:
             print(f"    {dc}: 200 on sentinel (unexpected) -> treating as live")
