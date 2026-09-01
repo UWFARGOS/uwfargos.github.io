@@ -625,11 +625,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Legal Professional 2 - Technology",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -648,6 +643,11 @@
   "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
   "company": "Truist",
   "reason": "senior title"
+ },
+ {
+  "title": "Legal Professional 2 - Technology",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Enterprise Resilience Officer I",
@@ -671,11 +671,6 @@
  },
  {
   "title": "Senior Enterprise Data Risk Oversight Manager",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wholesale Payments Dedicated Support Specialist",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -866,11 +861,6 @@
  },
  {
   "title": "Branch Leader I/II - Frankford Branch",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Leader I/II - Carlisle",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2180,6 +2170,11 @@
   "reason": "requires 3+ years experience"
  },
  {
+  "title": "Auditor / Senior Auditor",
+  "company": "House of Representatives",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "SENIOR FINANCIAL MANAGER",
   "company": "Air Force Elements, U.S. Central Command",
   "reason": "no internship or entry-level signal"
@@ -2377,6 +2372,21 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Naval Air Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Accountant, CG-0510-14",
+  "company": "Federal Deposit Insurance Corporation",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "U.S. Army Corps of Engineers",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY AUDITOR (FAO Supervisor)",
+  "company": "Defense Contract Audit Agency",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2850,6 +2860,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "GenAI Developer",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
   "title": "Mehnaty Graduate Program (UAE Nationals Only)",
   "company": "Citi",
   "reason": "outside the US (Dubai United Arab Emirates)"
@@ -3045,11 +3060,6 @@
   "reason": "outside the US (Pune Maharashtra India)"
  },
  {
-  "title": "Senior Business Analyst - Vice President",
-  "company": "Citi",
-  "reason": "outside the US (London  United Kingdom)"
- },
- {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
@@ -3163,5 +3173,10 @@
   "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "Valuation Control Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
  }
 ]
