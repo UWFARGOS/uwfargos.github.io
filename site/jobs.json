@@ -1,7 +1,51 @@
 {
- "generated": "2026-08-31T18:13:22+00:00",
- "count": 50,
+ "generated": "2026-09-01T00:20:59+00:00",
+ "count": 52,
  "jobs": [
+  {
+   "id": "wd-regions-R105681",
+   "title": "2027 ETP Intern - Human Resources, Multiple Opportunities, Birmingham, AL",
+   "company": "Regions Bank",
+   "location": "3 Locations",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Human-Resources--Multiple-Opportunities--Birmingham--AL_R105681",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R105679",
+   "title": "2027 ETP Intern - Human Resources Data and Analytics, Birmingham, AL",
+   "company": "Regions Bank",
+   "location": "3 Locations",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Human-Resources-Data-and-Analytics--Birmingham--AL_R105679",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-regions-R105622",
    "title": "2027 ETP Intern - Corporate Banking Group, Capital Markets, Charlotte, NC",
@@ -356,6 +400,52 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-regions-R104973",
+   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Energy & Natural Resources Group, Houston, TX",
+   "company": "Regions Bank",
+   "location": "Houston, TX - Regions Houston Headquarters Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
+   "posted": "Posted 26 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Houston, TX - Regions Houston Headquarters Office"
+   ],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R104978",
+   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
+   "company": "Regions Bank",
+   "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
+   "posted": "Posted 26 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
+   ],
+   "states": [
+    "FL"
+   ],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-regions-R104961",
    "title": "2027 ETP Intern - Corporate Banking Group, Multiple Opportunities, Atlanta, GA",
    "company": "Regions Bank",
@@ -444,52 +534,6 @@
    ],
    "states": [
     "TN"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R104973",
-   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Energy & Natural Resources Group, Houston, TX",
-   "company": "Regions Bank",
-   "location": "Houston, TX - Regions Houston Headquarters Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
-   "posted": "Posted 26 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Houston, TX - Regions Houston Headquarters Office"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R104978",
-   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
-   "company": "Regions Bank",
-   "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
-   "posted": "Posted 26 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
-   ],
-   "states": [
-    "FL"
    ],
    "extra_locations": 0
   },

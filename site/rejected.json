@@ -40,6 +40,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Relationship Banker I - One Hundred Oaks Branch",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "IT Senior Audit Director",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -86,21 +91,6 @@
  },
  {
   "title": "Bilingual Priority Banker - Flex opportunity",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Trust Relationship Specialist - Natural Resources and Real Estate",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Fiduciary Review Specialist",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Contact Center Fraud Representative - Onsite Hoover, AL",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -485,6 +475,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Fiduciary Review Specialist",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Credit Products Real Estate Product Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -530,11 +525,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Syndicated & Leveraged Finance Associate I/II",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Principal Executive Leadership Consultant",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -550,12 +540,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Brokerage Registered Client Service Associate - Maryland",
+  "title": "Syndicated & Leveraged Finance Associate I/II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Learning & Instruction Consultant- Sales Leadership Facilitator",
+  "title": "Brokerage Registered Client Service Associate - Maryland",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -610,17 +600,22 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Controls Monitoring and Testing Consultant I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
   "company": "Truist",
   "reason": "requires 3+ years experience"
  },
  {
-  "title": "Deposit Pricing Analyst",
+  "title": "Deposit Pricing Analytics Consultant",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Controls Monitoring and Testing Consultant I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Product Owner- Agile",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -645,7 +640,7 @@
   "reason": "senior title"
  },
  {
-  "title": "Deposit Pricing Analytics Consultant",
+  "title": "Legal Professional 2 - Risk & Policy",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -660,7 +655,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Product Owner- Agile",
+  "title": "Data Risk Oversight Senior Specialist",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -670,12 +665,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Legal Professional 2 - Strategic Contracting Legal",
+  "title": "Legal Professional 2 - Technology",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Legal Professional 2 - Technology",
+  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1075,11 +1070,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "ATM Operations Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1166,6 +1156,16 @@
  },
  {
   "title": "Senior Product Analyst - Deposits - Small Business",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Advice and Financial Planning Wealth Management Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Deposits Product Senior Analyst- Debit Card Solutions",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1281,6 +1281,11 @@
  },
  {
   "title": "Supervisory Financial Specialist (MSP) - Temporary NTE 1 Year, MBE up to 5 Years, MBMP",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Management Analyst (Finance Section Chief)",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
@@ -2355,11 +2360,6 @@
   "reason": "requires 3+ years experience"
  },
  {
-  "title": "Auditor / Senior Auditor",
-  "company": "House of Representatives",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Supervisory Accountant- Recruitment/Relocation Incentive",
   "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
@@ -2502,6 +2502,31 @@
  {
   "title": "Supervisory Financial Specialist",
   "company": "Small Business Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Management Analyst (Finance Section Chief)",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Business Manager/Budget Analyst, SYD 80",
+  "company": "Space Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Air National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant (Staff)",
+  "company": "U.S. Army Corps of Engineers",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Chief Financial Management NF-04",
+  "company": "United States Army Installation Management Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -3058,11 +3083,6 @@
   "title": "Operations -Markets Operations Fulltime Analyst , Boston Career Forum in 2026, Tokyo - Japan, 2027",
   "company": "Citi",
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
- },
- {
-  "title": "Banamex Servicio a Clientes Afore",
-  "company": "Citi",
-  "reason": "outside the US (Monterrey Nuevo Leon Mexico)"
  },
  {
   "title": "Banamex Servicio a Clientes Afore",
