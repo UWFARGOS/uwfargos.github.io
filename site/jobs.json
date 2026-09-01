@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-01T12:18:23+00:00",
- "count": 53,
+ "generated": "2026-09-01T18:19:02+00:00",
+ "count": 55,
  "jobs": [
   {
    "id": "wd-regions-R105681",
@@ -126,6 +126,48 @@
    ],
    "bucket": "Wealth & Financial Planning",
    "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118658",
+   "title": "2027 Wealth Analyst Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0115681",
+   "title": "Commercial & Specialized Industries Analyst II",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Commercial---Specialized-Industries-Analyst-II_R0115681-1",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
    "state": null,
    "employer_kind": "bank",
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
