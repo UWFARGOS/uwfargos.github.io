@@ -595,12 +595,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Legal Professional 2 - Risk & Policy",
+  "title": "Controls Monitoring and Testing Consultant I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Controls Monitoring and Testing Consultant I",
+  "title": "Legal Professional 2 - Risk & Policy",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1241,11 +1241,6 @@
  },
  {
   "title": "Supervisory Financial Management Analyst (Finance Section Chief)",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Tax Analyst",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
@@ -2345,11 +2340,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Tax Analyst",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Auditor (Financial)",
   "company": "Office of the Inspector General",
   "reason": "no internship or entry-level signal"
@@ -2380,14 +2370,19 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Auditor",
+  "company": "Offices, Boards and Divisions",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Director, International Data Strategy & Execution\u00a0",
+  "title": "",
   "company": "Citi",
-  "reason": "outside the US (London  United Kingdom)"
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "International Strategic Program Manager - Vice President",
@@ -2820,6 +2815,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Clickstream Digital Specialized Analytics Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Bangalore Karnataka India)"
+ },
+ {
   "title": "CBNA and US Entities Treasury Management - Business Execution and Governance Lead Analyst VP/C13 - GETZVILLE",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -3035,16 +3035,6 @@
   "reason": "outside the US (Gurugram Haryana India)"
  },
  {
-  "title": "Product Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Gurugram Haryana India)"
- },
- {
-  "title": "Product Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Gurugram Haryana India)"
- },
- {
   "title": "Quality Analyst",
   "company": "Citi",
   "reason": "outside the US (Pune Maharashtra India)"
@@ -3168,5 +3158,10 @@
   "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
+ },
+ {
+  "title": "Fraud Ops Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  }
 ]
