@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-01T18:19:02+00:00",
- "count": 55,
+ "generated": "2026-09-02T00:22:48+00:00",
+ "count": 56,
  "jobs": [
   {
    "id": "wd-regions-R105681",
@@ -93,27 +93,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0118559",
-   "title": "Investment Grade- Debt Capital Markets Analyst I",
-   "company": "Truist",
-   "location": "Atlanta, GA",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Grade--Debt-Capital-Markets-Analyst-I_R0118559",
-   "posted": "Posted Yesterday",
-   "flags": [],
-   "bucket": "Treasury",
-   "level": "Entry level",
-   "state": "GA",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "states": [
-    "GA"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-truist-R0118659",
    "title": "2027 Wealth Internship Program",
    "company": "Truist",
@@ -133,6 +112,27 @@
     "2 Locations"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118559",
+   "title": "Investment Grade- Debt Capital Markets Analyst I",
+   "company": "Truist",
+   "location": "Atlanta, GA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Grade--Debt-Capital-Markets-Analyst-I_R0118559",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Treasury",
+   "level": "Entry level",
+   "state": "GA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "states": [
+    "GA"
+   ],
    "extra_locations": 0
   },
   {
@@ -331,6 +331,27 @@
    "extra_locations": 2
   },
   {
+   "id": "wd-citi-26982615",
+   "title": "Cash and Trade Processing Associate Analyst Two",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Cash-and-Trade-Processing-Associate-Analyst-Two_26982615",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [],
+   "bucket": "Advisory & Consulting",
+   "level": "Entry level",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "The Cash & Trade Proc Assoc Analyst 2 is an entry level role responsible for assisting the function with any projects and initiatives related to cash management in coordination with the Transaction Services team. You'll learn the ins-and-outs of treasury solutions and gain hands-",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
+   ],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-citi-25913692",
    "title": "Customer Solutions Officer",
    "company": "Citi",
@@ -464,52 +485,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-regions-R104973",
-   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Energy & Natural Resources Group, Houston, TX",
-   "company": "Regions Bank",
-   "location": "Houston, TX - Regions Houston Headquarters Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
-   "posted": "Posted 27 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Houston, TX - Regions Houston Headquarters Office"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R104978",
-   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
-   "company": "Regions Bank",
-   "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
-   "posted": "Posted 27 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
-   ],
-   "states": [
-    "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-regions-R104961",
    "title": "2027 ETP Intern - Corporate Banking Group, Multiple Opportunities, Atlanta, GA",
    "company": "Regions Bank",
@@ -598,6 +573,52 @@
    ],
    "states": [
     "TN"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R104973",
+   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Energy & Natural Resources Group, Houston, TX",
+   "company": "Regions Bank",
+   "location": "Houston, TX - Regions Houston Headquarters Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
+   "posted": "Posted 27 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Houston, TX - Regions Houston Headquarters Office"
+   ],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R104978",
+   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
+   "company": "Regions Bank",
+   "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
+   "posted": "Posted 27 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
+   ],
+   "states": [
+    "FL"
    ],
    "extra_locations": 0
   },

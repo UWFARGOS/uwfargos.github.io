@@ -35,11 +35,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Relationship Banker I - Busch Dr",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Relationship Banker I - One Hundred Oaks Branch",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -51,6 +46,11 @@
  },
  {
   "title": "Technology Field Services Technician",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Technology Services Help Desk Technician",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -150,16 +150,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Commercial Relationship Manager",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Commercial Relationship Manager",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "2027 ETP Analyst - Finance Development Program, Birmingham, AL",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -186,11 +176,6 @@
  },
  {
   "title": "Solar Finance Associate",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Associate Financial Consultant",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -246,6 +231,11 @@
  },
  {
   "title": "Real Estate Banking Associate- Income Property Finance",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "DE Certified FHA Appraisal Review Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -365,7 +355,22 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Incentive Analyst",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "SEC Reporting Analyst",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Valuation Analyst",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Ascentium Credit Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -415,11 +420,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Digital Product Analyst [On-Site]",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Government & Institutional Banking Credit Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -451,11 +451,6 @@
  },
  {
   "title": "Business Systems Analyst - Mortgage and Home Equity",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Data Governance Analyst/BI Developer - Salt Lake, UT",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -655,11 +650,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Data Risk Oversight Senior Specialist",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -671,6 +661,11 @@
  },
  {
   "title": "Senior Enterprise Data Risk Oversight Manager",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Wholesale Payments Dedicated Support Specialist",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -985,11 +980,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Associate Software Engineer--UiPath Platform",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Sport & Entertainment Group Wealth Advisor Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1016,6 +1006,11 @@
  },
  {
   "title": "Brokerage Client Service Associate - Charleston, West Virginia",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Equity Research Associate - (Government and Waste Services)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2410,6 +2405,26 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Auditor (Financial)",
+  "company": "Office of the Inspector General",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Business Systems Analyst",
+  "company": "U.S. Army Corps of Engineers",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Immediate Office of the Assistant Secretary for Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2618,11 +2633,6 @@
   "title": "Corporate Banking - Summer Internship Program, Tokyo - Japan, 2027",
   "company": "Citi",
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
- },
- {
-  "title": "Markets \u2013 Business Management, Internship, S\u00e3o Paulo - Brazil, 2026",
-  "company": "Citi",
-  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
  },
  {
   "title": "Banking \u2013 Corporate Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2026",
@@ -2978,6 +2988,11 @@
   "title": "Banamex Servicio a Clientes Afore",
   "company": "Citi",
   "reason": "outside the US (Monterrey Nuevo Leon Mexico)"
+ },
+ {
+  "title": "Banamex Servicio a Clientes Afore",
+  "company": "Citi",
+  "reason": "outside the US (Tlaxcala Tlaxcala Mexico)"
  },
  {
   "title": "GSMG Research Senior Associate  / Commercial MBS",
