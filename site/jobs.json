@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-02T12:18:55+00:00",
- "count": 57,
+ "generated": "2026-09-02T18:18:32+00:00",
+ "count": 64,
  "jobs": [
   {
    "id": "wd-truist-R0118659",
@@ -85,6 +85,182 @@
     "2 Locations"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0110096",
+   "title": "2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta",
+   "company": "Truist",
+   "location": "Atlanta, GA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Analyst-Program--Internship----Atlanta_R0110096",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": "GA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "states": [
+    "GA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0110097",
+   "title": "2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Chicago",
+   "company": "Truist",
+   "location": "Chicago, IL",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Chicago-IL/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Analyst-Program--Internship----Chicago_R0110097",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": "IL",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "states": [
+    "IL"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0109960",
+   "title": "2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - New York City - Multiple Groups",
+   "company": "Truist",
+   "location": "New York, NY",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Analyst-Program--Internship----New-York-City---Multiple-Groups_R0109960",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "New York, NY"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118765",
+   "title": "2027 Truist Securities - Capital Markets - Financial Risk Management Summer Analyst Program (Internship) - Charlotte, NC",
+   "company": "Truist",
+   "location": "Charlotte, NC",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Securities---Capital-Markets---Financial-Risk-Management-Summer-Analyst-Program--Internship----Charlotte--NC_R0118765-1",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Treasury",
+   "level": "Internship",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "states": [
+    "NC"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-25926683",
+   "title": "Banking - Commercial Banking, Summer Analyst, San Francisco - US, 2027",
+   "company": "Citi",
+   "location": "San Francisco California United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Banking---Commercial-Banking--Summer-Analyst--San-Francisco---US--2027_25926683",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "CA",
+   "employer_kind": "bank",
+   "snippet": "You \u2019 re the brains behind our work. Citi\u2019s Commercial Bank (\u201cCCB\u201d) is looking for Summer Analysts to join our team. Our Commercial Banking division works with businesses with annual sales ranging from $10 million to more than $3 billion. Our Commercial Banking Team works to find",
+   "locations": [
+    "San Francisco California United States"
+   ],
+   "states": [
+    "CA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26947566",
+   "title": "Banking - Commercial Banking, Summer Analyst, Los Angeles - US, 2027",
+   "company": "Citi",
+   "location": "Los Angeles California United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Los-Angeles-California-United-States/Banking---Commercial-Banking--Summer-Analyst--Los-Angeles---US--2027_26947566",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "CA",
+   "employer_kind": "bank",
+   "snippet": "You\u2019re the brains behind our work. Citi\u2019s Commercial Bank (\u201cCCB\u201d) is looking for Summer Analysts to join our team. Our Commercial Banking division works with businesses with annual sales ranging from $10 million to more than $3 billion. Our Commercial Banking Team works to find w",
+   "locations": [
+    "Los Angeles California United States"
+   ],
+   "states": [
+    "CA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26955711",
+   "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
+   "company": "Citi",
+   "location": "Getzville New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Buffalo office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the ",
+   "locations": [
+    "Getzville New York United States"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26955971",
+   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
+   "company": "Citi",
+   "location": "Irving Texas United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Irving office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the f",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "states": [
+    "TX"
+   ],
    "extra_locations": 0
   },
   {
@@ -239,27 +415,6 @@
     "NC"
    ],
    "extra_locations": 2
-  },
-  {
-   "id": "wd-citi-26982615",
-   "title": "Cash and Trade Processing Associate Analyst Two",
-   "company": "Citi",
-   "location": "Tampa Florida United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Cash-and-Trade-Processing-Associate-Analyst-Two_26982615",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Advisory & Consulting",
-   "level": "Entry level",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "The Cash & Trade Proc Assoc Analyst 2 is an entry level role responsible for assisting the function with any projects and initiatives related to cash management in coordination with the Transaction Services team. You'll learn the ins-and-outs of treasury solutions and gain hands-",
-   "locations": [
-    "Tampa Florida United States"
-   ],
-   "states": [
-    "FL"
-   ],
-   "extra_locations": 0
   },
   {
    "id": "wd-citi-25913692",
@@ -417,52 +572,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-regions-R104973",
-   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Energy & Natural Resources Group, Houston, TX",
-   "company": "Regions Bank",
-   "location": "Houston, TX - Regions Houston Headquarters Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
-   "posted": "Posted 28 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Houston, TX - Regions Houston Headquarters Office"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R104978",
-   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
-   "company": "Regions Bank",
-   "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
-   "posted": "Posted 28 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
-   ],
-   "states": [
-    "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-regions-R104961",
    "title": "2027 ETP Intern - Corporate Banking Group, Multiple Opportunities, Atlanta, GA",
    "company": "Regions Bank",
@@ -551,6 +660,52 @@
    ],
    "states": [
     "TN"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R104973",
+   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Energy & Natural Resources Group, Houston, TX",
+   "company": "Regions Bank",
+   "location": "Houston, TX - Regions Houston Headquarters Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
+   "posted": "Posted 28 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Houston, TX - Regions Houston Headquarters Office"
+   ],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R104978",
+   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
+   "company": "Regions Bank",
+   "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
+   "posted": "Posted 28 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
+   ],
+   "states": [
+    "FL"
    ],
    "extra_locations": 0
   },

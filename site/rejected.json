@@ -80,17 +80,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Onsite Priority Banker - Hoover, AL",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Priority Contact Center Banker - Nashville, TN",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Bilingual Priority Banker - Flex opportunity",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Trust Relationship Specialist - Natural Resources and Real Estate",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -115,7 +115,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Commercial Relationship Manager",
+  "title": "",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -235,6 +235,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Credit Products Specialized Industries Associate - Oil & Gas",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "DE Certified FHA Appraisal Review Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -345,11 +350,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Capital Markets Middle Office Derivatives Operations Analyst",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Regulatory Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -450,6 +450,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Capital Markets Middle Office Derivatives Operations Analyst",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Business Systems Analyst - Mortgage and Home Equity",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -510,17 +515,22 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Sr Internal Auditor - Capital Markets & Investment Banking",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Letters of Credit Trade Advisor II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
+  "title": "Syndicated & Leveraged Finance Associate I/II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Syndicated & Leveraged Finance Associate I/II",
+  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -531,6 +541,11 @@
  },
  {
   "title": "Equity Capital Markets VP",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Equity Capital Markets Vice President",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -590,22 +605,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Product Owner- Agile",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Controls Monitoring and Testing Consultant I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Legal Professional 2 - Risk & Policy",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Legal Professional 2 - Technology",
+  "title": "Senior Product Owner- Agile",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -620,12 +625,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Head of Fraud Strategy and Transformation",
+  "title": "Senior Portfolio Manager - Wholesale Credit Delivery - Not-For-Profit segment",
   "company": "Truist",
-  "reason": "no internship or entry-level signal"
+  "reason": "senior title"
  },
  {
-  "title": "Audit Director Professional Practices, Strategy & PMO",
+  "title": "Head of Fraud Strategy and Transformation",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -640,32 +645,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Enterprise Resilience Officer I",
+  "title": "Portfolio Manager - Wholesale Credit Delivery",
   "company": "Truist",
-  "reason": "no internship or entry-level signal"
+  "reason": "senior title"
  },
  {
-  "title": "Data Risk Oversight Senior Specialist",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Teammate Social Program Senior Consultant",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wholesale Payments Dedicated Support Specialist",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wholesale Payments Dedicated Support Specialist",
+  "title": "Legal Professional 2 - Risk & Policy",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -690,17 +675,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Investment Banking Analyst - TMT",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Investment Banking Analyst - Energy (Power, Utilities & Infrastructure)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Investment Banking Analyst - Industrials",
+  "title": "Executive Assistant",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -780,11 +760,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader I or II West Columbia, Sunset",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Branch Leader I, II or III - Swainsboro",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -841,16 +816,6 @@
  },
  {
   "title": "Branch Leader I/II - Carlisle",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Leader - Presbyterian Plaza",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Leader - Lancaster & Kiest",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1065,17 +1030,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Fiduciary Operations Analyst III",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Deposit Lifecycle Sr. Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Finance \u2013 Strategic Initiatives Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1138,6 +1093,26 @@
   "title": "Senior Product Analyst - Deposits - Small Business",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Advice and Financial Planning Wealth Management Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Deposits Product Senior Analyst- Debit Card Solutions",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Corporate Trust & Escrow Services Account Analyst I",
+  "company": "Truist",
+  "reason": "requires 8+ years experience"
+ },
+ {
+  "title": "Corporate Trust & Escrow Services Account Analyst II",
+  "company": "Truist",
+  "reason": "requires 7+ years experience"
  },
  {
   "title": "AUDITOR",
@@ -2375,12 +2350,77 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "S.V.P. International LFO",
-  "company": "Citi",
+  "title": "Supervisory Financial Management Specialist",
+  "company": "Federal Emergency Management Agency",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "",
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Analyst",
+  "company": "Small Business Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "ACCOUNTING OFFICER",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "Financial Management Specialist",
+  "company": "Drug Enforcement Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor (Performance) ",
+  "company": "Office of Inspector General",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Programs Specialist",
+  "company": "Bureau of the Fiscal Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Accountant, CG-510-13",
+  "company": "Federal Deposit Insurance Corporation",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Office of the Secretary of Transportation",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL SPECIALIST",
+  "company": "Air National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "RESOURCES MANAGER (Title 32)",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Individual Taxpayer Advisory Specialist",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
  },
@@ -2393,6 +2433,11 @@
   "title": "Finance Data Products - International Product Lead",
   "company": "Citi",
   "reason": "senior title"
+ },
+ {
+  "title": "International Controls Lead (Singapore) - Vice President",
+  "company": "Citi",
+  "reason": "outside the US (Singapore  Singapore)"
  },
  {
   "title": "KYC Operations Analyst - International Personal Banking, Wealth Operations",
@@ -2700,11 +2745,6 @@
   "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
-  "title": "Finance Reporting Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Mumbai Maharashtra India)"
- },
- {
   "title": "Trading Head - Equity Principal Trading",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
@@ -2935,6 +2975,11 @@
   "reason": "outside the US (Pune Maharashtra India)"
  },
  {
+  "title": "Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027",
+  "company": "Citi",
+  "reason": "senior title"
+ },
+ {
   "title": "Operations -Markets Operations Fulltime Analyst , Boston Career Forum in 2026, Tokyo - Japan, 2027",
   "company": "Citi",
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
@@ -2955,17 +3000,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Markets \u2013 Sales and Trading, Full Time Analyst, Paris \u2013 France, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Paris  France)"
+ },
+ {
   "title": "Fund Accounting Specialist 5",
   "company": "Citi",
   "reason": "outside the US (Gurgaon Haryana India)"
  },
  {
   "title": "Citi India Apprenticeship Program - Corporate Banking",
-  "company": "Citi",
-  "reason": "outside the US (Mumbai Maharashtra India)"
- },
- {
-  "title": "Citi India Apprenticeship Program",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
  },
@@ -3023,16 +3068,6 @@
   "title": "Credit Analyst",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Product Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Gurugram Haryana India)"
- },
- {
-  "title": "Product Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "Quality Analyst",
@@ -3163,5 +3198,15 @@
   "title": "Fraud Ops Analyst",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Product Analyst - AVP",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "KYC Analyst (Hybrid)",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
  }
 ]
