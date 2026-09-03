@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-02T18:18:32+00:00",
- "count": 64,
+ "generated": "2026-09-03T00:21:15+00:00",
+ "count": 67,
  "jobs": [
   {
    "id": "wd-truist-R0118659",
@@ -88,6 +88,52 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-regions-R105737",
+   "title": "2027 ETP Intern - Marketing and Communications, Multiple Opportunities, Birmingham, AL",
+   "company": "Regions Bank",
+   "location": "Birmingham, AL - Regions Center",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Marketing-and-Communications--Multiple-Opportunities--Birmingham--AL_R105737",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": "AL",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Birmingham, AL - Regions Center"
+   ],
+   "states": [
+    "AL"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R105772",
+   "title": "2027 ETP Intern - Community Engagement, Birmingham, AL",
+   "company": "Regions Bank",
+   "location": "Birmingham, AL - Regions Center",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Community-Engagement--Birmingham--AL_R105772",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": "AL",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Birmingham, AL - Regions Center"
+   ],
+   "states": [
+    "AL"
+   ],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0110096",
    "title": "2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta",
    "company": "Truist",
@@ -131,6 +177,28 @@
    "states": [
     "IL"
    ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0117520",
+   "title": "2027 Out 4 Undergrad Engineering & Sciences  Conference (Pipeline Requisition for Summer Internship Opportunities)",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Out-4-Undergrad-Engineering---Sciences--Conference--Pipeline-Requisition-for-Summer-Internship-Opportunities-_R0117520",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
    "extra_locations": 0
   },
   {
