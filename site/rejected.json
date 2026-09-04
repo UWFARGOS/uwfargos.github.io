@@ -1045,11 +1045,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Procurement Business Solutions Senior Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "CSBB Business Execution Senior Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1103,6 +1098,11 @@
   "title": "Corporate Trust & Escrow Services Account Analyst I",
   "company": "Truist",
   "reason": "requires 8+ years experience"
+ },
+ {
+  "title": "Corporate Trust & Escrow Services Account Analyst II",
+  "company": "Truist",
+  "reason": "requires 7+ years experience"
  },
  {
   "title": "AUDITOR",
@@ -2365,6 +2365,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Management Specialist",
+  "company": "Federal Emergency Management Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2530,11 +2540,6 @@
   "reason": "outside the US (Monterrey Nuevo Leon Mexico)"
  },
  {
-  "title": "Technology - Infrastructure, Summer Analyst, Hungary - Budapest, 2026",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
   "title": "Ukraine Internship Program - 2026",
   "company": "Citi",
   "reason": "requires 2+ years experience"
@@ -2595,9 +2600,24 @@
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
  },
  {
+  "title": "Banking, Investment Banking, Placement Analyst Internship, Paris - France 2027",
+  "company": "Citi",
+  "reason": "outside the US (Paris  France)"
+ },
+ {
   "title": "2025 Wealth Management Summer Internship, Dubai, UAE (UAE Nationals preferred)",
   "company": "Citi",
   "reason": "outside the US (Dubai United Arab Emirates)"
+ },
+ {
+  "title": "Banking, Corporate Banking, Relationship Analyst, Placement Analyst Internship, Milan - Italy 2027",
+  "company": "Citi",
+  "reason": "outside the US (Milan Milano Italy)"
+ },
+ {
+  "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst Internship, Paris - France 2027",
+  "company": "Citi",
+  "reason": "outside the US (Paris  France)"
  },
  {
   "title": "Banking - Investment Banking, Summer Analyst, Korea, Republic of \u2013 APAC, 2027",
@@ -2650,11 +2670,6 @@
   "reason": "outside the US (Taipei Taipei City Taiwan)"
  },
  {
-  "title": "Risk Reporting 2LOD Sr. Analyst",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Banking - Commercial Banking, Summer Analyst, China \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
@@ -2665,6 +2680,11 @@
   "reason": "outside the US (Kowloon  Hong Kong)"
  },
  {
+  "title": "Banking, Corporate Banking, Summer Analyst, London \u2013 United Kingdom, 2027",
+  "company": "Citi",
+  "reason": "outside the US (London  United Kingdom)"
+ },
+ {
   "title": "Services - Summer Analyst, Singapore, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
@@ -2673,16 +2693,6 @@
   "title": "Services - Summer Analyst, China, 2027",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
- },
- {
-  "title": "Services - Summer Analyst, Hong Kong, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Hong Kong  Hong Kong)"
- },
- {
-  "title": "Finance Reporting Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Mumbai Maharashtra India)"
  },
  {
   "title": "Intermediate Associate Executive Response Analyst-Retail Bank",
@@ -2913,6 +2923,11 @@
   "title": "Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027",
   "company": "Citi",
   "reason": "senior title"
+ },
+ {
+  "title": "Services - Summer Analyst, Hong Kong, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
   "title": "Operations -Markets Operations Fulltime Analyst , Boston Career Forum in 2026, Tokyo - Japan, 2027",
