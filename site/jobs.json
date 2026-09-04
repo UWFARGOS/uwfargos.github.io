@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-04T12:18:12+00:00",
- "count": 67,
+ "generated": "2026-09-04T18:17:13+00:00",
+ "count": 68,
  "jobs": [
   {
    "id": "wd-truist-R0118764",
@@ -63,6 +63,27 @@
     "TAURUS"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26992624",
+   "title": "Banking \u2013 Corporate Baking, Full-Time Analyst, Mexico City \u2013 Mexico, 2027",
+   "company": "Citi",
+   "location": "THE SUMMIT - CIUDAD DE MEXICO",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Treasury",
+   "level": "Entry level",
+   "state": "DE",
+   "employer_kind": "bank",
+   "snippet": "You're ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you nee",
+   "locations": [
+    "THE SUMMIT - CIUDAD DE MEXICO"
+   ],
+   "states": [
+    "DE"
+   ],
    "extra_locations": 0
   },
   {
@@ -399,6 +420,52 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-regions-R104973",
+   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Energy & Natural Resources Group, Houston, TX",
+   "company": "Regions Bank",
+   "location": "Houston, TX - Regions Houston Headquarters Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
+   "posted": "Posted 30 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Houston, TX - Regions Houston Headquarters Office"
+   ],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R104978",
+   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
+   "company": "Regions Bank",
+   "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
+   "posted": "Posted 30 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
+   ],
+   "states": [
+    "FL"
+   ],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-regions-R104961",
    "title": "2027 ETP Intern - Corporate Banking Group, Multiple Opportunities, Atlanta, GA",
    "company": "Regions Bank",
@@ -487,52 +554,6 @@
    ],
    "states": [
     "TN"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R104973",
-   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Energy & Natural Resources Group, Houston, TX",
-   "company": "Regions Bank",
-   "location": "Houston, TX - Regions Houston Headquarters Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Houston-TX---Regions-Houston-Headquarters-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Energy---Natural-Resources-Group--Houston--TX_R104973",
-   "posted": "Posted 30 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Houston, TX - Regions Houston Headquarters Office"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R104978",
-   "title": "2027 ETP Intern \u2013 Corporate Banking Group, Commercial Credit Products, Orlando, FL",
-   "company": "Regions Bank",
-   "location": "Orlando, FL - Orlando Main 111 North Orange Avenue Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Orlando-FL---Orlando-Main-111-North-Orange-Avenue-Office/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Orlando--FL_R104978",
-   "posted": "Posted 30 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Orlando, FL - Orlando Main 111 North Orange Avenue Office"
-   ],
-   "states": [
-    "FL"
    ],
    "extra_locations": 0
   },
