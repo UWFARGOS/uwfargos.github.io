@@ -525,11 +525,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Principal Executive Leadership Consultant",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -595,14 +590,14 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Controls Monitoring and Testing Consultant I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
   "company": "Truist",
   "reason": "requires 3+ years experience"
+ },
+ {
+  "title": "Controls Monitoring and Testing Consultant I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Deposit Pricing Analytics Consultant",
@@ -631,6 +626,16 @@
  },
  {
   "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
+  "title": "Audit Director - Financial Crimes",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Portfolio Manager - Wholesale Credit Delivery",
   "company": "Truist",
   "reason": "senior title"
  },
@@ -806,6 +811,11 @@
  },
  {
   "title": "Branch Leader - Eastgate",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader - Wylie (DeNovo)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1050,6 +1060,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Post Closing Quality Control Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Sr. Financial Analyst IBCM CFO Group",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1155,11 +1170,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Administration Specialist",
-  "company": "Veterans Health Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Supervisory Tax Analyst",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -1185,13 +1195,13 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Supervisory Financial Specialist (MSP) - Temporary NTE 1 Year, MBE up to 5 Years, MBMP",
+  "title": "Supervisory Financial Management Analyst (Finance Section Chief)",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Supervisory Financial Management Analyst (Finance Section Chief)",
-  "company": "Internal Revenue Service",
+  "title": "ACCOUNTANT",
+  "company": "Naval Air Systems Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1345,16 +1355,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Executive Director",
-  "company": "Government Accountability Office",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Executive Director",
-  "company": "Government Accountability Office",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "ACCOUNTANT",
   "company": "U.S. Marine Corps",
   "reason": "no internship or entry-level signal"
@@ -1420,38 +1420,8 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "CFI Specialist, CG-1160-14",
-  "company": "Federal Deposit Insurance Corporation",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "INTERNAL CONTROL ANALYST",
-  "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "CFI Specialist, CG-1160-14",
-  "company": "Federal Deposit Insurance Corporation",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "SUPERVISORY FINANCIAL SPECIALIST (Title 32)",
   "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Supervisor Auditor (FAO Manager)",
-  "company": "Defense Contract Audit Agency",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Supervisory Auditor",
-  "company": "Office of the Secretary of the Interior",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1470,16 +1440,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Internal Control Analyst",
-  "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investigative Support Technical Specialist",
-  "company": "Defense Contract Audit Agency",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Specialist",
   "company": "Office of the Secretary of the Interior",
   "reason": "no internship or entry-level signal"
@@ -1487,11 +1447,6 @@
  {
   "title": "SUPV FINANCIAL SYSTEMS SPECIALIST (PROJMGT)",
   "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Tax Analyst",
-  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1520,11 +1475,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Analyst, NF-04",
-  "company": "United States Army Installation Management Command",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Supervisory Recreation Fee Specialist",
   "company": "National Park Service",
   "reason": "no internship or entry-level signal"
@@ -1533,11 +1483,6 @@
   "title": "FINANCIAL MANAGEMENT AND AGREEMENTS ADVISOR",
   "company": "Joint Activities",
   "reason": "outside the US (Stuttgart, Germany)"
- },
- {
-  "title": "Financial Management Analyst",
-  "company": "Military Treatment Facilities under DHA",
-  "reason": "no internship or entry-level signal"
  },
  {
   "title": "SUPERVISORY FINANCIAL SPECIALIST",
@@ -1582,16 +1527,6 @@
  {
   "title": "ACCOUNTANT (STAFF)",
   "company": "Naval Supply Systems Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Employment and Training Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Employment and Training Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1690,11 +1625,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Administration Specialist",
-  "company": "Veterans Health Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
@@ -1765,11 +1695,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Business Administrator",
-  "company": "Bureau of Prisons/Federal Prison System",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "FINANCIAL SPECIALIST",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
@@ -1787,21 +1712,6 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Analyst",
-  "company": "Agricultural Marketing Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Auditor (Sensitive Activities)",
-  "company": "Office of Inspector General",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Administration Specialist",
-  "company": "Military Treatment Facilities under DHA",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1855,11 +1765,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Supervisory Accountant",
-  "company": "Agriculture, Rural Development",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Management Specialist",
   "company": "Farm Production and Conservation (FPAC) Business Center",
   "reason": "no internship or entry-level signal"
@@ -1867,16 +1772,6 @@
  {
   "title": "SUPV FINANCIAL SYSTEMS ANALYST (PROG)",
   "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Auditor",
-  "company": "Office of Inspector General",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Missile Defense Agency",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1893,11 +1788,6 @@
   "title": "Auditor",
   "company": "Development Finance Corporation",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Case Advocate",
-  "company": "Internal Revenue Service",
-  "reason": "requires 3+ years experience"
  },
  {
   "title": "Case Advocate",
@@ -1980,11 +1870,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Supervisory Tax Analyst (Supervisory Quality Improvement Specialist)",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Accountant",
   "company": "U.S. Coast Guard",
   "reason": "no internship or entry-level signal"
@@ -1992,11 +1877,6 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST - TITLE 5",
   "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Supervisory Financial Specialist (MSP) - Temporary NTE 1 Year, MBE up to 5 Years, MBMP",
-  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2205,6 +2085,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "ACCOUNTANT",
+  "company": "Naval Air Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Management Business Systems Analyst",
   "company": "U.S. Army Corps of Engineers",
   "reason": "no internship or entry-level signal"
@@ -2335,6 +2220,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant",
+  "company": "Defense Health Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Tax Analyst",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -2345,6 +2235,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "LEAD FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Air Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Tax Analyst",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -2360,13 +2255,33 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Auditor",
+  "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
+  "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Tax Analyst -TEMP-Not To Exceed (NTE) 1YR, May Be Extended (MBE) up to 5YRs, May Be Made Perm (MBMP)",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant (SYSTEMS)",
+  "company": "Bureau of the Fiscal Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "SUPERVISORY FINANCIAL SPECIALIST (ACCOUNTS PAYABLE)",
   "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL SERVICES SPECIALIST",
+  "company": "Air Education and Training Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2390,6 +2305,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Management Analyst",
+  "company": "Military Treatment Facilities under DHA",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Air National Guard Units",
   "reason": "no internship or entry-level signal"
@@ -2400,8 +2320,18 @@
   "reason": "requires 4+ years experience"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Sea Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Supervisory Financial Program Manager",
   "company": "Federal Emergency Management Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTANT (STAFF)",
+  "company": "Naval Facilities Engineering Systems Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2417,6 +2347,21 @@
  {
   "title": "Auditor (Performance)",
   "company": "Office of the Inspector General",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Recreation Fee Specialist",
+  "company": "National Park Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "U.S. Army Cyber Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business and Financial Analyst",
+  "company": "Federal Retirement Thrift Investment Board",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2987,11 +2932,6 @@
  {
   "title": "Banamex Servicio a Clientes Afore",
   "company": "Citi",
-  "reason": "outside the US (Monterrey Nuevo Leon Mexico)"
- },
- {
-  "title": "Banamex Servicio a Clientes Afore",
-  "company": "Citi",
   "reason": "outside the US (Tlaxcala Tlaxcala Mexico)"
  },
  {
@@ -3001,6 +2941,11 @@
  },
  {
   "title": "Citi India Apprenticeship Program - Corporate Banking",
+  "company": "Citi",
+  "reason": "outside the US (Mumbai Maharashtra India)"
+ },
+ {
+  "title": "Citi India Apprenticeship Program",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
  },
