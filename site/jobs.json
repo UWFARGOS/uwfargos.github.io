@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-03T18:17:24+00:00",
- "count": 68,
+ "generated": "2026-09-04T00:20:11+00:00",
+ "count": 69,
  "jobs": [
   {
    "id": "wd-regions-R105737",
@@ -1170,6 +1170,31 @@
    ],
    "states": [],
    "extra_locations": 0
+  },
+  {
+   "id": "us-USTP-26-13048833-DE",
+   "title": "Financial Management Specialist",
+   "company": "U.S. Trustee Program",
+   "location": "Peoria, Illinois",
+   "url": "https://www.usajobs.gov:443/job/883493700",
+   "posted": "2026-09-03T16:25:50.6800",
+   "flags": [
+    "Sophomore eligible"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "IL",
+   "employer_kind": "government",
+   "snippet": "To qualify for the position of Financial Management Specialist, at GS-0501-7, you must meet the qualification requirements listed below AND possess the required specialized experience specific to this series and grade. This vacancy is open to RECENT GRADUATES, who have completed ",
+   "locations": [
+    "Peoria, Illinois",
+    "Indianapolis, Indiana",
+    "South Bend, Indiana"
+   ],
+   "states": [
+    "IL"
+   ],
+   "extra_locations": 2
   },
   {
    "id": "us-CARZ-13047008-26-DLe",
