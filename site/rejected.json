@@ -180,11 +180,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "2027 BlackArch Investment Banking Associate",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Specialized Industries Associate- Materials & Infrastructure Sector",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -326,6 +321,11 @@
  },
  {
   "title": "Credit Products Commercial Portfolio Manager",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Technology Operations & Mainframe Operator",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -510,11 +510,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "TD&O Program Enablement Specialist  - Early Talent",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Letters of Credit Trade Advisor II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -640,6 +635,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Enterprise Resilience Officer I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Wholesale Early Careers Development Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -656,6 +656,11 @@
  },
  {
   "title": "Wholesale Credit Delivery Associate I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "2027 Truist Analyst Program - Technology, Data, and Operations Track",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -811,11 +816,6 @@
  },
  {
   "title": "Branch Leader - Eastgate",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Leader - Wylie (DeNovo)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1050,11 +1050,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "CSBB Business Execution Senior Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Real Estate Strategic Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1090,14 +1085,14 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Risk Finance Data Management Analyst I",
-  "company": "Truist",
-  "reason": "requires 3+ years experience"
- },
- {
   "title": "Advice and Financial Planning Wealth Management Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Corporate Trust & Escrow Services Account Analyst II",
+  "company": "Truist",
+  "reason": "requires 7+ years experience"
  },
  {
   "title": "AUDITOR",
@@ -1221,6 +1216,16 @@
  },
  {
   "title": "Financial Policy Analyst",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant (Factory Operational Accountant)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
   "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
  },
@@ -2415,6 +2420,21 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant (Factory Operational Accountant)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2443,6 +2463,11 @@
   "title": "Officer - Ops Sup Intermed Analyst (IBCO)",
   "company": "Citi",
   "reason": "outside the US (Taguig  Philippines)"
+ },
+ {
+  "title": "BANAMEX - Apps Dev Intermed Prgmr Anlyst",
+  "company": "Citi",
+  "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
  },
  {
   "title": "Asesor Previsional Afore -  Monterrey",
@@ -3035,11 +3060,6 @@
   "reason": "outside the US (Budapest  Hungary)"
  },
  {
-  "title": "Testing Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
- },
- {
   "title": "Project Analyst",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
@@ -3188,5 +3208,10 @@
   "title": "SAS Data Analyst",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Asset Servicing Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Pune Maharashtra India)"
  }
 ]
