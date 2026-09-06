@@ -2880,11 +2880,6 @@
   "reason": "requires 7+ years experience"
  },
  {
-  "title": "Quantitative Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
   "title": "Project Analyst",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
@@ -3033,6 +3028,11 @@
   "title": "SAS Data Analyst",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Asset Servicing Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Pune Maharashtra India)"
  },
  {
   "title": "Asset Servicing Analyst",
