@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-07T12:18:34+00:00",
- "count": 68,
+ "generated": "2026-09-07T18:18:13+00:00",
+ "count": 67,
  "jobs": [
   {
    "id": "wd-regions-R105681",
@@ -651,27 +651,6 @@
    ],
    "states": [
     "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26951372",
-   "title": "Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027",
-   "company": "Citi",
-   "location": "Irving Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Audit & Assurance",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
-   "locations": [
-    "Irving Texas United States"
-   ],
-   "states": [
-    "TX"
    ],
    "extra_locations": 0
   },
