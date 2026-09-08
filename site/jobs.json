@@ -1,7 +1,73 @@
 {
- "generated": "2026-09-08T12:19:51+00:00",
- "count": 67,
+ "generated": "2026-09-08T18:19:45+00:00",
+ "count": 69,
  "jobs": [
+  {
+   "id": "wd-truist-R0118659",
+   "title": "2027 Wealth Internship Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0110874",
+   "title": "2027 Corporate Banking - Summer Analyst Program (Internship) \u2013 Atlanta, GA",
+   "company": "Truist",
+   "location": "Atlanta, GA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Corporate-Banking---Summer-Analyst-Program--Internship----Atlanta--GA_R0110874",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": "GA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "states": [
+    "GA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118658",
+   "title": "2027 Wealth Analyst Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-regions-R105681",
    "title": "2027 ETP Intern - Human Resources, Multiple Opportunities, Birmingham, AL",
@@ -375,27 +441,6 @@
     "TAURUS"
    ],
    "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26992624",
-   "title": "Banking \u2013 Corporate Baking, Full-Time Analyst, Mexico City \u2013 Mexico, 2027",
-   "company": "Citi",
-   "location": "THE SUMMIT - CIUDAD DE MEXICO",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
-   "posted": "Posted 4 Days Ago",
-   "flags": [],
-   "bucket": "Treasury",
-   "level": "Entry level",
-   "state": "DE",
-   "employer_kind": "bank",
-   "snippet": "You're ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you nee",
-   "locations": [
-    "THE SUMMIT - CIUDAD DE MEXICO"
-   ],
-   "states": [
-    "DE"
-   ],
    "extra_locations": 0
   },
   {
