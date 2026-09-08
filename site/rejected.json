@@ -910,11 +910,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Grandbridge Investor Accounting & Reporting Associate",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Associate Software Engineer--SAP",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -981,6 +976,11 @@
  },
  {
   "title": "Brokerage Registered Client Service Associate - Alexandria, VA",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investor Accounting & Reporting Associate - Grandbridge Real Estate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2260,6 +2260,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2520,6 +2525,11 @@
   "reason": "outside the US (Paris  France)"
  },
  {
+  "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst, Milan, Italy 2026 - October Intake",
+  "company": "Citi",
+  "reason": "outside the US (Milan Milano Italy)"
+ },
+ {
   "title": "Banking - Investment Banking, Summer Analyst, Korea, Republic of \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Seoul  Korea, Republic Of)"
@@ -2583,11 +2593,6 @@
   "title": "Banking - Commercial Banking, Summer Analyst, Hong Kong \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Kowloon  Hong Kong)"
- },
- {
-  "title": "Banking, Corporate Banking, Summer Analyst, London \u2013 United Kingdom, 2027",
-  "company": "Citi",
-  "reason": "outside the US (London  United Kingdom)"
  },
  {
   "title": "Intermediate Associate Executive Response Analyst-Retail Bank",
