@@ -85,6 +85,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Fiduciary Review Specialist",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Wealth Management Centralized Trading Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -290,6 +295,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Private Wealth Management Leader",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Commercial Loan Booking Specialist- CBG Operations",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -321,11 +331,6 @@
  },
  {
   "title": "SBA Servicing Team Manager",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Credit Products Commercial Portfolio Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -366,6 +371,11 @@
  },
  {
   "title": "Enterprise Risk Testing Analyst",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Salesforce Business Systems Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -446,16 +456,6 @@
  },
  {
   "title": "Real Estate Capital Markets Business Systems Analyst- Agency Multifamily",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Fiduciary Review Specialist",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Small Business Relationship Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -630,11 +630,6 @@
   "reason": "senior title"
  },
  {
-  "title": "Enterprise Resilience Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Early Careers Development Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -656,6 +651,11 @@
  },
  {
   "title": "2027 Truist Analyst Program - Technology, Data, and Operations Track",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "2027 Out 4 Undergrad Engineering & Sciences Conference (Pipeline Requisition for Full-Time  Opportunities)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -721,11 +721,6 @@
  },
  {
   "title": "Lead Learning Strategist- Sales Leadership & Service Excellence Portfolio",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Leader- Kanawha City",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -801,11 +796,6 @@
  },
  {
   "title": "Branch Leader I or II Dandridge",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Leader I or II Pickens",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -930,17 +920,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Brokerage Registered Client Service Associate - Pittsburgh, PA",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Associate Software Engineer / Python and AWS",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Brokerage Client Service Associate - Charleston, West Virginia",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -961,6 +941,16 @@
  },
  {
   "title": "Associate Infrastructure Engineer - Network Automation (On-site)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Brokerage Registered Client Service Associate - Frederick, Maryland",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Brokerage Registered Client Service Associate - Pittsburgh, Pennsylvania",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1036,6 +1026,11 @@
  },
  {
   "title": "Director Equity Research Analyst - Consumer",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Mortgage Originations Business Execution Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1202,6 +1197,11 @@
  {
   "title": "Senior Tax Analyst",
   "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant (Factory Operational Accountant)",
+  "company": "Bureau of Prisons/Federal Prison System",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1830,11 +1830,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Management Specilaist",
   "company": "U.S. Army Cyber Command",
   "reason": "no internship or entry-level signal"
@@ -2270,6 +2265,31 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant (Factory Operational Accountant)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Retail Fuels Officer",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant (Factory Operational Accountant)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Service Analyst",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
+  "company": "Export-Import Bank of the United States",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2285,11 +2305,6 @@
   "reason": "outside the US (Singapore  Singapore)"
  },
  {
-  "title": "Finance Data Products - International Product Lead",
-  "company": "Citi",
-  "reason": "outside the US (London  United Kingdom)"
- },
- {
   "title": "KYC Operations Analyst - International Personal Banking, Wealth Operations",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
@@ -2303,6 +2318,11 @@
   "title": "BANAMEX - Apps Dev Intermed Prgmr Anlyst",
   "company": "Citi",
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
+ },
+ {
+  "title": "Execution and Relationship Manager (ERM) \u2013 International East, Assistant Vice President",
+  "company": "Citi",
+  "reason": "outside the US (Taguig  Philippines)"
  },
  {
   "title": "Asesor Previsional Afore -  Monterrey",
@@ -2465,11 +2485,6 @@
   "reason": "outside the US (Paris  France)"
  },
  {
-  "title": "",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Investment Banking - Summer Internship Program, Tokyo - Japan, 2027",
   "company": "Citi",
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
@@ -2598,6 +2613,11 @@
   "title": "Banking - Commercial Banking, Summer Analyst, China \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
+ },
+ {
+  "title": "Banking - Commercial Banking, Summer Analyst, Hong Kong \u2013 APAC, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Kowloon  Hong Kong)"
  },
  {
   "title": "Intermediate Associate Executive Response Analyst-Retail Bank",
@@ -2758,6 +2778,11 @@
   "title": "SUPER DAY KYC Operations Analyst",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Banking \u2013 Corporate Baking, Full-Time Analyst, S\u00e3o Paulo \u2013 Brazil, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
  },
  {
   "title": "Job Requisition: 25843173 Citi India Apprenticeship Program - SS Ops",
