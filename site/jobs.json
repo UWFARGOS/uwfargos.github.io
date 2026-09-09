@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-09T00:21:45+00:00",
- "count": 68,
+ "generated": "2026-09-09T06:19:00+00:00",
+ "count": 67,
  "jobs": [
   {
    "id": "wd-truist-R0118659",
@@ -1198,27 +1198,6 @@
    ],
    "states": [
     "VA"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "us-EX-26-062-SP",
-   "title": "Financial Analyst (Auditor) Recent Grad",
-   "company": "U.S. International Trade Commission",
-   "location": "Washington, District of Columbia",
-   "url": "https://www.usajobs.gov:443/job/882264300",
-   "posted": "2026-08-26T13:45:38.6100",
-   "flags": [],
-   "bucket": "Corporate FP&A",
-   "level": "Entry level",
-   "state": "WA",
-   "employer_kind": "government",
-   "snippet": "The requirements for this opportunity are simply: Meet the requirements for a Recent Graduate under the Pathways Program Be willing to sign and agree to a Pathways Program agreement developed specifically for you Meet all qualification requirements as of the closing date of this ",
-   "locations": [
-    "Washington, District of Columbia"
-   ],
-   "states": [
-    "WA"
    ],
    "extra_locations": 0
   },
