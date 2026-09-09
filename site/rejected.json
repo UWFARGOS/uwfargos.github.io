@@ -45,6 +45,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Technology Field Services Technician",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Senior IT Auditor",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -81,11 +86,6 @@
  },
  {
   "title": "Fiduciary Review Specialist",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Contact Center Fraud Representative - Onsite Hoover, AL",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -181,6 +181,11 @@
  },
  {
   "title": "Credit Products Diversified Industries Associate",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Management Relationship Manager Associate",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -300,6 +305,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Credit Products Commercial Loan Fulfillment Specialist",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Commercial Loan Booking Specialist- CBG Operations",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -325,16 +335,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Mortgage Loan Servicing Customer Service Rep - Hattiesburg, MS",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "SBA Servicing Team Manager",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Regulatory Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -356,6 +356,11 @@
  },
  {
   "title": "Ascentium Credit Analyst",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Cloud FinOps Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -835,11 +840,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Associate Compensation Consultant",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Client Engagement Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -861,11 +861,6 @@
  },
  {
   "title": "Associate - Middle Market Credit Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Brokerage Registered Client Service Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -955,12 +950,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Treasury Sales Analyst",
+  "title": "Brokerage Client Service Associate - Columbus or Atlanta, Georgia",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "IT Support Analyst",
+  "title": "Assistant or Associate General Counsel - Legal Contracting Tech",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1025,6 +1025,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Product Analyst- Agile",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Director Equity Research Analyst - Consumer",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1071,6 +1076,11 @@
  },
  {
   "title": "Advice and Financial Planning Wealth Management Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Financial Analyst- Wholesale FP&A Advisory",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1603,6 +1613,11 @@
   "title": "Financial Management Analyst",
   "company": "U.S. Army Corps of Engineers",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant - Technical Career Field (TCF) Trainee",
+  "company": "Veterans Health Administration",
+  "reason": "requires 4+ years experience"
  },
  {
   "title": "Supervisory Tax Analyst",
@@ -2225,6 +2240,26 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Resource Manager",
+  "company": "United States Army Criminal Investigation Division",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Deputy Assistant Secretary for Finance",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "AUDITOR",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant (FIAR Coordinator)",
+  "company": "Defense Contract Audit Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2243,6 +2278,11 @@
   "title": "International Controls Lead (Singapore) - Vice President",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Finance Data Products - International Product Lead",
+  "company": "Citi",
+  "reason": "outside the US (London  United Kingdom)"
  },
  {
   "title": "KYC Operations Analyst - International Personal Banking, Wealth Operations",
@@ -2680,6 +2720,11 @@
   "reason": "outside the US (Gurugram Haryana India)"
  },
  {
+  "title": "Senior GEN AI Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
   "title": "CBNA and US Entities Treasury Management - Business Execution and Governance Lead Analyst VP/C13 - GETZVILLE",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2745,11 +2790,6 @@
   "reason": "outside the US (Mumbai Maharashtra India)"
  },
  {
-  "title": "Banking \u2013 Infrastructure Finance, Full-Time Analyst, S\u00e3o Paulo \u2013 Brazil, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
- },
- {
   "title": "2025 Corporate Banking Full Time Analyst Program - Mexico",
   "company": "Citi",
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
@@ -2810,11 +2850,6 @@
   "reason": "senior title"
  },
  {
-  "title": "Services, Full-Time Analyst, S\u00e3o Paulo \u2013 Brazil, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
- },
- {
   "title": "Banking, Investment Banking \u2013 Corporate Broking, Placement Analyst, London \u2013 United Kingdom 2027",
   "company": "Citi",
   "reason": "outside the US (London  United Kingdom)"
@@ -2843,6 +2878,16 @@
   "title": "Banamex Servicio a Clientes Afore",
   "company": "Citi",
   "reason": "outside the US (Oaxaca Oaxaca Mexico)"
+ },
+ {
+  "title": "GSMG Research Senior Associate  / Commercial MBS",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Markets \u2013 Sales and Trading, Full Time Analyst, Paris \u2013 France, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Paris  France)"
  },
  {
   "title": "Credit Senior Analyst - French speaking",
@@ -2888,6 +2933,11 @@
   "title": "Project Analyst",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
+  "title": "TechOps Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Pune Maharashtra India)"
  },
  {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
@@ -3028,11 +3078,6 @@
   "title": "SAS Data Analyst",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Asset Servicing Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Pune Maharashtra India)"
  },
  {
   "title": "Asset Servicing Analyst",

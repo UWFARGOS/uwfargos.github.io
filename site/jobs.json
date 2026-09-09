@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-09T12:19:09+00:00",
- "count": 67,
+ "generated": "2026-09-09T18:20:05+00:00",
+ "count": 66,
  "jobs": [
   {
    "id": "wd-truist-R0118659",
@@ -357,27 +357,6 @@
    ],
    "states": [
     "NC"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-25926683",
-   "title": "Banking - Commercial Banking, Summer Analyst, San Francisco - US, 2027",
-   "company": "Citi",
-   "location": "San Francisco California United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Banking---Commercial-Banking--Summer-Analyst--San-Francisco---US--2027_25926683",
-   "posted": "Posted 7 Days Ago",
-   "flags": [],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "CA",
-   "employer_kind": "bank",
-   "snippet": "You \u2019 re the brains behind our work. Citi\u2019s Commercial Bank (\u201cCCB\u201d) is looking for Summer Analysts to join our team. Our Commercial Banking division works with businesses with annual sales ranging from $10 million to more than $3 billion. Our Commercial Banking Team works to find",
-   "locations": [
-    "San Francisco California United States"
-   ],
-   "states": [
-    "CA"
    ],
    "extra_locations": 0
   },
