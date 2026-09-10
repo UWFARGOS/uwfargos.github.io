@@ -515,6 +515,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Wire Processing Specialist II",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Wire Processing Specialist II",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Letters of Credit Trade Advisor II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -585,12 +595,12 @@
   "reason": "requires 3+ years experience"
  },
  {
-  "title": "Controls Monitoring and Testing Consultant I",
+  "title": "Deposit Pricing Analytics Consultant",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Deposit Pricing Analytics Consultant",
+  "title": "Controls Monitoring and Testing Consultant I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -618,11 +628,6 @@
   "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
   "company": "Truist",
   "reason": "senior title"
- },
- {
-  "title": "Audit Director - Financial Crimes",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Wholesale Early Careers Development Associate",
@@ -671,11 +676,6 @@
  },
  {
   "title": "Investment Banking Analyst - Energy (Power, Utilities & Infrastructure)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Executive Assistant",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -740,11 +740,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader I/II - South 4th Street",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Branch Leader I/II - Halifax",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -791,6 +786,21 @@
  },
  {
   "title": "Branch Leader I or II Dandridge",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I or II Pickens",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader - Wylie (DeNovo)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I/II - Carlisle",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -900,11 +910,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Brokerage Registered Client Service Associate - Allentown, PA",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Associate Software Engineer / Python and AWS",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -945,12 +950,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Assistant or Associate General Counsel - Legal Contracting Tech",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Brokerage Registered Client Service Associate - Winter Park, FL",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Assistant or Associate General Counsel - Legal Contracting Tech",
+  "title": "Centralized Brokerage Registered Client Service Associate - several location options",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1016,11 +1026,6 @@
  },
  {
   "title": "Archer Sr. Business Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Product Analyst- Agile",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1217,6 +1222,11 @@
  {
   "title": "Supervisory Financial Specialist",
   "company": "Office of the Secretary of the Interior",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "AUDITOR (TITLE 5)",
+  "company": "Army National Guard Units",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2250,6 +2260,111 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant (Staff/Systems)",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "AUDITOR (TITLE 5)",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor (Performance) - Performance and Compliance Specialist",
+  "company": "Office of the Inspector General",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Auditor",
+  "company": "Office of Inspector General",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTANT (SYSTEMS)",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Analyst",
+  "company": "U.S. Secret Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business Analyst",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant (Staff/Systems)",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Audit Manager - Finance & Pricing Directorate",
+  "company": "Office of the Inspector General, USPS",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Audit Manager - Finance & Pricing Directorate",
+  "company": "Office of the Inspector General, USPS",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTING OFFICER",
+  "company": "U.S. Army Corps of Engineers",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Recreation Fee Specialist",
+  "company": "National Park Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant - TCF Trainee",
+  "company": "Veterans Health Administration",
+  "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "Financial Services Specialist",
+  "company": "U.S. Coast Guard",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Office of Justice Programs",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Office of Justice Programs",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST -Title 32",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
+  "company": "Office of the Director of National Intelligence",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2273,6 +2388,11 @@
   "title": "Finance Data Products - International Product Lead",
   "company": "Citi",
   "reason": "outside the US (London  United Kingdom)"
+ },
+ {
+  "title": "Head of International Deposit & Payment Execution",
+  "company": "Citi",
+  "reason": "outside the US (Pune Maharashtra India)"
  },
  {
   "title": "KYC Operations Analyst - International Personal Banking, Wealth Operations",
@@ -2880,11 +3000,6 @@
   "reason": "outside the US (Oaxaca Oaxaca Mexico)"
  },
  {
-  "title": "GSMG Research Senior Associate  / Commercial MBS",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Credit Senior Analyst - French speaking",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
@@ -2938,6 +3053,11 @@
   "title": "KYC Analyst",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
+ },
+ {
+  "title": "Business Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
  },
  {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
@@ -3073,10 +3193,5 @@
   "title": "Business Analytics Analyst",
   "company": "Citi",
   "reason": "outside the US (Bangalore Karnataka India)"
- },
- {
-  "title": "SAS Data Analyst",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
  }
 ]
