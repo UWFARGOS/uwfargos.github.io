@@ -2235,6 +2235,21 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Analyst",
+  "company": "Joint Activities",
+  "reason": "outside the US (Stuttgart, Germany)"
+ },
+ {
+  "title": "Financial Analyst",
+  "company": "Joint Activities",
+  "reason": "outside the US (Stuttgart, Germany)"
+ },
+ {
+  "title": "LEAD FINANCIAL MANAGEMENT ANALYST (DATA ANALYTICS)",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2590,6 +2605,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Adobe Analytics Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Bangalore Karnataka India)"
+ },
+ {
   "title": "Gen AI Developer -Assistant Vice President",
   "company": "Citi",
   "reason": "outside the US (Bangalore Karnataka India)"
@@ -2700,6 +2720,11 @@
   "reason": "outside the US (Gurugram Haryana India)"
  },
  {
+  "title": "Specialized Analytics Sr Anlst AVP",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
   "title": "CBNA and US Entities Treasury Management - Business Execution and Governance Lead Analyst VP/C13 - GETZVILLE",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2753,11 +2778,6 @@
   "title": "SUPER DAY KYC Operations Analyst",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
- },
- {
-  "title": "Banking \u2013 Corporate Baking, Full-Time Analyst, S\u00e3o Paulo \u2013 Brazil, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
  },
  {
   "title": "Job Requisition: 25843173 Citi India Apprenticeship Program - SS Ops",
@@ -2860,6 +2880,11 @@
   "reason": "outside the US (Oaxaca Oaxaca Mexico)"
  },
  {
+  "title": "GSMG Research Senior Associate  / Commercial MBS",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Credit Senior Analyst - French speaking",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
@@ -2908,6 +2933,11 @@
   "title": "TechOps Analyst",
   "company": "Citi",
   "reason": "outside the US (Pune Maharashtra India)"
+ },
+ {
+  "title": "KYC Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
  },
  {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
@@ -3048,10 +3078,5 @@
   "title": "SAS Data Analyst",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Asset Servicing Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Pune Maharashtra India)"
  }
 ]
