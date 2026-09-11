@@ -645,11 +645,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Controls Monitoring and Testing Consultant I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Head of Capital Markets Service Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -670,6 +665,21 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
+  "company": "Truist",
+  "reason": "requires 3+ years experience"
+ },
+ {
+  "title": "Controls Monitoring and Testing Consultant I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Deposit Pricing Analytics Consultant",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -686,16 +696,6 @@
  },
  {
   "title": "Head of Fraud Strategy and Transformation",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
-  "company": "Truist",
-  "reason": "senior title"
- },
- {
-  "title": "Audit Director - Financial Crimes",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -983,11 +983,6 @@
   "title": "Sport & Entertainment Group Wealth Advisor Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
-  "company": "Truist",
-  "reason": "requires 3+ years experience"
  },
  {
   "title": "Equity Research Associate - Industrials / Machinery / E&C",
@@ -2385,6 +2380,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2625,6 +2625,11 @@
   "reason": "outside the US (Paris  France)"
  },
  {
+  "title": "Banking, Investment Banking, Placement Analyst Internship, Milan - Italy 2027",
+  "company": "Citi",
+  "reason": "outside the US (Milan Milano Italy)"
+ },
+ {
   "title": "2025 Wealth Management Summer Internship, Dubai, UAE (UAE Nationals preferred)",
   "company": "Citi",
   "reason": "outside the US (Dubai United Arab Emirates)"
@@ -2643,6 +2648,11 @@
   "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst Internship, Paris - France 2027",
   "company": "Citi",
   "reason": "outside the US (Paris  France)"
+ },
+ {
+  "title": "Banking, Investment Banking, Placement Analyst, Frankfurt - Germany 2027",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst, Milan, Italy 2026 - October Intake",
@@ -2705,16 +2715,6 @@
   "reason": "outside the US (Taipei Taipei City Taiwan)"
  },
  {
-  "title": "Banking - Commercial Banking, Summer Analyst, China \u2013 APAC, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Shanghai Shanghai China)"
- },
- {
-  "title": "Banking - Commercial Banking, Summer Analyst, Hong Kong \u2013 APAC, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Kowloon  Hong Kong)"
- },
- {
   "title": "Intermediate Associate Executive Response Analyst-Retail Bank",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2723,6 +2723,11 @@
   "title": "Trading Head - Equity Principal Trading",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
+ },
+ {
+  "title": "Cyber Security Engineer",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
  },
  {
   "title": "Forward Deployed Engineer, AI Transformation - Senior Vice President",
@@ -2765,6 +2770,11 @@
   "reason": "outside the US (Bangalore Karnataka India)"
  },
  {
+  "title": "Digital Marketing Data Analyst - Python and Pyspark",
+  "company": "Citi",
+  "reason": "outside the US (Bangalore Karnataka India)"
+ },
+ {
   "title": "Digital Strategy Analyst-C11",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2783,6 +2793,11 @@
   "title": "TAX & FINANCIAL REPORTING MANAGER",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Senior Digital Marketing Data Analyst - Python and Pyspark",
+  "company": "Citi",
+  "reason": "outside the US (Bangalore Karnataka India)"
  },
  {
   "title": "Liquidity Governance, Policy and Business Management - AVP/C12 - LONG ISLAND CITY",
@@ -2975,6 +2990,11 @@
   "reason": "outside the US (Bogota  Colombia)"
  },
  {
+  "title": "Senior Business Data Analyst - Capital Market- Vice President",
+  "company": "Citi",
+  "reason": "outside the US (Pune Maharashtra India)"
+ },
+ {
   "title": "Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027",
   "company": "Citi",
   "reason": "senior title"
@@ -3000,19 +3020,24 @@
   "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
+  "title": "Services \u2013 Summer Analyst, India, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Mumbai Maharashtra India)"
+ },
+ {
   "title": "Operations -Markets Operations Fulltime Analyst , Boston Career Forum in 2026, Tokyo - Japan, 2027",
   "company": "Citi",
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
  },
  {
-  "title": "Banamex Servicio a Clientes Afore",
-  "company": "Citi",
-  "reason": "outside the US (Oaxaca Oaxaca Mexico)"
- },
- {
   "title": "Credit Senior Analyst - French speaking",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
+  "company": "Citi",
+  "reason": "outside the US (London  United Kingdom)"
  },
  {
   "title": "Research Product Manager, Assistant Vice President",
@@ -3198,10 +3223,5 @@
   "title": "KYC Analyst (Hybrid)",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
- },
- {
-  "title": "Business Analytics Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Bangalore Karnataka India)"
  }
 ]
