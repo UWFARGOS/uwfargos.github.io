@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-11T12:19:25+00:00",
- "count": 54,
+ "generated": "2026-09-11T18:17:22+00:00",
+ "count": 51,
  "jobs": [
   {
    "id": "wd-truist-R0115681",
@@ -289,28 +289,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-regions-R104951",
-   "title": "2027 ETP Intern - Wealth Management, Multiple Opportunities",
-   "company": "Regions Bank",
-   "location": "5 Locations",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Wealth-Management--Multiple-Opportuniities_R104951",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "5 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-truist-R0116842",
    "title": "Analyst I or II - Real Estate Investment Banking",
    "company": "Truist",
@@ -484,28 +462,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0118659",
-   "title": "2027 Wealth Internship Program",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
-   "posted": "Posted 3 Days Ago",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-truist-R0110874",
    "title": "2027 Corporate Banking - Summer Analyst Program (Internship) \u2013 Atlanta, GA",
    "company": "Truist",
@@ -541,27 +497,6 @@
    ],
    "bucket": "Tax",
    "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0118658",
-   "title": "2027 Wealth Analyst Program",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
-   "posted": "Posted 3 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Entry level",
    "state": null,
    "employer_kind": "bank",
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
