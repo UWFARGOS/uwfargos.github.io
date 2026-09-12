@@ -100,11 +100,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Wealth Management Client Solutions Team Leader",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Contact Center Banker - Nashville, TN",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -160,6 +155,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Branch Manager - New Providence",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Wealth Management Centralized Trading Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -211,16 +211,6 @@
  },
  {
   "title": "2027 CBG ETP Analyst - Commercial Development Program, Nashville, TN",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "2027 CBG ETP Analyst - Commercial Banking Development Program Analyst, Mobile, AL",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "2027 ETP Analyst - Corporate Banking Group, Solar Credit, Charlotte, NC",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -400,6 +390,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Credit Products Commercial Portfolio Manager",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Regulatory Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -411,11 +406,6 @@
  },
  {
   "title": "Financial Valuation Analyst",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Ascentium Credit Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -525,12 +515,22 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Business Systems Analyst - Sales and Service Consumer Systems",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Real Estate Capital Markets Business Systems Analyst- Agency Multifamily",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Credit Products Commercial Portfolio Manager",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Small Business Relationship Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -1025,11 +1025,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Brokerage Registered Client Service Associate - Alexandria, VA",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Investor Accounting & Reporting Associate - Grandbridge Real Estate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1046,6 +1041,26 @@
  },
  {
   "title": "Brokerage Registered Client Service Associate - Pittsburgh, Pennsylvania",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Brokerage Client Service Associate - Columbus or Atlanta, Georgia",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Financial Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1110,6 +1125,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Pre-Processing Quality Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Planning Analyst- Wealth Management",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1158,11 +1178,6 @@
   "title": "Corporate Trust & Escrow Services Account Analyst II",
   "company": "Truist",
   "reason": "requires 7+ years experience"
- },
- {
-  "title": "Business Data & Regulatory Reporting Analyst II or III",
-  "company": "Truist",
-  "reason": "requires 10+ years experience"
  },
  {
   "title": "AUDITOR",
@@ -2435,6 +2450,21 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant",
+  "company": "Food Safety and Inspection Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant - Technical Career Field (TCF) Trainee",
+  "company": "Veterans Health Administration",
+  "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "Staff Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "requires 4+ years experience"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2468,6 +2498,11 @@
   "title": "KYC Operations Analyst - International Personal Banking, Wealth Operations",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Officer - Ops Sup Intermed Analyst (IBCO)",
+  "company": "Citi",
+  "reason": "outside the US (Taguig  Philippines)"
  },
  {
   "title": "Asesor Previsional Afore -  Monterrey",
