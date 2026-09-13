@@ -3040,6 +3040,11 @@
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
+  "title": "Equity Research Senior Associate, Latam Consumer",
+  "company": "Citi",
+  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
+ },
+ {
   "title": "Transfer Pricing Analyst",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -3153,10 +3158,5 @@
   "title": "Fraud Ops Analyst",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
- },
- {
-  "title": "Product Analyst - AVP",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
  }
 ]
