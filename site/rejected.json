@@ -510,11 +510,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Credit Products Real Estate Portfolio Analyst - Special Servicing",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Business Systems Analyst - Sales and Service Consumer Systems",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -526,6 +521,11 @@
  },
  {
   "title": "Credit Products Commercial Portfolio Manager",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Small Business Relationship Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -710,12 +710,12 @@
   "reason": "senior title"
  },
  {
-  "title": "Deposit Pricing Analytics Consultant",
+  "title": "Enterprise Resilience Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Enterprise Resilience Officer I",
+  "title": "Deposit Pricing Analytics Consultant",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2370,6 +2370,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2625,6 +2635,11 @@
   "reason": "outside the US (Paris  France)"
  },
  {
+  "title": "Services \u2013 Treasury and Trade Solutions, Internship, S\u00e3o Paulo \u2013 Brazil \u2013 2026",
+  "company": "Citi",
+  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
+ },
+ {
   "title": "Banking, Corporate Banking, Relationship Analyst, Placement Analyst Internship, Milan - Italy 2027",
   "company": "Citi",
   "reason": "outside the US (Milan Milano Italy)"
@@ -2695,11 +2710,6 @@
   "reason": "outside the US (Taguig  Philippines)"
  },
  {
-  "title": "Banking - Investment Banking, Summer Analyst, Taiwan \u2013 APAC, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Taipei Taipei City Taiwan)"
- },
- {
   "title": "Intermediate Associate Executive Response Analyst-Retail Bank",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2708,11 +2718,6 @@
   "title": "Trading Head - Equity Principal Trading",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
- },
- {
-  "title": "Cyber Security Engineer",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
  },
  {
   "title": "Forward Deployed Engineer, AI Transformation - Senior Vice President",
@@ -2915,6 +2920,11 @@
   "reason": "outside the US (Mumbai Maharashtra India)"
  },
  {
+  "title": "Banking \u2013 Investment Banking, Full-Time Analyst, S\u00e3o Paulo \u2013 Brazil, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
+ },
+ {
   "title": "2025 Corporate Banking Full Time Analyst Program - Mexico",
   "company": "Citi",
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
@@ -3010,11 +3020,6 @@
   "reason": "outside the US (Mumbai Maharashtra India)"
  },
  {
-  "title": "Operations -Markets Operations Fulltime Analyst , Boston Career Forum in 2026, Tokyo - Japan, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
- },
- {
   "title": "Credit Senior Analyst - French speaking",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
@@ -3075,11 +3080,6 @@
   "reason": "outside the US (Pune Maharashtra India)"
  },
  {
-  "title": "KYC Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
- },
- {
   "title": "Business Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
@@ -3088,6 +3088,11 @@
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Equity Research Senior Associate, Latam Consumer",
+  "company": "Citi",
+  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
  },
  {
   "title": "Transfer Pricing Analyst",
