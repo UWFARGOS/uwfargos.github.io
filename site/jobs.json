@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-14T00:20:12+00:00",
- "count": 48,
+ "generated": "2026-09-14T06:19:52+00:00",
+ "count": 44,
  "jobs": [
   {
    "id": "wd-truist-R0118659",
@@ -62,51 +62,6 @@
    "snippet": "The Intern Analyst is an intermediate level position responsible for assisting clients in raising funds in the capital markets, as well as in providing strategic advisory services for mergers, acquisitions and other types of financial transactions in coordination with the Institu",
    "locations": [
     "TAURUS"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0110874",
-   "title": "2027 Corporate Banking - Summer Analyst Program (Internship) \u2013 Atlanta, GA",
-   "company": "Truist",
-   "location": "Atlanta, GA",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Corporate-Banking---Summer-Analyst-Program--Internship----Atlanta--GA_R0110874",
-   "posted": "Posted 5 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Internship",
-   "state": "GA",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "states": [
-    "GA"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0117520",
-   "title": "2027 Out 4 Undergrad Engineering & Sciences  Conference (Pipeline Requisition for Summer Internship Opportunities)",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Out-4-Undergrad-Engineering---Sciences--Conference--Pipeline-Requisition-for-Summer-Internship-Opportunities-_R0117520",
-   "posted": "Posted 5 Days Ago",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
    ],
    "states": [],
    "extra_locations": 0
@@ -651,52 +606,6 @@
    ],
    "states": [
     "AL"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0110096",
-   "title": "2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Atlanta",
-   "company": "Truist",
-   "location": "Atlanta, GA",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Analyst-Program--Internship----Atlanta_R0110096",
-   "posted": "Posted 11 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Internship",
-   "state": "GA",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "states": [
-    "GA"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0110097",
-   "title": "2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - Chicago",
-   "company": "Truist",
-   "location": "Chicago, IL",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Chicago-IL/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Analyst-Program--Internship----Chicago_R0110097",
-   "posted": "Posted 11 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Internship",
-   "state": "IL",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "states": [
-    "IL"
    ],
    "extra_locations": 0
   },
