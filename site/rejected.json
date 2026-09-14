@@ -675,11 +675,6 @@
   "reason": "requires 3+ years experience"
  },
  {
-  "title": "Deposit Pricing Analytics Consultant",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -708,6 +703,11 @@
   "title": "Audit Director - Financial Crimes",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Portfolio Manager - Wholesale Credit Delivery",
+  "company": "Truist",
+  "reason": "senior title"
  },
  {
   "title": "Wholesale Early Careers Development Associate",
@@ -2340,11 +2340,6 @@
   "reason": "outside the US (London  United Kingdom)"
  },
  {
-  "title": "Head of International Deposit & Payment Execution",
-  "company": "Citi",
-  "reason": "outside the US (Pune Maharashtra India)"
- },
- {
   "title": "KYC Operations Analyst - International Personal Banking, Wealth Operations",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
@@ -3040,11 +3035,6 @@
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
-  "title": "Equity Research Senior Associate, Latam Consumer",
-  "company": "Citi",
-  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
- },
- {
   "title": "Transfer Pricing Analyst",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -3158,5 +3148,10 @@
   "title": "Fraud Ops Analyst",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Product Analyst - AVP",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
  }
 ]

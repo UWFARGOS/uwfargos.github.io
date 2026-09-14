@@ -1,7 +1,29 @@
 {
- "generated": "2026-09-13T18:16:45+00:00",
- "count": 47,
+ "generated": "2026-09-14T00:20:12+00:00",
+ "count": 48,
  "jobs": [
+  {
+   "id": "wd-truist-R0118659",
+   "title": "2027 Wealth Internship Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-citi-26992089",
    "title": "Banking, Corporate Banking, Placement Analyst Internship, Frankfurt - Germany 2027",
@@ -679,22 +701,20 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0109960",
-   "title": "2027 Truist Securities - Investment Banking - Summer Analyst Program (Internship) - New York City - Multiple Groups",
-   "company": "Truist",
-   "location": "New York, NY",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Investment-Banking---Summer-Analyst-Program--Internship----New-York-City---Multiple-Groups_R0109960",
+   "id": "wd-citi-26955711",
+   "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
+   "company": "Citi",
+   "location": "Getzville New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
    "posted": "Posted 11 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
    "level": "Internship",
    "state": "NY",
    "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Buffalo office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the ",
    "locations": [
-    "New York, NY"
+    "Getzville New York United States"
    ],
    "states": [
     "NY"
