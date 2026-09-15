@@ -655,6 +655,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Head of Capital Markets Service Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -668,6 +673,21 @@
   "title": "Senior Portfolio Manager - Wholesale Credit Delivery - Not-For-Profit segment",
   "company": "Truist",
   "reason": "senior title"
+ },
+ {
+  "title": "Investment Banking VP - Industrials / Business Services",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Industrials",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Energy (Oil & Gas)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Head of Fraud Strategy and Transformation",
@@ -690,27 +710,7 @@
   "reason": "senior title"
  },
  {
-  "title": "Head of Capital Markets Service Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Enterprise Resilience Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Industrials / Business Services",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Industrials",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Energy (Oil & Gas)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -720,14 +720,14 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
   "company": "Truist",
   "reason": "requires 3+ years experience"
+ },
+ {
+  "title": "Senior Enterprise Data Risk Oversight Manager",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Wholesale Early Careers Development Associate",
@@ -1930,11 +1930,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Chief, Capital Markets Strategies, CM-1160-00",
-  "company": "Federal Deposit Insurance Corporation",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "SUPV FINANCIAL MANAGEMENT ANALYST",
   "company": "United States Fleet Forces Command",
   "reason": "no internship or entry-level signal"
@@ -2367,6 +2362,11 @@
  {
   "title": "Budget & Accounting Analyst",
   "company": "Indian Health Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Chief, Capital Markets Strategies, CM-1160-00 ",
+  "company": "Federal Deposit Insurance Corporation",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2895,6 +2895,11 @@
   "reason": "outside the US (Mumbai Maharashtra India)"
  },
  {
+  "title": "South Africa Learnership Graduate Program - Market, South Africa - Johannesburg, 2026",
+  "company": "Citi",
+  "reason": "outside the US (Johannesburg  South Africa)"
+ },
+ {
   "title": "Fresh Graduates KYC Operations Analyst 1 - Consumer Business Support Unit",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
@@ -2918,6 +2923,11 @@
   "title": "Banking \u2013 Investment Banking, Full-Time Analyst, S\u00e3o Paulo \u2013 Brazil, 2027",
   "company": "Citi",
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
+ },
+ {
+  "title": "Ref Data Mgmt Rep 5 - C05 - Gurugram",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "2025 Corporate Banking Full Time Analyst Program - Mexico",
@@ -3023,6 +3033,11 @@
   "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
   "company": "Citi",
   "reason": "outside the US (London  United Kingdom)"
+ },
+ {
+  "title": "Banking, Commercial Banking, Summer Analyst, Milan - Italy 2027",
+  "company": "Citi",
+  "reason": "outside the US (Milan Milano Italy)"
  },
  {
   "title": "Research Product Manager, Assistant Vice President",
@@ -3203,10 +3218,5 @@
   "title": "Fraud Ops Analyst",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
- },
- {
-  "title": "Product Analyst - AVP",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
  }
 ]
