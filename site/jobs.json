@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-15T12:18:43+00:00",
- "count": 48,
+ "generated": "2026-09-15T18:16:54+00:00",
+ "count": 49,
  "jobs": [
   {
    "id": "wd-regions-R105981",
@@ -136,6 +136,27 @@
    "states": [
     "GA"
    ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119191",
+   "title": "Financial Crimes Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Financial-Crimes-Analyst-I_R0119191",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Audit & Assurance",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
    "extra_locations": 0
   },
   {
@@ -350,28 +371,6 @@
    "snippet": "Officer, Cash and Trade Processing is an entry level role responsible for the processing of all regular, restricted and legal transfers in coordination with the Transaction Services team. The overall objective is to perform moderately complex cash & trade operation tasks, by prov",
    "locations": [
     "Dhaka  Bangladesh"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-25928245",
-   "title": "Client Onboarding Analyst",
-   "company": "Citi",
-   "location": "Seef  Bahrain",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Seef--Bahrain/Client-Onboarding-Analyst_25928245",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location",
-    "Sophomore eligible"
-   ],
-   "bucket": "General Finance & Accounting",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Come and join our Client Onboarding team in Bahrain! Are you looking for a career move that will put you at the heart of a global financial institution? Then bring your strong knowledge in FX Market and your skills in Excel, communication, problem-solving, communication, leadersh",
-   "locations": [
-    "Seef  Bahrain"
    ],
    "states": [],
    "extra_locations": 0
@@ -678,6 +677,27 @@
    ],
    "states": [
     "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26955732",
+   "title": "Functions - Risk Management, Summer Analyst, Tampa - USA, 2027",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732",
+   "posted": "Posted 13 Days Ago",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Tampa office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the fi",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
    ],
    "extra_locations": 0
   },
