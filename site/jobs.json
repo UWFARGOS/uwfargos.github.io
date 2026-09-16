@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-16T00:19:49+00:00",
- "count": 51,
+ "generated": "2026-09-16T06:19:02+00:00",
+ "count": 52,
  "jobs": [
   {
    "id": "wd-regions-R105981",
@@ -416,6 +416,27 @@
     "Dhaka  Bangladesh"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-25928747",
+   "title": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027",
+   "company": "Citi",
+   "location": "New York New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "NAM Quantitative Analysis, Summer Analyst Program \u2013 New York (North America - 2027) \u00a0 You're the brains behind our work. \u00a0 Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it\u2019s honing your skills or building ",
+   "locations": [
+    "New York New York United States"
+   ],
+   "states": [
+    "NY"
+   ],
    "extra_locations": 0
   },
   {
