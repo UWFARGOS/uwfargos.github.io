@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T12:19:41+00:00",
+ "generated": "2026-09-17T18:20:41+00:00",
  "count": 55,
  "jobs": [
   {
@@ -105,6 +105,29 @@
    ],
    "states": [
     "DE"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R106092",
+   "title": "2027 ETP Intern \u2013 Private Wealth Management, St. Louis, MO",
+   "company": "Regions Bank",
+   "location": "St Louis, MO - Midtown St Louis Branch",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/St-Louis-MO---Midtown-St-Louis-Branch/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "MO",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "St Louis, MO - Midtown St Louis Branch"
+   ],
+   "states": [
+    "MO"
    ],
    "extra_locations": 0
   },
@@ -298,27 +321,6 @@
     "Dhaka  Bangladesh"
    ],
    "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-25928747",
-   "title": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027",
-   "company": "Citi",
-   "location": "New York New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": "NY",
-   "employer_kind": "bank",
-   "snippet": "NAM Quantitative Analysis, Summer Analyst Program \u2013 New York (North America - 2027) \u00a0 You're the brains behind our work. \u00a0 Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it\u2019s honing your skills or building ",
-   "locations": [
-    "New York New York United States"
-   ],
-   "states": [
-    "NY"
-   ],
    "extra_locations": 0
   },
   {
@@ -868,18 +870,18 @@
    "extra_locations": 0
   },
   {
-   "id": "us-CBTA-13066250-26-TM",
+   "id": "us-CBTA-13067929-26-TM",
    "title": "Staff Accountant",
    "company": "Veterans Health Administration",
    "location": "Hampton, Virginia",
-   "url": "https://www.usajobs.gov:443/job/885034800",
-   "posted": "2026-09-17T00:00:00.0000",
+   "url": "https://www.usajobs.gov:443/job/885180500",
+   "posted": "2026-09-17T12:43:18.5930",
    "flags": [],
    "bucket": "Accounting Operations",
    "level": "Entry level",
    "state": "VA",
    "employer_kind": "government",
-   "snippet": "To qualify for this position, applicants must meet all requirements by the closing date of this announcement, 09/28/2026. You may qualify based on your experience and/or education as described below:GS-09 level: Specialized Experience: You must have one year of specialized experi",
+   "snippet": "To qualify for this position, applicants must meet all requirements by the closing date of this announcement, 09/28/2026. You may qualify based on your experience and/or education as described below: GS-09 level: Specialized Experience: You must have one year of specialized exper",
    "locations": [
     "Hampton, Virginia"
    ],
