@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-16T18:18:30+00:00",
- "count": 52,
+ "generated": "2026-09-17T00:18:45+00:00",
+ "count": 54,
  "jobs": [
   {
    "id": "wd-truist-R0119215",
@@ -88,6 +88,28 @@
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
     "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119240",
+   "title": "2027 Truist Audit Services Internship Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Audit-Services-Intern_R0119240",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Audit & Assurance",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
    ],
    "states": [],
    "extra_locations": 0
@@ -347,25 +369,24 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-25928245",
-   "title": "Client Onboarding Analyst",
+   "id": "wd-citi-25928747",
+   "title": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027",
    "company": "Citi",
-   "location": "Seef  Bahrain",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Seef--Bahrain/Client-Onboarding-Analyst_25928245",
+   "location": "New York New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747",
    "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location",
-    "Sophomore eligible"
-   ],
-   "bucket": "General Finance & Accounting",
+   "flags": [],
+   "bucket": "Insurance & Actuarial",
    "level": "Internship",
-   "state": null,
+   "state": "NY",
    "employer_kind": "bank",
-   "snippet": "Come and join our Client Onboarding team in Bahrain! Are you looking for a career move that will put you at the heart of a global financial institution? Then bring your strong knowledge in FX Market and your skills in Excel, communication, problem-solving, communication, leadersh",
+   "snippet": "NAM Quantitative Analysis, Summer Analyst Program \u2013 New York (North America - 2027) \u00a0 You're the brains behind our work. \u00a0 Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it\u2019s honing your skills or building ",
    "locations": [
-    "Seef  Bahrain"
+    "New York New York United States"
    ],
-   "states": [],
+   "states": [
+    "NY"
+   ],
    "extra_locations": 0
   },
   {
@@ -759,6 +780,27 @@
    ],
    "states": [
     "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26955732",
+   "title": "Functions - Risk Management, Summer Analyst, Tampa - USA, 2027",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732",
+   "posted": "Posted 14 Days Ago",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Tampa office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the fi",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
    ],
    "extra_locations": 0
   },
