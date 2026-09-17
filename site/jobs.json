@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-17T00:18:45+00:00",
- "count": 54,
+ "generated": "2026-09-17T06:19:07+00:00",
+ "count": 55,
  "jobs": [
   {
    "id": "wd-truist-R0119215",
@@ -865,6 +865,27 @@
     "TAURUS"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "us-CBTA-13066250-26-TM",
+   "title": "Staff Accountant",
+   "company": "Veterans Health Administration",
+   "location": "Hampton, Virginia",
+   "url": "https://www.usajobs.gov:443/job/885034800",
+   "posted": "2026-09-17T00:00:00.0000",
+   "flags": [],
+   "bucket": "Accounting Operations",
+   "level": "Entry level",
+   "state": "VA",
+   "employer_kind": "government",
+   "snippet": "To qualify for this position, applicants must meet all requirements by the closing date of this announcement, 09/28/2026. You may qualify based on your experience and/or education as described below:GS-09 level: Specialized Experience: You must have one year of specialized experi",
+   "locations": [
+    "Hampton, Virginia"
+   ],
+   "states": [
+    "VA"
+   ],
    "extra_locations": 0
   },
   {
