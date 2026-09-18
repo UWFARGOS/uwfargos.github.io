@@ -595,11 +595,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Wire Processing Specialist II",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Controls Monitoring and Testing Consultant I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -650,17 +645,27 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Wire Processing Specialist II",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Risk Data and Reporting Senior Analyst II",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
+  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Sr Investment Banking Associate - TMT",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "ECM Corporate Services Associate III",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -678,11 +683,6 @@
   "title": "Equity Capital Markets Vice President",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Risk Data and Reporting Senior Analyst II",
-  "company": "Truist",
-  "reason": "senior title"
  },
  {
   "title": "FIG Investment Banking Associate",
@@ -706,6 +706,11 @@
  },
  {
   "title": "Head of Capital Markets Service Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Industrials",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -886,6 +891,11 @@
  },
  {
   "title": "Branch Leader I or II Ezell Boulevard",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader- Freedom Drive",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1180,6 +1190,11 @@
   "reason": "requires 6+ years experience"
  },
  {
+  "title": "Grandbridge Loan Administration Analyst - Property Tax",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "AUDITOR",
   "company": "Air Force Civilian Career Training",
   "reason": "no internship or entry-level signal"
@@ -1317,6 +1332,11 @@
  {
   "title": "Accountant",
   "company": "Immediate Office of the Assistant Secretary for Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2395,6 +2415,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant",
+  "company": "Office of the Chief Financial Officer",
+  "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2785,7 +2815,7 @@
   "reason": "outside the US (Warsaw  Poland)"
  },
  {
-  "title": "Data Science  Analyst",
+  "title": "Senior Data Science - Gen AI Analyst",
   "company": "Citi",
   "reason": "outside the US (Bangalore Karnataka India)"
  },
@@ -3120,22 +3150,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
-  "company": "Citi",
-  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
- },
- {
   "title": "Banking - Commercial Banking, Summer Analyst, Taiwan \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Taipei Taipei City Taiwan)"
  },
  {
-  "title": "Operations - Full Time Analyst, Penang , 2026",
-  "company": "Citi",
-  "reason": "outside the US (Penang Pulau Pinang (penang) Malaysia)"
- },
- {
-  "title": "Operations - Full Time Analyst, Kuala Lumpur, 2026",
+  "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
@@ -3143,6 +3163,21 @@
   "title": "Operations - Full Time Analyst, Penang , 2026",
   "company": "Citi",
   "reason": "outside the US (Penang Pulau Pinang (penang) Malaysia)"
+ },
+ {
+  "title": "Operations - Full Time Analyst, Penang , 2026",
+  "company": "Citi",
+  "reason": "outside the US (Penang Pulau Pinang (penang) Malaysia)"
+ },
+ {
+  "title": "Banking - Commercial Banking, Summer Analyst, China \u2013 APAC, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Shanghai Shanghai China)"
+ },
+ {
+  "title": "Banking - Commercial Banking, Summer Analyst, Korea, Republic of \u2013 APAC, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Seoul  Korea, Republic Of)"
  },
  {
   "title": "Transfer Pricing Analyst",
@@ -3208,15 +3243,5 @@
   "title": "Officer, Credit Analyst",
   "company": "Citi",
   "reason": "outside the US (Kowloon  Hong Kong)"
- },
- {
-  "title": "Officer, Credit Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Kowloon  Hong Kong)"
- },
- {
-  "title": "KYC Operations Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Mumbai Maharashtra India)"
  }
 ]
