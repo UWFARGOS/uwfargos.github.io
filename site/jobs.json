@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-18T00:18:57+00:00",
- "count": 57,
+ "generated": "2026-09-18T06:18:09+00:00",
+ "count": 56,
  "jobs": [
   {
    "id": "wd-truist-R0119240",
@@ -341,29 +341,6 @@
    ],
    "states": [
     "NY"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R105981",
-   "title": "2027 CBG ETP Intern -  Real Estate Banking, Multiple Opportunities and Locations v2",
-   "company": "Regions Bank",
-   "location": "Charlotte, NC - Charlotte Uptown Branch",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Charlotte-NC---Charlotte-Uptown-Branch/XMLNAME-2027-CBG-ETP-Intern----Real-Estate-Banking--Multiple-Opportunities-and-Locations-v2_R105981",
-   "posted": "Posted 3 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "NC",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Charlotte, NC - Charlotte Uptown Branch"
-   ],
-   "states": [
-    "NC"
    ],
    "extra_locations": 0
   },
