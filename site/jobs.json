@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-17T18:20:41+00:00",
- "count": 55,
+ "generated": "2026-09-18T00:18:57+00:00",
+ "count": 57,
  "jobs": [
   {
    "id": "wd-truist-R0119240",
@@ -112,8 +112,8 @@
    "id": "wd-regions-R106092",
    "title": "2027 ETP Intern \u2013 Private Wealth Management, St. Louis, MO",
    "company": "Regions Bank",
-   "location": "St Louis, MO - Midtown St Louis Branch",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/St-Louis-MO---Midtown-St-Louis-Branch/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
+   "location": "Clayton, MO - Clayton Banking Building (St Louis, MO)",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clayton-MO---Clayton-Banking-Building-St-Louis-MO/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
    "posted": "Posted Today",
    "flags": [
     "No sponsorship"
@@ -124,7 +124,7 @@
    "employer_kind": "bank",
    "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
    "locations": [
-    "St Louis, MO - Midtown St Louis Branch"
+    "Clayton, MO - Clayton Banking Building (St Louis, MO)"
    ],
    "states": [
     "MO"
@@ -321,6 +321,27 @@
     "Dhaka  Bangladesh"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-25928747",
+   "title": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027",
+   "company": "Citi",
+   "location": "New York New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "NAM Quantitative Analysis, Summer Analyst Program \u2013 New York (North America - 2027) \u00a0 You're the brains behind our work. \u00a0 Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it\u2019s honing your skills or building ",
+   "locations": [
+    "New York New York United States"
+   ],
+   "states": [
+    "NY"
+   ],
    "extra_locations": 0
   },
   {
@@ -867,6 +888,29 @@
     "TAURUS"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "us-CARZ-13065973-26-DLe",
+   "title": "Accountant",
+   "company": "Veterans Health Administration",
+   "location": "Roanoke, Virginia",
+   "url": "https://www.usajobs.gov:443/job/885221300",
+   "posted": "2026-09-17T14:40:31.9030",
+   "flags": [
+    "Sophomore eligible"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "VA",
+   "employer_kind": "government",
+   "snippet": "Applicant(s) must meet at least one of the following Basic Requirements to qualify for this Accountant position. A. Bachelor's Degree (or higher) (Transcript Required): accounting; or a degree in a related field such as business administration, finance, or public administration t",
+   "locations": [
+    "Roanoke, Virginia"
+   ],
+   "states": [
+    "VA"
+   ],
    "extra_locations": 0
   },
   {
