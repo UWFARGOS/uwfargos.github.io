@@ -615,6 +615,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Brokerage Registered Client Service Associate - Maryland",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Learning & Instruction Consultant- Sales Leadership Facilitator",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Equity Capital Markets VP",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -625,14 +635,19 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Brokerage Registered Client Service Associate - Maryland",
+  "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Learning & Instruction Consultant- Sales Leadership Facilitator",
+  "title": "Wealth Senior Transformation Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Portfolio Manager - Wholesale Credit Delivery - Not-For-Profit segment",
+  "company": "Truist",
+  "reason": "senior title"
  },
  {
   "title": "FIG Investment Banking Associate",
@@ -651,6 +666,31 @@
  },
  {
   "title": "Sr Investment Banking Associate - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Head of Fraud Strategy and Transformation",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
+  "title": "Audit Director - Financial Crimes",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Portfolio Manager - Wholesale Credit Delivery",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
+  "title": "Enterprise Resilience Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -675,49 +715,9 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
-  "company": "Truist",
-  "reason": "requires 3+ years experience"
- },
- {
-  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
+  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wealth Senior Transformation Manager",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Portfolio Manager - Wholesale Credit Delivery - Not-For-Profit segment",
-  "company": "Truist",
-  "reason": "senior title"
- },
- {
-  "title": "Head of Fraud Strategy and Transformation",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
-  "company": "Truist",
-  "reason": "senior title"
- },
- {
-  "title": "Audit Director - Financial Crimes",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Portfolio Manager - Wholesale Credit Delivery",
-  "company": "Truist",
-  "reason": "senior title"
  },
  {
   "title": "Wholesale Early Careers Program Manager, Payments Program",
@@ -1000,6 +1000,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
+  "company": "Truist",
+  "reason": "requires 3+ years experience"
+ },
+ {
   "title": "Equity Research Associate - Industrials / Machinery / E&C",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1036,6 +1041,11 @@
  },
  {
   "title": "Brokerage Registered Client Service Associate - Manassas, VA",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1190,11 +1200,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Change Delivery Project Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Sr. Financial Analyst IBCM CFO Group",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1206,6 +1211,11 @@
  },
  {
   "title": "Grandbridge Loan Administration Analyst - Property Tax",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Product Analyst - Deposits - Small Business",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -3045,11 +3055,6 @@
   "reason": "requires 7+ years experience"
  },
  {
-  "title": "Quantitative Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
   "title": "Project Analyst",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
@@ -3198,5 +3203,10 @@
   "title": "Product Analyst - AVP",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business Analytics Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Bangalore Karnataka India)"
  }
 ]
