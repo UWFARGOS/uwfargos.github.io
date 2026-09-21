@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T06:19:28+00:00",
+ "generated": "2026-09-21T12:18:42+00:00",
  "count": 49,
  "jobs": [
   {
@@ -8,7 +8,7 @@
    "company": "Truist",
    "location": "Charlotte, NC",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Internship-Program---Consumer---Small-Business-Banking_R0119236",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "flags": [
     "Sophomore eligible",
     "No sponsorship"
@@ -32,7 +32,7 @@
    "company": "Citi",
    "location": "Atlanta Georgia United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Atlanta-Georgia-United-States/Banking---Corporate-Banking--Summer-Analyst--Atlanta---US--2027_26994662",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",
@@ -53,7 +53,7 @@
    "company": "Truist",
    "location": "Charlotte, NC",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Internship--Risk-Management-Program_R0119215",
-   "posted": "Posted 5 Days Ago",
+   "posted": "Posted 6 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -76,7 +76,7 @@
    "company": "Truist",
    "location": "Charlotte, NC",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Consumer---Small-Business-Banking--CSBB--Analyst-Program_R0119210",
-   "posted": "Posted 5 Days Ago",
+   "posted": "Posted 6 Days Ago",
    "flags": [
     "Sophomore eligible",
     "No sponsorship"
@@ -100,7 +100,7 @@
    "company": "Truist",
    "location": "3 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Financial-Crimes-Analyst-I_R0119191",
-   "posted": "Posted 5 Days Ago",
+   "posted": "Posted 6 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -121,7 +121,7 @@
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Audit-Services-Intern_R0119240",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -143,7 +143,7 @@
    "company": "Citi",
    "location": "Libreville  Gabon",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Libreville--Gabon/Internship---Corporate-Banking--Intern--Gabon---Libreville-2026_26956565",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -164,7 +164,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -185,7 +185,7 @@
    "company": "Citi",
    "location": "THE SUMMIT - CIUDAD DE MEXICO",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
-   "posted": "Posted 4 Days Ago",
+   "posted": "Posted 5 Days Ago",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -197,6 +197,29 @@
    ],
    "states": [
     "DE"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R106092",
+   "title": "2027 ETP Intern \u2013 Private Wealth Management, St. Louis, MO",
+   "company": "Regions Bank",
+   "location": "Clayton, MO - Clayton Banking Building (St Louis, MO)",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clayton-MO---Clayton-Banking-Building-St-Louis-MO/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
+   "posted": "Posted 4 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "MO",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Clayton, MO - Clayton Banking Building (St Louis, MO)"
+   ],
+   "states": [
+    "MO"
    ],
    "extra_locations": 0
   },
@@ -375,57 +398,12 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-25928245",
-   "title": "Client Onboarding Analyst",
-   "company": "Citi",
-   "location": "Seef  Bahrain",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Seef--Bahrain/Client-Onboarding-Analyst_25928245",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location",
-    "Sophomore eligible"
-   ],
-   "bucket": "General Finance & Accounting",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Come and join our Client Onboarding team in Bahrain! Are you looking for a career move that will put you at the heart of a global financial institution? Then bring your strong knowledge in FX Market and your skills in Excel, communication, problem-solving, communication, leadersh",
-   "locations": [
-    "Seef  Bahrain"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R106092",
-   "title": "2027 ETP Intern \u2013 Private Wealth Management, St. Louis, MO",
-   "company": "Regions Bank",
-   "location": "Clayton, MO - Clayton Banking Building (St Louis, MO)",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clayton-MO---Clayton-Banking-Building-St-Louis-MO/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
-   "posted": "Posted 3 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": "MO",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Clayton, MO - Clayton Banking Building (St Louis, MO)"
-   ],
-   "states": [
-    "MO"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-truist-R0114407",
    "title": "Process Analyst II",
    "company": "Truist",
    "location": "4 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA---1001-Semmes-Ave---Truist-Plaza-Richmond/Process-Analyst-II_R0114407",
-   "posted": "Posted 27 Days Ago",
+   "posted": "Posted 28 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -446,7 +424,7 @@
    "company": "Citi",
    "location": "Houston Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",
@@ -467,7 +445,7 @@
    "company": "Citi",
    "location": "THE SUMMIT - CIUDAD DE MEXICO",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Markets---Sales-and-Trading--Internship--Mexico-City--Mexico-2027_26983640",
-   "posted": "Posted 23 Days Ago",
+   "posted": "Posted 24 Days Ago",
    "flags": [],
    "bucket": "Investment Banking & Markets",
    "level": "Internship",
@@ -488,7 +466,7 @@
    "company": "Regions Bank",
    "location": "3 Locations",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Human-Resources--Multiple-Opportunities--Birmingham--AL_R105681",
-   "posted": "Posted 20 Days Ago",
+   "posted": "Posted 21 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -510,7 +488,7 @@
    "company": "Regions Bank",
    "location": "3 Locations",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Human-Resources-Data-and-Analytics--Birmingham--AL_R105679",
-   "posted": "Posted 20 Days Ago",
+   "posted": "Posted 21 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -532,7 +510,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Grade--Debt-Capital-Markets-Analyst-I_R0118559",
-   "posted": "Posted 19 Days Ago",
+   "posted": "Posted 20 Days Ago",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -553,7 +531,7 @@
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Marketing-and-Communications--Multiple-Opportunities--Birmingham--AL_R105737",
-   "posted": "Posted 18 Days Ago",
+   "posted": "Posted 19 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -576,7 +554,7 @@
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Community-Engagement--Birmingham--AL_R105772",
-   "posted": "Posted 18 Days Ago",
+   "posted": "Posted 19 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -599,7 +577,7 @@
    "company": "Citi",
    "location": "Getzville New York United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
-   "posted": "Posted 18 Days Ago",
+   "posted": "Posted 19 Days Ago",
    "flags": [],
    "bucket": "Wealth & Financial Planning",
    "level": "Internship",
@@ -620,7 +598,7 @@
    "company": "Citi",
    "location": "Irving Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
-   "posted": "Posted 18 Days Ago",
+   "posted": "Posted 19 Days Ago",
    "flags": [],
    "bucket": "Wealth & Financial Planning",
    "level": "Internship",
@@ -636,12 +614,33 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-citi-26955732",
+   "title": "Functions - Risk Management, Summer Analyst, Tampa - USA, 2027",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732",
+   "posted": "Posted 19 Days Ago",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Tampa office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the fi",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
+   ],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0118764",
    "title": "Fiduciary Operations Analyst II",
    "company": "Truist",
    "location": "Richmond, VA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Fiduciary-Operations-Analyst-II_R0118764",
-   "posted": "Posted 17 Days Ago",
+   "posted": "Posted 18 Days Ago",
    "flags": [],
    "bucket": "Tax",
    "level": "Entry level",
@@ -662,7 +661,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Corporate-Banking--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992089",
-   "posted": "Posted 16 Days Ago",
+   "posted": "Posted 17 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -683,7 +682,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Financing--Equity-Capital-Markets-Placement-Analyst-Internship--Frankfurt---Germany-2027_26992449",
-   "posted": "Posted 16 Days Ago",
+   "posted": "Posted 17 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -704,7 +703,7 @@
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Commercial---Specialized-Industries-Analyst-II_R0115681-1",
-   "posted": "Posted 10 Days Ago",
+   "posted": "Posted 11 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -725,7 +724,7 @@
    "company": "Citi",
    "location": "San Francisco California United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Banking---Corporate-Banking--Summer-Analyst--San-Francisco---US--2027_25926646",
-   "posted": "Posted 10 Days Ago",
+   "posted": "Posted 11 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",

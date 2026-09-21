@@ -635,7 +635,7 @@
   "reason": "senior title"
  },
  {
-  "title": "Enterprise Resilience Officer I",
+  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -650,12 +650,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
+  "title": "Enterprise Resilience Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -670,17 +665,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Enterprise Data Risk Oversight Manager",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Equity Capital Markets VP",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Equity Capital Markets Vice President",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Enterprise Risk Framework Senior Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -701,6 +696,11 @@
  },
  {
   "title": "Sr Investment Banking Associate - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Enterprise Risk Framework Senior Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2430,6 +2430,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Associate Advocate",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Associate Advocate",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2845,11 +2855,6 @@
   "reason": "outside the US (Pune Maharashtra India)"
  },
  {
-  "title": "Vice President, Fund Accounting Sr Manager - Reconciliation",
-  "company": "Citi",
-  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
- },
- {
   "title": "Assistant Vice President Data Science and Gen AI",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
@@ -3005,11 +3010,6 @@
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
  },
  {
-  "title": "",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Banking - Corporate Banking, Summer Analyst, Singapore \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
@@ -3070,6 +3070,11 @@
   "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
+  "title": "Services \u2013 Summer Analyst, India, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Mumbai Maharashtra India)"
+ },
+ {
   "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
   "company": "Citi",
   "reason": "outside the US (London  United Kingdom)"
@@ -3110,6 +3115,11 @@
   "reason": "requires 7+ years experience"
  },
  {
+  "title": "Quantitative Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
   "title": "Project Analyst",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
@@ -3133,6 +3143,11 @@
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "U.S. Consumer Cards - Full-Time Analyst, New York - USA, 2027",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Transfer Pricing Analyst",
@@ -3243,25 +3258,5 @@
   "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
- },
- {
-  "title": "Fraud Ops Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
- },
- {
-  "title": "Product Analyst - AVP",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Business Analytics Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Bangalore Karnataka India)"
- },
- {
-  "title": "SAS Data Analyst",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
  }
 ]
