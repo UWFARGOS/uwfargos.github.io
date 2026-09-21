@@ -80,6 +80,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Commercial Card Solutions Technical Support Specialist",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Corporate Security Field Investigator",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -121,11 +126,6 @@
  },
  {
   "title": "Contact Center Banker - Nashville, TN",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Trust Relationship Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -640,17 +640,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Sr Investment Banking Associate - TMT",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "ECM Corporate Services Associate III",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -731,11 +731,6 @@
  },
  {
   "title": "Wholesale Credit Delivery Associate I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "2027 Truist Analyst Program - Technology, Data, and Operations Track",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1360,6 +1355,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "United States Fleet Forces Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Accountant",
   "company": "Central Intelligence Agency",
   "reason": "no internship or entry-level signal"
@@ -1482,6 +1482,11 @@
  {
   "title": "Financial Specialist",
   "company": "U.S. Courts",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "U.S. Army Corps of Engineers",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1747,11 +1752,6 @@
  {
   "title": "Supervisory Recreation Fee Specialist",
   "company": "National Park Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Services Specialist",
-  "company": "U.S. Coast Guard",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2060,6 +2060,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Management Specialist",
+  "company": "Drug Enforcement Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Systems Specialist",
   "company": "U.S. Army Training and Doctrine Command",
   "reason": "no internship or entry-level signal"
@@ -2107,6 +2112,11 @@
  {
   "title": "Resource Management Officer",
   "company": "United States Army Installation Management Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Analyst",
+  "company": "Naval Air Systems Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2180,6 +2190,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Advisor for Financial Strategies & Policy",
+  "company": "Office of the Chief Financial Officer",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Excise Tax Auditor",
   "company": "Alcohol and Tobacco Tax and Trade Bureau",
   "reason": "no internship or entry-level signal"
@@ -2207,6 +2222,11 @@
  {
   "title": "Supervisory Financial Management Specialist (Branch Manager)",
   "company": "Centers for Medicare & Medicaid Services",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SPECIALIST",
+  "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2265,6 +2285,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "Bureau of Naval Personnel",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Senior Tax Analyst",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -2305,6 +2330,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Bureau of Naval Personnel",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "COST ANALYST",
   "company": "Air Force Elements, U.S. Transportation Command",
   "reason": "no internship or entry-level signal"
@@ -2320,9 +2350,29 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Chief Financial Management Specialist",
+  "company": "Immediate Office of the Assistant Secretary for Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SYSTEMS SPECIALIST (CYBER)",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "INTERNAL CONTROL ANALYST - TITLE 5",
   "company": "Air National Guard Units",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST (DATA ANALYTICS)",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "outside the US (Kaiserslautern, Germany)"
+ },
+ {
+  "title": "ACCOUNTANT",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "outside the US (Kaiserslautern, Germany)"
  },
  {
   "title": "Accountant (Factory Operational Accountant)",
@@ -2330,8 +2380,18 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Financial Integrity Specialist",
+  "company": "Health Resources and Services Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Management Specialist",
   "company": "Defense Security Cooperation Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Associate Advocate",
+  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2350,8 +2410,23 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "United States Fleet Forces Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Program Specialist (Financial Specialist)",
   "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business Administrator",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
+  "company": "National Institutes of Health",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2710,11 +2785,6 @@
   "reason": "outside the US (Bangalore Karnataka India)"
  },
  {
-  "title": "Gen AI Developer - Assistant Vice President",
-  "company": "Citi",
-  "reason": "outside the US (Bangalore Karnataka India)"
- },
- {
   "title": "Assistant Vice President, Balance Sheet Analytics Developer \u2013 Treasury ALM",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -2935,9 +3005,9 @@
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
  },
  {
-  "title": "Business Data Analyst- Assistant Vice President",
+  "title": "",
   "company": "Citi",
-  "reason": "outside the US (Pune Maharashtra India)"
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Banking - Corporate Banking, Summer Analyst, Singapore \u2013 APAC, 2027",
@@ -2975,11 +3045,6 @@
   "reason": "outside the US (Bogota  Colombia)"
  },
  {
-  "title": "Senior Business Data Analyst - Capital Market- Vice President",
-  "company": "Citi",
-  "reason": "outside the US (Pune Maharashtra India)"
- },
- {
   "title": "Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027",
   "company": "Citi",
   "reason": "senior title"
@@ -2998,6 +3063,11 @@
   "title": "Services - Summer Analyst, China, 2027",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
+ },
+ {
+  "title": "Services - Summer Analyst, Hong Kong, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
   "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
@@ -3045,11 +3115,6 @@
   "reason": "outside the US (Gurugram Haryana India)"
  },
  {
-  "title": "TechOps Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Pune Maharashtra India)"
- },
- {
   "title": "Business Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
@@ -3060,14 +3125,14 @@
   "reason": "requires 2+ years experience"
  },
  {
-  "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
-  "company": "Citi",
-  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
- },
- {
   "title": "Equity Research Senior Associate - TMT & Healthcare",
   "company": "Citi",
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
+ },
+ {
+  "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
+  "company": "Citi",
+  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
   "title": "Transfer Pricing Analyst",
@@ -3193,5 +3258,10 @@
   "title": "Business Analytics Analyst",
   "company": "Citi",
   "reason": "outside the US (Bangalore Karnataka India)"
+ },
+ {
+  "title": "SAS Data Analyst",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
  }
 ]
