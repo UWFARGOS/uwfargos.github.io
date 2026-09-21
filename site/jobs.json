@@ -1,7 +1,30 @@
 {
- "generated": "2026-09-21T12:18:42+00:00",
+ "generated": "2026-09-21T18:18:47+00:00",
  "count": 49,
  "jobs": [
+  {
+   "id": "wd-regions-R106052",
+   "title": "Business Systems Analyst",
+   "company": "Regions Bank",
+   "location": "3 Locations",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Business-Systems-Analyst_R106052",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "Sophomore eligible",
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-truist-R0119236",
    "title": "2027 Truist Internship Program - Consumer & Small Business Banking",
@@ -92,27 +115,6 @@
    "states": [
     "NC"
    ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119191",
-   "title": "Financial Crimes Analyst I",
-   "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Financial-Crimes-Analyst-I_R0119191",
-   "posted": "Posted 6 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Audit & Assurance",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
    "extra_locations": 0
   },
   {

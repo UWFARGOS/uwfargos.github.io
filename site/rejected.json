@@ -195,6 +195,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Commercial Relationship Manager",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Solar Finance Associate",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -535,17 +540,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Private Wealth Management Wealth Advisor",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Internal Auditor II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Sr Internal Auditor - Technology",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Sr Internal Auditor - Enterprise Payments",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -600,6 +605,21 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Sr Investment Banking Associate - TMT",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ECM Corporate Services Associate III",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -613,6 +633,16 @@
   "title": "Senior Portfolio Manager - Wholesale Credit Delivery - Not-For-Profit segment",
   "company": "Truist",
   "reason": "senior title"
+ },
+ {
+  "title": "Brokerage Registered Client Service Associate - Maryland",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Learning & Instruction Consultant- Sales Leadership Facilitator",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Head of Fraud Strategy and Transformation",
@@ -635,17 +665,12 @@
   "reason": "senior title"
  },
  {
-  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
+  "title": "Equity Capital Markets VP",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Sr Investment Banking Associate - TMT",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "ECM Corporate Services Associate III",
+  "title": "Equity Capital Markets Vice President",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -655,27 +680,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Brokerage Registered Client Service Associate - Maryland",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Learning & Instruction Consultant- Sales Leadership Facilitator",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Enterprise Data Risk Oversight Manager",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Equity Capital Markets VP",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Equity Capital Markets Vice President",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -696,11 +701,6 @@
  },
  {
   "title": "Sr Investment Banking Associate - Healthcare",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Enterprise Risk Framework Senior Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -815,11 +815,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader - Western Carolina Area",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Branch Leader I, II or III - Northside Parkway",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -895,11 +890,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader I, II, III - Coral Way",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Audit Director - Wholesale Lending",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -920,7 +910,22 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Branch Leader - Reynolda Road",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader - Baldwin Park",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Asset Liability Management Associate or Senior Associate",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Wealth Advisor Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -961,11 +966,6 @@
  },
  {
   "title": "Associate / Senior Associate - Middle Market Credit Delivery - Cash Flow / EV",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Associate - Middle Market Credit Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1055,22 +1055,22 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Brokerage Client Service Associate - Lake Mary, FL",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Brokerage Client Service Associate - Charleston, West Virginia",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Brokerage Registered Client Service Associate - Winter Park, FL",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Centralized Brokerage Registered Client Service Associate - several location options",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Attorney - Investment Banking and Capital Markets",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Consumer Litigation Attorney - Deposits",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1085,7 +1085,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Treasury Sales Analyst",
+  "title": "",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1098,16 +1098,6 @@
   "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Treasury Sales Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "CAC Analyst II",
-  "company": "Truist",
-  "reason": "requires 2+ years experience"
  },
  {
   "title": "Treasury Sales Analyst",
@@ -1160,12 +1150,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Pre-Processing Quality Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Crimes Analyst III",
+  "title": "Corporate Treasury Economic Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1176,6 +1161,11 @@
  },
  {
   "title": "Director Equity Research Analyst - Consumer",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Enterprise Risk Framework Senior Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1191,6 +1181,11 @@
  },
  {
   "title": "Asset Liability Management Senior Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Middle Market Credit Delivery Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1216,6 +1211,16 @@
  },
  {
   "title": "Senior Product Analyst - Deposits - Small Business",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Equity Research Analyst - Building Products (Industrials)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Middle Market Credit Delivery Senior Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1357,6 +1362,16 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "United States Fleet Forces Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Special Operations Program Director (Supervisory Auditor)",
+  "company": "Alcohol and Tobacco Tax and Trade Bureau",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1935,7 +1950,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Chief, Capital Markets Strategies, CM-1160-00 ",
+  "title": "Chief, Capital Markets Strategies, CM-1160-00 (Merit Promotion)",
   "company": "Federal Deposit Insurance Corporation",
   "reason": "no internship or entry-level signal"
  },
@@ -2440,6 +2455,36 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Program/Cost Analyst (Financial Policy)",
+  "company": "Citizenship and Immigration Services",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Special Operations Program Director (Supervisory Auditor)",
+  "company": "Alcohol and Tobacco Tax and Trade Bureau",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Chief, Capital Markets Strategies, CM-1160-00 (Public)",
+  "company": "Federal Deposit Insurance Corporation",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "AUDITOR - Title 5",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST (TEAM LEAD)",
+  "company": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2750,6 +2795,11 @@
   "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
+  "title": "Corporate Banking Analyst or Senior Analyst - Tech, Media, Telecom",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Wealth - Citigold, Summer Analyst, Singapore, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
@@ -2758,11 +2808,6 @@
   "title": "Wealth - Private Bank, Summer Analyst,  Singapore, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
- },
- {
-  "title": "Banking - Corporate Banking, Summer Analyst, China \u2013 APAC, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Shanghai Shanghai China)"
  },
  {
   "title": "Intermediate Associate Executive Response Analyst-Retail Bank",
@@ -3145,11 +3190,6 @@
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
-  "title": "U.S. Consumer Cards - Full-Time Analyst, New York - USA, 2027",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Transfer Pricing Analyst",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -3258,5 +3298,10 @@
   "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
+ },
+ {
+  "title": "Fraud Ops Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  }
 ]
