@@ -15,17 +15,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Business Continuity and Disaster Recovery Manager",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Relationship Banker I - PT 30 Hr - Spillway",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "IT Senior Audit Director",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business Continuity and Disaster Recovery Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -665,21 +665,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Investment Banking VP - Industrials",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Energy (Oil & Gas)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Healthcare",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -713,6 +698,21 @@
   "title": "Portfolio Manager - Wholesale Credit Delivery",
   "company": "Truist",
   "reason": "senior title"
+ },
+ {
+  "title": "Investment Banking VP - Industrials",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Energy (Oil & Gas)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Wholesale Early Careers Program Manager, Payments Program",
@@ -1332,6 +1332,11 @@
  {
   "title": "Special Operations Program Director (Supervisory Auditor)",
   "company": "Alcohol and Tobacco Tax and Trade Bureau",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
+  "company": "Office of Personnel Management",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2270,6 +2275,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Auditor",
+  "company": "Office of Personnel Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2615,11 +2625,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Gen AI Developer -Assistant Vice President",
-  "company": "Citi",
-  "reason": "outside the US (Bangalore Karnataka India)"
- },
- {
   "title": "Assistant Vice President, Balance Sheet Analytics Developer \u2013 Treasury ALM",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -2870,6 +2875,11 @@
   "reason": "outside the US (Bogota  Colombia)"
  },
  {
+  "title": "Banking, Commercial Banking, Full Time Analyst, Madrid - Spain 2027",
+  "company": "Citi",
+  "reason": "outside the US (Madrid  Spain)"
+ },
+ {
   "title": "Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027",
   "company": "Citi",
   "reason": "senior title"
@@ -2893,11 +2903,6 @@
   "title": "Services - Summer Analyst, Hong Kong, 2027",
   "company": "Citi",
   "reason": "outside the US (Hong Kong  Hong Kong)"
- },
- {
-  "title": "Services \u2013 Summer Analyst, India, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Mumbai Maharashtra India)"
  },
  {
   "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
@@ -3083,10 +3088,5 @@
   "title": "Product Analyst - AVP",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Business Analytics Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Bangalore Karnataka India)"
  }
 ]
