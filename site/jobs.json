@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-21T18:18:47+00:00",
- "count": 49,
+ "generated": "2026-09-22T00:19:10+00:00",
+ "count": 52,
  "jobs": [
   {
    "id": "wd-regions-R106052",
@@ -23,6 +23,69 @@
     "3 Locations"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119189",
+   "title": "Equity Capital Markets Analyst I",
+   "company": "Truist",
+   "location": "New York, NY",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Equity-Capital-Markets-Analyst-I_R0119189",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Treasury",
+   "level": "Entry level",
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "New York, NY"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119462",
+   "title": "Investment Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26951376",
+   "title": "Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Audit & Assurance",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
+   ],
    "extra_locations": 0
   },
   {
@@ -400,6 +463,28 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-citi-25928245",
+   "title": "Client Onboarding Analyst",
+   "company": "Citi",
+   "location": "Seef  Bahrain",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Seef--Bahrain/Client-Onboarding-Analyst_25928245",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [
+    "Check location",
+    "Sophomore eligible"
+   ],
+   "bucket": "General Finance & Accounting",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Come and join our Client Onboarding team in Bahrain! Are you looking for a career move that will put you at the heart of a global financial institution? Then bring your strong knowledge in FX Market and your skills in Excel, communication, problem-solving, communication, leadersh",
+   "locations": [
+    "Seef  Bahrain"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0114407",
    "title": "Process Analyst II",
    "company": "Truist",
@@ -612,27 +697,6 @@
    ],
    "states": [
     "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26955732",
-   "title": "Functions - Risk Management, Summer Analyst, Tampa - USA, 2027",
-   "company": "Citi",
-   "location": "Tampa Florida United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732",
-   "posted": "Posted 19 Days Ago",
-   "flags": [],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Tampa office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the fi",
-   "locations": [
-    "Tampa Florida United States"
-   ],
-   "states": [
-    "FL"
    ],
    "extra_locations": 0
   },
