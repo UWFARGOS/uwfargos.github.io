@@ -25,17 +25,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Technology Field Services Technician",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Technology Field Services Technician",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Business Continuity and Disaster Recovery Manager",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Technology Field Services Technician",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Technology Field Services Technician",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -535,6 +535,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Universal Banker - International Mall",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I, II, III - International Mall",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Internal Auditor II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -670,31 +680,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Investment Banking VP - Industrials",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Energy (Oil & Gas)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Healthcare",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
-  "company": "Truist",
-  "reason": "requires 3+ years experience"
- },
- {
-  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -713,6 +698,21 @@
   "title": "Head of Fraud Strategy and Transformation",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
+  "title": "Audit Director - Financial Crimes",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Portfolio Manager - Wholesale Credit Delivery",
+  "company": "Truist",
+  "reason": "senior title"
  },
  {
   "title": "Wholesale Early Careers Program Manager, Payments Program",
@@ -815,6 +815,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Branch Leader I Red Bank",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Branch Leader I or II Coosaw Creek",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -881,16 +886,6 @@
  },
  {
   "title": "Branch Leader I, II, III - Lauderhill - Creole Speaking Preferred",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
-  "company": "Truist",
-  "reason": "senior title"
- },
- {
-  "title": "Branch Leader - Baldwin Park",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1000,6 +995,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
+  "company": "Truist",
+  "reason": "requires 3+ years experience"
+ },
+ {
   "title": "Equity Research Associate - Industrials / Machinery / E&C",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1036,6 +1036,11 @@
  },
  {
   "title": "Brokerage Registered Client Service Associate - Manassas, VA",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2305,6 +2310,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Accountant",
+  "company": "Farm Production and Conservation (FPAC) Business Center",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2480,14 +2490,14 @@
   "reason": "outside the US (Mississauga Ontario Canada)"
  },
  {
-  "title": "Banking, Financing, Equity Capital Markets, Placement Analyst Internship, Paris - France 2027",
-  "company": "Citi",
-  "reason": "outside the US (Paris  France)"
- },
- {
   "title": "Banking \u2013 Corporate Baking, Internship, Bogot\u00e1 \u2013 Colombia, 2027",
   "company": "Citi",
   "reason": "outside the US (Bogota  Colombia)"
+ },
+ {
+  "title": "Banking, Financing, Equity Capital Markets, Placement Analyst Internship, Paris - France 2027",
+  "company": "Citi",
+  "reason": "outside the US (Paris  France)"
  },
  {
   "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
@@ -2746,11 +2756,6 @@
  },
  {
   "title": "Assistant Vice President - Vermillion Developer",
-  "company": "Citi",
-  "reason": "outside the US (Gurugram Haryana India)"
- },
- {
-  "title": "Senior GEN AI Analyst",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
  },
