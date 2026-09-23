@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-23T00:18:29+00:00",
- "count": 51,
+ "generated": "2026-09-23T06:18:37+00:00",
+ "count": 50,
  "jobs": [
   {
    "id": "wd-regions-R106052",
@@ -458,28 +458,6 @@
    "snippet": "Officer, Cash and Trade Processing is an entry level role responsible for the processing of all regular, restricted and legal transfers in coordination with the Transaction Services team. The overall objective is to perform moderately complex cash & trade operation tasks, by prov",
    "locations": [
     "Dhaka  Bangladesh"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-25928245",
-   "title": "Client Onboarding Analyst",
-   "company": "Citi",
-   "location": "Seef  Bahrain",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Seef--Bahrain/Client-Onboarding-Analyst_25928245",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location",
-    "Sophomore eligible"
-   ],
-   "bucket": "General Finance & Accounting",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Come and join our Client Onboarding team in Bahrain! Are you looking for a career move that will put you at the heart of a global financial institution? Then bring your strong knowledge in FX Market and your skills in Excel, communication, problem-solving, communication, leadersh",
-   "locations": [
-    "Seef  Bahrain"
    ],
    "states": [],
    "extra_locations": 0
