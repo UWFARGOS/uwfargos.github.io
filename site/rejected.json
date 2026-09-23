@@ -620,21 +620,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Sr Investment Banking Associate - TMT",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "ECM Corporate Services Associate III",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -670,6 +655,21 @@
   "reason": "senior title"
  },
  {
+  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Sr Investment Banking Associate - TMT",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ECM Corporate Services Associate III",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Enterprise Resilience Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -685,17 +685,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Enterprise Data Risk Oversight Manager",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Equity Capital Markets VP",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Equity Capital Markets Vice President",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2285,6 +2285,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2655,6 +2660,16 @@
   "reason": "outside the US (Bangalore Karnataka India)"
  },
  {
+  "title": "Specialized Analytics Sr Anlst - C12 - GURUGRAM",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
+  "title": "Specialized Analytics Sr Anlst - C12 - GURUGRAM",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
   "title": "Digital Strategy Analyst-C11",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2762,6 +2777,11 @@
  {
   "title": "Specialized Analytics Senior Analyst",
   "company": "Citi",
+  "reason": "outside the US (Bangaluru Karnataka India)"
+ },
+ {
+  "title": "Specialized Analytics Senior Analyst",
+  "company": "Citi",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2865,6 +2885,11 @@
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
  },
  {
+  "title": "Finance, Full-Time Analyst, Budapest - Hungary, 2027 - (Applicable for 2026 Citi Summer interns only)",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
   "title": "Banking - Corporate Banking, Summer Analyst, Singapore \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
@@ -2913,11 +2938,6 @@
   "title": "Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027",
   "company": "Citi",
   "reason": "senior title"
- },
- {
-  "title": "Banking, Investment Banking \u2013 Corporate Broking, Placement Analyst, London \u2013 United Kingdom 2027",
-  "company": "Citi",
-  "reason": "outside the US (London  United Kingdom)"
  },
  {
   "title": "Credit Analyst - Asset-Backed Securities (ABS)",
