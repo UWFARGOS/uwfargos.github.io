@@ -35,17 +35,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Business Continuity and Disaster Recovery Manager",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior IT Auditor",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "IT Auditor",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business Continuity and Disaster Recovery Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -120,17 +120,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Late Shift Contact Center Representative (Tue-Sat, 3pm-Midnight) w/Onsite Training- Nashville, TN",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Contact Center Banker - Nashville, TN",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Contact Center Banker - Hoover, Alabama",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Trust Relationship Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -1245,11 +1245,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Supervisory Quality Analyst",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Excise Tax Auditor",
   "company": "Alcohol and Tobacco Tax and Trade Bureau",
   "reason": "no internship or entry-level signal"
@@ -1267,11 +1262,6 @@
  {
   "title": "Accountant",
   "company": "Immediate Office of the Assistant Secretary for Management",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Supervisory Tax Analyst",
-  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1475,11 +1465,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Auditor",
   "company": "Immigration and Customs Enforcement",
   "reason": "no internship or entry-level signal"
@@ -1490,28 +1475,13 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Director, Accounting Management Group",
-  "company": "Centers for Medicare & Medicaid Services",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "AUDITOR",
   "company": "Army National Guard Units",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Accountant (FIAR Coordinator)",
-  "company": "Defense Contract Audit Agency",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "ACCOUNTANT",
   "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "FINANCIAL MANAGEMENT ANALYST (TITLE 5)",
-  "company": "Air National Guard Units",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1535,11 +1505,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "ACCOUNTANT (SYSTEMS)",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
@@ -1547,21 +1512,6 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Naval Sea Systems Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Audit Manager - Finance & Pricing Directorate",
-  "company": "Office of the Inspector General, USPS",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Audit Manager - Finance & Pricing Directorate",
-  "company": "Office of the Inspector General, USPS",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Supervisory Recreation Fee Specialist",
-  "company": "National Park Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1592,11 +1542,6 @@
  {
   "title": "Deputy Comptroller",
   "company": "Department of State Headquarters",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "U.S. Army Corps of Engineers",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1740,18 +1685,8 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Supervisory Accountant",
-  "company": "Federal Aviation Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Accountant",
   "company": "Defense Logistics Agency",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "FINANCIAL MANAGEMENT SPECIALIST",
-  "company": "Air Education and Training Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1785,28 +1720,8 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "AUDITOR",
-  "company": "Pension Benefit Guaranty Corporation",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Resource Management Officer",
-  "company": "United States Army Installation Management Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Resource Management Officer",
-  "company": "United States Army Installation Management Command",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Management Analyst",
   "company": "Naval Air Systems Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "SUPERVISORY AUDITOR",
-  "company": "Pension Benefit Guaranty Corporation",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1817,21 +1732,6 @@
  {
   "title": "Senior Audit and Compliance Analyst",
   "company": "House of Representatives",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Business Administrator",
-  "company": "Bureau of Prisons/Federal Prison System",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "United States Fleet Forces Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Federal Financial Reporting Accountant",
-  "company": "Bureau of the Fiscal Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1860,11 +1760,6 @@
   "reason": "requires 4+ years experience"
  },
  {
-  "title": "Supervisory Quality Analyst",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Supervisory Financial Management Specialist",
   "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
@@ -1887,11 +1782,6 @@
  {
   "title": "Excise Tax Auditor",
   "company": "Alcohol and Tobacco Tax and Trade Bureau",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Tax Analyst (Quality Analyst)",
-  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2003,11 +1893,6 @@
   "title": "Accountant",
   "company": "Office of the Chief Financial Officer",
   "reason": "requires 4+ years experience"
- },
- {
-  "title": "Supervisory Tax Analyst",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Internal Controls Auditor",
@@ -2175,6 +2060,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Royalties Analyst",
+  "company": "National Institutes of Health",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "AUDITOR - Title 5",
   "company": "Army National Guard Units",
   "reason": "no internship or entry-level signal"
@@ -2210,6 +2100,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "U.S. Pacific Fleet",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Quality Review Specialist (Bilingual Spanish)",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -2222,6 +2117,11 @@
  {
   "title": "FINANCE SENIOR ADVISOR",
   "company": "Naval Sea Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SYSTEMS SPECIALIST (CYBER)",
+  "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2285,6 +2185,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant",
+  "company": "Deputy Assistant Secretary for Finance",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SPECIALIST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Specialist",
   "company": "Transportation Security Administration",
   "reason": "no internship or entry-level signal"
@@ -2315,6 +2225,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Medical Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Business Administrator",
   "company": "Bureau of Prisons/Federal Prison System",
   "reason": "no internship or entry-level signal"
@@ -2327,6 +2242,26 @@
  {
   "title": "Financial Management Analyst",
   "company": "U.S. Army Corps of Engineers",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPV FINANCIAL MGMT ANALYST",
+  "company": "Naval Air Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Bureau of Naval Personnel",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
+  "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
+  "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
   "reason": "no internship or entry-level signal"
  },
  {
