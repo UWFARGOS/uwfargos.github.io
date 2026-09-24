@@ -1,7 +1,71 @@
 {
- "generated": "2026-09-23T18:19:26+00:00",
- "count": 50,
+ "generated": "2026-09-24T00:18:55+00:00",
+ "count": 51,
  "jobs": [
+  {
+   "id": "wd-truist-R0118659",
+   "title": "2027 Wealth Internship Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118658",
+   "title": "2027 Wealth Analyst Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119462",
+   "title": "Institutional Investment Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-truist-R0119236",
    "title": "2027 Truist Internship Program - Consumer & Small Business Banking",
@@ -398,27 +462,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-25926650",
-   "title": "Banking - Corporate Banking, Summer Analyst, Houston - US, 2027",
-   "company": "Citi",
-   "location": "Houston Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650",
-   "posted": "Posted 28 Days Ago",
-   "flags": [],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "The CB Intern Analyst NE is an intermediate level position responsible for leading the planning of investment strategies and solutions for major market clients in coordination with the Institutional Banking team. The overall objective of this role is to drive revenue by cross sel",
-   "locations": [
-    "Houston Texas United States"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-citi-26983640",
    "title": "Markets \u2013 Sales and Trading, Internship, Mexico City, Mexico 2027",
    "company": "Citi",
@@ -634,27 +677,6 @@
    "states": [
     "NY"
    ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119462",
-   "title": "Investment Analyst I",
-   "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462",
-   "posted": "Posted 2 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
    "extra_locations": 0
   },
   {
