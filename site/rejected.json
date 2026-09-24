@@ -2040,11 +2040,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Program/Cost Analyst (Financial Policy)",
-  "company": "Citizenship and Immigration Services",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Special Operations Program Director (Supervisory Auditor)",
   "company": "Alcohol and Tobacco Tax and Trade Bureau",
   "reason": "no internship or entry-level signal"
@@ -2267,6 +2262,16 @@
  {
   "title": "Financial Analyst, SYD 80",
   "company": "Space Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Program Specialist (Senior Regional Financial Specialist)",
+  "company": "Bureau of Prisons/Federal Prison System",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2610,6 +2615,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Network Infrastructure Engineer",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
   "title": "Forward Deployed Engineer, AI Transformation - Senior Vice President",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2691,6 +2701,11 @@
  },
  {
   "title": "Assistant Vice President Data Science and Gen AI",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
+  "title": "Commerce & Media Analytics Analyst",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
  },
@@ -3010,6 +3025,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Equity Research Senior Associate - TMT & Healthcare",
+  "company": "Citi",
+  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
+ },
+ {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
@@ -3108,10 +3128,5 @@
   "title": "Financial Reporting Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
- },
- {
-  "title": "KYC Operations Analyst",
-  "company": "Citi",
-  "reason": "requires 4+ years experience"
  }
 ]
