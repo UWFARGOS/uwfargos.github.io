@@ -1190,6 +1190,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Corporate Trust & Escrow Services Account Analyst II",
+  "company": "Truist",
+  "reason": "requires 7+ years experience"
+ },
+ {
   "title": "AUDITOR",
   "company": "Air Force Civilian Career Training",
   "reason": "no internship or entry-level signal"
@@ -2295,6 +2300,21 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Program/Cost Analyst (Financial Policy)",
+  "company": "Citizenship and Immigration Services",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Immigration and Customs Enforcement",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant (Staff)",
+  "company": "Defense Contract Management Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2475,11 +2495,6 @@
   "reason": "requires 2+ years experience"
  },
  {
-  "title": "Functions - Internal Audit, Summer Analyst - Mississauga, ON 2027",
-  "company": "Citi",
-  "reason": "outside the US (Mississauga Ontario Canada)"
- },
- {
   "title": "Services \u2013 Internship, Bogot\u00e1 \u2013 Colombia, 2027",
   "company": "Citi",
   "reason": "outside the US (Bogota  Colombia)"
@@ -2626,11 +2641,6 @@
  },
  {
   "title": "Wealth - Citigold, Summer Analyst, Singapore, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Singapore  Singapore)"
- },
- {
-  "title": "Wealth - Private Bank, Summer Analyst,  Singapore, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
  },
@@ -2795,6 +2805,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Machine learning and GEN AI Data Scientist",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
   "title": "Mehnaty Graduate Program (UAE Nationals Only)",
   "company": "Citi",
   "reason": "outside the US (Dubai United Arab Emirates)"
@@ -2848,6 +2863,11 @@
   "title": "Banking \u2013 Investment Banking, Full-Time Analyst, Mexico City - Mexico, 2027",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Reference Data Management Representative",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "2025 Corporate Banking Full Time Analyst Program - Mexico",
@@ -2945,11 +2965,6 @@
   "reason": "outside the US (Singapore  Singapore)"
  },
  {
-  "title": "Services - Summer Analyst, China, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Shanghai Shanghai China)"
- },
- {
   "title": "Credit Analyst - Asset-Backed Securities (ABS)",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -3028,16 +3043,6 @@
   "title": "Business Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
- },
- {
-  "title": "Credit Analyst",
-  "company": "Citi",
-  "reason": "requires 2+ years experience"
- },
- {
-  "title": "Credit Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "Corporate Banking Analyst or Senior Analyst - Technology",
@@ -3138,5 +3143,15 @@
   "title": "Digital Service Analyst",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Financial Reporting Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "KYC Operations Analyst",
+  "company": "Citi",
+  "reason": "requires 4+ years experience"
  }
 ]

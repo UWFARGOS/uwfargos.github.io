@@ -1,78 +1,14 @@
 {
- "generated": "2026-09-25T06:18:42+00:00",
- "count": 49,
+ "generated": "2026-09-25T12:19:00+00:00",
+ "count": 50,
  "jobs": [
-  {
-   "id": "wd-truist-R0118659",
-   "title": "2027 Wealth Internship Program",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0118658",
-   "title": "2027 Wealth Analyst Program",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119462",
-   "title": "Institutional Investment Analyst I",
-   "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
   {
    "id": "wd-truist-R0119189",
    "title": "Equity Capital Markets Analyst I",
    "company": "Truist",
    "location": "New York, NY",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Equity-Capital-Markets-Analyst-I_R0119189",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -93,7 +29,7 @@
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Tampa-FL/Investment-Analyst-I_R0119703",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [
     "Check location"
    ],
@@ -109,50 +45,24 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0119215",
-   "title": "2027 Truist Internship- Risk Management Program",
-   "company": "Truist",
-   "location": "Charlotte, NC",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Internship--Risk-Management-Program_R0119215",
-   "posted": "Posted 9 Days Ago",
+   "id": "wd-citi-26956565",
+   "title": "Internship - Corporate Banking, Intern, Gabon - Libreville 2026",
+   "company": "Citi",
+   "location": "Libreville  Gabon",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Libreville--Gabon/Internship---Corporate-Banking--Intern--Gabon---Libreville-2026_26956565",
+   "posted": "Posted Today",
    "flags": [
-    "No sponsorship"
+    "Check location"
    ],
-   "bucket": "Audit & Assurance",
+   "bucket": "General Finance & Accounting",
    "level": "Internship",
-   "state": "NC",
+   "state": null,
    "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "snippet": "You are the brains behind our work. You are ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it is honing your skills or building your network, we know that success cannot come without growth. This is six months paid ",
    "locations": [
-    "Charlotte, NC"
+    "Libreville  Gabon"
    ],
-   "states": [
-    "NC"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119210",
-   "title": "2027 Consumer & Small Business Banking (CSBB) Analyst Program",
-   "company": "Truist",
-   "location": "Charlotte, NC",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Consumer---Small-Business-Banking--CSBB--Analyst-Program_R0119210",
-   "posted": "Posted 9 Days Ago",
-   "flags": [
-    "Sophomore eligible",
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Internship",
-   "state": "NC",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "states": [
-    "NC"
-   ],
+   "states": [],
    "extra_locations": 0
   },
   {
@@ -161,7 +71,7 @@
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Audit-Services-Intern_R0119240",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -183,7 +93,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -204,7 +114,7 @@
    "company": "Citi",
    "location": "THE SUMMIT - CIUDAD DE MEXICO",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -225,7 +135,7 @@
    "company": "Regions Bank",
    "location": "Clayton, MO - Clayton Banking Building (St Louis, MO)",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clayton-MO---Clayton-Banking-Building-St-Louis-MO/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
-   "posted": "Posted 7 Days Ago",
+   "posted": "Posted 8 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -239,6 +149,50 @@
    ],
    "states": [
     "MO"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R106052",
+   "title": "Business Systems Analyst",
+   "company": "Regions Bank",
+   "location": "3 Locations",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Business-Systems-Analyst_R106052",
+   "posted": "Posted 4 Days Ago",
+   "flags": [
+    "Check location",
+    "Sophomore eligible",
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26951376",
+   "title": "Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
+   "posted": "Posted 4 Days Ago",
+   "flags": [],
+   "bucket": "Audit & Assurance",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
    ],
    "extra_locations": 0
   },
@@ -392,56 +346,12 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-regions-R106052",
-   "title": "Business Systems Analyst",
-   "company": "Regions Bank",
-   "location": "3 Locations",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Business-Systems-Analyst_R106052",
-   "posted": "Posted 3 Days Ago",
-   "flags": [
-    "Check location",
-    "Sophomore eligible",
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26951376",
-   "title": "Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027",
-   "company": "Citi",
-   "location": "Tampa Florida United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
-   "posted": "Posted 3 Days Ago",
-   "flags": [],
-   "bucket": "Audit & Assurance",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
-   "locations": [
-    "Tampa Florida United States"
-   ],
-   "states": [
-    "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-citi-25926650",
    "title": "Banking - Corporate Banking, Summer Analyst, Houston - US, 2027",
    "company": "Citi",
    "location": "Houston Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650",
-   "posted": "Posted 29 Days Ago",
+   "posted": "Posted 30 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",
@@ -462,7 +372,7 @@
    "company": "Citi",
    "location": "THE SUMMIT - CIUDAD DE MEXICO",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Markets---Sales-and-Trading--Internship--Mexico-City--Mexico-2027_26983640",
-   "posted": "Posted 27 Days Ago",
+   "posted": "Posted 28 Days Ago",
    "flags": [],
    "bucket": "Investment Banking & Markets",
    "level": "Internship",
@@ -483,7 +393,7 @@
    "company": "Regions Bank",
    "location": "3 Locations",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Human-Resources--Multiple-Opportunities--Birmingham--AL_R105681",
-   "posted": "Posted 24 Days Ago",
+   "posted": "Posted 25 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -505,7 +415,7 @@
    "company": "Regions Bank",
    "location": "3 Locations",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Human-Resources-Data-and-Analytics--Birmingham--AL_R105679",
-   "posted": "Posted 24 Days Ago",
+   "posted": "Posted 25 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
@@ -527,7 +437,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Grade--Debt-Capital-Markets-Analyst-I_R0118559",
-   "posted": "Posted 23 Days Ago",
+   "posted": "Posted 24 Days Ago",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -548,7 +458,7 @@
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Marketing-and-Communications--Multiple-Opportunities--Birmingham--AL_R105737",
-   "posted": "Posted 22 Days Ago",
+   "posted": "Posted 23 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -571,7 +481,7 @@
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Community-Engagement--Birmingham--AL_R105772",
-   "posted": "Posted 22 Days Ago",
+   "posted": "Posted 23 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -594,7 +504,7 @@
    "company": "Truist",
    "location": "Richmond, VA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Fiduciary-Operations-Analyst-II_R0118764",
-   "posted": "Posted 21 Days Ago",
+   "posted": "Posted 22 Days Ago",
    "flags": [],
    "bucket": "Tax",
    "level": "Entry level",
@@ -615,7 +525,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Corporate-Banking--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992089",
-   "posted": "Posted 20 Days Ago",
+   "posted": "Posted 21 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -636,7 +546,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Financing--Equity-Capital-Markets-Placement-Analyst-Internship--Frankfurt---Germany-2027_26992449",
-   "posted": "Posted 20 Days Ago",
+   "posted": "Posted 21 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -652,12 +562,76 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-truist-R0118659",
+   "title": "2027 Wealth Internship Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
+   "posted": "Posted 2 Days Ago",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118658",
+   "title": "2027 Wealth Analyst Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
+   "posted": "Posted 2 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119462",
+   "title": "Institutional Investment Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462",
+   "posted": "Posted 2 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0115681",
    "title": "Commercial & Specialized Industries Analyst II",
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Commercial---Specialized-Industries-Analyst-II_R0115681-1",
-   "posted": "Posted 14 Days Ago",
+   "posted": "Posted 15 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -678,7 +652,7 @@
    "company": "Citi",
    "location": "San Francisco California United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Banking---Corporate-Banking--Summer-Analyst--San-Francisco---US--2027_25926646",
-   "posted": "Posted 14 Days Ago",
+   "posted": "Posted 15 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",
@@ -699,7 +673,7 @@
    "company": "Truist",
    "location": "Charlotte, NC",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Internship-Program---Consumer---Small-Business-Banking_R0119236",
-   "posted": "Posted 10 Days Ago",
+   "posted": "Posted 11 Days Ago",
    "flags": [
     "Sophomore eligible",
     "No sponsorship"
@@ -723,7 +697,7 @@
    "company": "Citi",
    "location": "Atlanta Georgia United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Atlanta-Georgia-United-States/Banking---Corporate-Banking--Summer-Analyst--Atlanta---US--2027_26994662",
-   "posted": "Posted 10 Days Ago",
+   "posted": "Posted 11 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",
@@ -735,6 +709,53 @@
    ],
    "states": [
     "GA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119215",
+   "title": "2027 Truist Internship- Risk Management Program",
+   "company": "Truist",
+   "location": "Charlotte, NC",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Internship--Risk-Management-Program_R0119215",
+   "posted": "Posted 10 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Audit & Assurance",
+   "level": "Internship",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "states": [
+    "NC"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119210",
+   "title": "2027 Consumer & Small Business Banking (CSBB) Analyst Program",
+   "company": "Truist",
+   "location": "Charlotte, NC",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Consumer---Small-Business-Banking--CSBB--Analyst-Program_R0119210",
+   "posted": "Posted 10 Days Ago",
+   "flags": [
+    "Sophomore eligible",
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "states": [
+    "NC"
    ],
    "extra_locations": 0
   },
