@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-25T00:19:20+00:00",
- "count": 50,
+ "generated": "2026-09-25T06:18:42+00:00",
+ "count": 49,
  "jobs": [
   {
    "id": "wd-truist-R0118659",
@@ -243,52 +243,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-regions-R105425",
-   "title": "2027 ETP Intern - Technology, Operations, Digital, and Data - Technology",
-   "company": "Regions Bank",
-   "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": "AL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Hoover, AL - Riverchase Operations Center (Birmingham, AL)"
-   ],
-   "states": [
-    "AL"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R105426",
-   "title": "2027 ETP Intern - Technology, Operations, Digital, and Data - Analytics",
-   "company": "Regions Bank",
-   "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": "AL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Hoover, AL - Riverchase Operations Center (Birmingham, AL)"
-   ],
-   "states": [
-    "AL"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-truist-R0116842",
    "title": "Analyst I or II - Real Estate Investment Banking",
    "company": "Truist",
@@ -478,6 +432,27 @@
    ],
    "states": [
     "FL"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-25926650",
+   "title": "Banking - Corporate Banking, Summer Analyst, Houston - US, 2027",
+   "company": "Citi",
+   "location": "Houston Texas United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650",
+   "posted": "Posted 29 Days Ago",
+   "flags": [],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "The CB Intern Analyst NE is an intermediate level position responsible for leading the planning of investment strategies and solutions for major market clients in coordination with the Institutional Banking team. The overall objective of this role is to drive revenue by cross sel",
+   "locations": [
+    "Houston Texas United States"
+   ],
+   "states": [
+    "TX"
    ],
    "extra_locations": 0
   },
