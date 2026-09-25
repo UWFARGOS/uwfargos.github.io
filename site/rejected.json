@@ -1,16 +1,21 @@
 [
  {
-  "title": "Trust Relationship Specialist",
+  "title": "Trust Relationship Specialist - Dallas",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Trust Relationship Specialist",
+  "title": "Trust Relationship Specialist - Houston",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "BlackArch Investment Banker",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business Continuity and Disaster Recovery Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -26,11 +31,6 @@
  },
  {
   "title": "IT Senior Audit Director",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Business Continuity and Disaster Recovery Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -160,7 +160,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Trust Relationship Specialist",
+  "title": "Trust Relationship Specialist - Nashville, TN (Music Row)",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -605,42 +605,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Wire Processing Specialist II",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Sr Investment Banking Associate - TMT",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "ECM Corporate Services Associate III",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Brokerage Registered Client Service Associate - Maryland",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Learning & Instruction Consultant- Sales Leadership Facilitator",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Equity Capital Markets VP",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Equity Capital Markets Vice President",
+  "title": "Wire Processing Senior Specialist II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -685,6 +650,46 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Enterprise Data Risk Oversight Manager",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Portfolio Manager - Commercial Real Estate Credit Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Sr Investment Banking Associate - TMT",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ECM Corporate Services Associate III",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Brokerage Registered Client Service Associate - Maryland",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Learning & Instruction Consultant- Sales Leadership Facilitator",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Equity Capital Markets VP",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Equity Capital Markets Vice President",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "FIG Investment Banking Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -706,11 +711,6 @@
  },
  {
   "title": "Head of Capital Markets Service Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -995,6 +995,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "RECB Credit Delivery Associate I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Centralized Brokerage Registered Client Service Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1008,11 +1013,6 @@
   "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
   "company": "Truist",
   "reason": "requires 3+ years experience"
- },
- {
-  "title": "Senior Associate Security Engineer (Cloud Security)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Equity Research Associate - Industrials / Machinery / E&C",
@@ -1110,6 +1110,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Wholesale Payments Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Planning Analyst- Wealth Management",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1170,17 +1175,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Middle Market Credit Delivery Senior Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Merchant Services Financial Operations Senior Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Business Data Analyst - Corporate Real Estate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1277,6 +1272,16 @@
  {
   "title": "Auditor",
   "company": "Office of Personnel Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Budget and Accounting Officer",
+  "company": "Bureau of Prisons/Federal Prison System",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2315,6 +2320,51 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Specialist",
+  "company": "Transportation Security Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL ADMINISTRATION & PROGRAM ANALYST",
+  "company": "Naval Sea Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Analyst",
+  "company": "Commander, Navy Installations Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Western Area Power Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ADMINISTRATIVE/TECHNICAL SPECIALIST",
+  "company": "Naval Sea Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Specialist",
+  "company": "Transportation Security Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "RESOURCE MANAGEMENT OFFICER",
+  "company": "HQDA Field Operating Agencies and Staff Support Agencies",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Budget and Accounting Officer",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -3045,6 +3095,11 @@
   "reason": "outside the US (Budapest  Hungary)"
  },
  {
+  "title": "Credit Analyst",
+  "company": "Citi",
+  "reason": "requires 2+ years experience"
+ },
+ {
   "title": "Corporate Banking Analyst or Senior Analyst - Technology",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -3148,10 +3203,5 @@
   "title": "Financial Reporting Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
- },
- {
-  "title": "KYC Operations Analyst",
-  "company": "Citi",
-  "reason": "requires 4+ years experience"
  }
 ]
