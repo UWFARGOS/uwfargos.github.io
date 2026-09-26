@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-25T18:21:12+00:00",
- "count": 50,
+ "generated": "2026-09-26T00:18:24+00:00",
+ "count": 48,
  "jobs": [
   {
    "id": "wd-truist-R0119189",
@@ -136,12 +136,14 @@
    "location": "Clayton, MO - Clayton Banking Building (St Louis, MO)",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clayton-MO---Clayton-Banking-Building-St-Louis-MO/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
    "posted": "Posted 8 Days Ago",
-   "flags": [],
+   "flags": [
+    "No sponsorship"
+   ],
    "bucket": "Wealth & Financial Planning",
    "level": "Internship",
    "state": "MO",
    "employer_kind": "bank",
-   "snippet": "",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
    "locations": [
     "Clayton, MO - Clayton Banking Building (St Louis, MO)"
    ],
@@ -237,29 +239,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0117026",
-   "title": "CCB Analyst II",
-   "company": "Truist",
-   "location": "Cleveland, OH",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Cleveland-OH/CCB-Analyst-II_R0117026-1",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": "OH",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Cleveland, OH",
-    "Charlotte, NC"
-   ],
-   "states": [
-    "OH",
-    "NC"
-   ],
-   "extra_locations": 1
-  },
-  {
    "id": "wd-citi-25926681",
    "title": "Banking - Commercial Banking - Natural Resources & Energy,  Summer Analyst, Houston - US, 2027",
    "company": "Citi",
@@ -341,6 +320,27 @@
     "Dhaka  Bangladesh"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118338",
+   "title": "CCB Analyst II",
+   "company": "Truist",
+   "location": "Charlotte, NC",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/CCB-Analyst-II_R0118338",
+   "posted": "Posted 30 Days Ago",
+   "flags": [],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "states": [
+    "NC"
+   ],
    "extra_locations": 0
   },
   {
@@ -555,49 +555,6 @@
    "snippet": "The Intern Analyst is an intermediate level position responsible for assisting clients in raising funds in the capital markets, as well as in providing strategic advisory services for mergers, acquisitions and other types of financial transactions in coordination with the Institu",
    "locations": [
     "TAURUS"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0118659",
-   "title": "2027 Wealth Internship Program",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
-   "posted": "Posted 2 Days Ago",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0118658",
-   "title": "2027 Wealth Analyst Program",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
-   "posted": "Posted 2 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
    ],
    "states": [],
    "extra_locations": 0
