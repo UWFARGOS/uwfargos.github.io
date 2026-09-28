@@ -2205,6 +2205,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant (Factory Operational Accountant)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2682,11 +2687,6 @@
  {
   "title": "Specialized Analytics Senior Analyst",
   "company": "Citi",
-  "reason": "outside the US (Bangaluru Karnataka India)"
- },
- {
-  "title": "Specialized Analytics Senior Analyst",
-  "company": "Citi",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2785,11 +2785,6 @@
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
  },
  {
-  "title": "Finance, Full-Time Analyst, Budapest - Hungary, 2027 - (Applicable for 2026 Citi Summer interns only)",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
   "title": "Banking - Corporate Banking, Summer Analyst, Singapore \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
@@ -2848,6 +2843,11 @@
   "title": "Services - Summer Analyst, Singapore, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Services - Summer Analyst, China, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Shanghai Shanghai China)"
  },
  {
   "title": "Credit Analyst - Asset-Backed Securities (ABS)",
