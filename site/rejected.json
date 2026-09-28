@@ -45,6 +45,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Technology Field Services Technician",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Senior IT Auditor",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -161,11 +166,6 @@
  },
  {
   "title": "Trust Relationship Specialist - Nashville, TN (Music Row)",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Trust Relationship Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -735,7 +735,7 @@
   "reason": "senior title"
  },
  {
-  "title": "Deposit Pricing Analytics Consultant",
+  "title": "Enterprise Resilience Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -926,11 +926,6 @@
  },
  {
   "title": "Branch Leader I, II, III - Lauderhill - Creole Speaking Preferred",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Enterprise Resilience Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2115,11 +2110,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Tax Analyst",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Supervisory Accountant",
   "company": "Commander, Navy Installations Command",
   "reason": "no internship or entry-level signal"
@@ -2252,6 +2242,21 @@
  {
   "title": "Accountant (Factory Operational Accountant)",
   "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Program Specialist",
+  "company": "Bureau of the Fiscal Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Secretary of the Navy Offices (SECNAV)",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Sea Systems Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2445,14 +2450,14 @@
   "reason": "outside the US (Paris  France)"
  },
  {
-  "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
-  "company": "Citi",
-  "reason": "outside the US (Paris  France)"
- },
- {
   "title": "Banking \u2013 Corporate Baking, Internship, Bogot\u00e1 \u2013 Colombia, 2027",
   "company": "Citi",
   "reason": "outside the US (Bogota  Colombia)"
+ },
+ {
+  "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
+  "company": "Citi",
+  "reason": "outside the US (Paris  France)"
  },
  {
   "title": "Investment Banking - Summer Internship Program, Tokyo - Japan, 2027",
@@ -2595,6 +2600,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "CSIS Head of Security: Asia South & Japan, Asia North and Australia (JANA) Clusters",
+  "company": "Citi",
+  "reason": "outside the US (Sydney New South Wales Australia)"
+ },
+ {
   "title": "Senior Network Infrastructure Engineer",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
@@ -2710,6 +2720,11 @@
   "reason": "outside the US (Gurugram Haryana India)"
  },
  {
+  "title": "Data Scientist",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
   "title": "CBNA and US Entities Treasury Management - Business Execution and Governance Lead Analyst VP/C13 - GETZVILLE",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2728,6 +2743,11 @@
   "title": "GEN AI Developer",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Python Angular Fullstack Developer",
+  "company": "Citi",
+  "reason": "outside the US (Bangaluru Karnataka India)"
  },
  {
   "title": "Specialized Analytics Senior Analyst",
@@ -2893,6 +2913,11 @@
   "title": "Services - Summer Analyst, China, 2027",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
+ },
+ {
+  "title": "Services - Summer Analyst, Hong Kong, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
   "title": "Credit Analyst - Asset-Backed Securities (ABS)",
