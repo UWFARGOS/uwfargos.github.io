@@ -1,7 +1,52 @@
 {
- "generated": "2026-09-28T12:19:17+00:00",
+ "generated": "2026-09-28T18:19:57+00:00",
  "count": 45,
  "jobs": [
+  {
+   "id": "wd-truist-R0119189",
+   "title": "Equity Capital Markets Analyst I",
+   "company": "Truist",
+   "location": "New York, NY",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Equity-Capital-Markets-Analyst-I_R0119189",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Treasury",
+   "level": "Entry level",
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "New York, NY"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119774",
+   "title": "ABL Structuring Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-regions-R106052",
    "title": "Business Systems Analyst",
@@ -43,48 +88,6 @@
    ],
    "states": [
     "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119462",
-   "title": "Institutional Investment Analyst I",
-   "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462",
-   "posted": "Posted 5 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119189",
-   "title": "Equity Capital Markets Analyst I",
-   "company": "Truist",
-   "location": "New York, NY",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Equity-Capital-Markets-Analyst-I_R0119189",
-   "posted": "Posted 4 Days Ago",
-   "flags": [],
-   "bucket": "Treasury",
-   "level": "Entry level",
-   "state": "NY",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "New York, NY"
-   ],
-   "states": [
-    "NY"
    ],
    "extra_locations": 0
   },
@@ -649,12 +652,33 @@
    "extra_locations": 0
   },
   {
+   "id": "us-CBTA-13077113-26-TM",
+   "title": "Staff Accountant",
+   "company": "Veterans Health Administration",
+   "location": "Hampton, Virginia",
+   "url": "https://www.usajobs.gov:443/job/886545700",
+   "posted": "2026-09-28T11:02:25.0030",
+   "flags": [],
+   "bucket": "Accounting Operations",
+   "level": "Entry level",
+   "state": "VA",
+   "employer_kind": "government",
+   "snippet": "To qualify for this position, applicants must meet all requirements by the closing date of this announcement, 10/05/2026.You may qualify based on your experience and/or education as described below: GS-09 level: Specialized Experience: You must have one year of specialized experi",
+   "locations": [
+    "Hampton, Virginia"
+   ],
+   "states": [
+    "VA"
+   ],
+   "extra_locations": 0
+  },
+  {
    "id": "us-CARZ-13065973-26-DLe",
    "title": "Accountant",
    "company": "Veterans Health Administration",
    "location": "Roanoke, Virginia",
    "url": "https://www.usajobs.gov:443/job/885221300",
-   "posted": "2026-09-17T14:40:31.9030",
+   "posted": "2026-09-17T00:00:00.0000",
    "flags": [
     "Sophomore eligible"
    ],
@@ -665,27 +689,6 @@
    "snippet": "Applicant(s) must meet at least one of the following Basic Requirements to qualify for this Accountant position. A. Bachelor's Degree (or higher) (Transcript Required): accounting; or a degree in a related field such as business administration, finance, or public administration t",
    "locations": [
     "Roanoke, Virginia"
-   ],
-   "states": [
-    "VA"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "us-CBTA-13067929-26-TM",
-   "title": "Staff Accountant",
-   "company": "Veterans Health Administration",
-   "location": "Hampton, Virginia",
-   "url": "https://www.usajobs.gov:443/job/885180500",
-   "posted": "2026-09-17T12:43:18.5930",
-   "flags": [],
-   "bucket": "Accounting Operations",
-   "level": "Entry level",
-   "state": "VA",
-   "employer_kind": "government",
-   "snippet": "To qualify for this position, applicants must meet all requirements by the closing date of this announcement, 09/28/2026. You may qualify based on your experience and/or education as described below: GS-09 level: Specialized Experience: You must have one year of specialized exper",
-   "locations": [
-    "Hampton, Virginia"
    ],
    "states": [
     "VA"
