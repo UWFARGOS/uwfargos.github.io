@@ -1110,11 +1110,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Collateral Analyst I",
-  "company": "Truist",
-  "reason": "requires 2+ years experience"
- },
- {
   "title": "Grandbridge Asset Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -2195,11 +2190,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "AUDITOR",
-  "company": "Army National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Auditor (Performance)",
   "company": "Office of the Inspector General",
   "reason": "no internship or entry-level signal"
@@ -2257,6 +2247,26 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Secretary of the Navy Offices (SECNAV)",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTANT (SYSTEMS)",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Specialist",
+  "company": "Food Safety and Inspection Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL SPECIALIST",
+  "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2455,14 +2465,14 @@
   "reason": "outside the US (Paris  France)"
  },
  {
-  "title": "Banking \u2013 Corporate Baking, Internship, Bogot\u00e1 \u2013 Colombia, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Bogota  Colombia)"
- },
- {
   "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
   "company": "Citi",
   "reason": "outside the US (Paris  France)"
+ },
+ {
+  "title": "Banking \u2013 Corporate Baking, Internship, Bogot\u00e1 \u2013 Colombia, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Bogota  Colombia)"
  },
  {
   "title": "Investment Banking - Summer Internship Program, Tokyo - Japan, 2027",
@@ -2755,11 +2765,6 @@
   "reason": "outside the US (Bangaluru Karnataka India)"
  },
  {
-  "title": "GEN AI Developer",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Python Angular Fullstack Developer",
   "company": "Citi",
   "reason": "outside the US (Bangaluru Karnataka India)"
@@ -3015,14 +3020,19 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Risk - Full-Time Analyst, Warsaw, 2027 - (Applicable for 2026 Citi Summer interns only)",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
+ },
+ {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
-  "title": "Risk - Full-Time Analyst, Warsaw, 2027 - (Applicable for 2026 Citi Summer interns only)",
+  "title": "U.S. Consumer Cards - Full-Time Analyst, New York - USA, 2027",
   "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Transfer Pricing Analyst",
@@ -3098,25 +3108,5 @@
   "title": "KYC Operations Analyst",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
- },
- {
-  "title": "KYC Modernization Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Mumbai Maharashtra India)"
- },
- {
-  "title": "Digital Service Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Singapore  Singapore)"
- },
- {
-  "title": "Digital Service Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Singapore  Singapore)"
- },
- {
-  "title": "Financial Reporting Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
  }
 ]
