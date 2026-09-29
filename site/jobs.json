@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-28T18:19:57+00:00",
- "count": 45,
+ "generated": "2026-09-29T00:20:39+00:00",
+ "count": 44,
  "jobs": [
   {
    "id": "wd-truist-R0119189",
@@ -299,27 +299,6 @@
    "states": [
     "TX"
    ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26956565",
-   "title": "Internship - Corporate Banking, Intern, Gabon - Libreville 2026",
-   "company": "Citi",
-   "location": "Libreville  Gabon",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Libreville--Gabon/Internship---Corporate-Banking--Intern--Gabon---Libreville-2026_26956565",
-   "posted": "Posted 3 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "General Finance & Accounting",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "You are the brains behind our work. You are ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it is honing your skills or building your network, we know that success cannot come without growth. This is six months paid ",
-   "locations": [
-    "Libreville  Gabon"
-   ],
-   "states": [],
    "extra_locations": 0
   },
   {

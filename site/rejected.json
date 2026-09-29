@@ -560,6 +560,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Sr. Internal Auditor - Technology",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Sr Internal Auditor - Mortgage Lending",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -660,36 +665,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Head of Capital Markets Service Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Industrials",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Energy (Oil & Gas)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Healthcare",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
-  "company": "Truist",
-  "reason": "requires 3+ years experience"
- },
- {
-  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -703,6 +678,21 @@
   "title": "Senior Portfolio Manager - Wholesale Credit Delivery - Not-For-Profit segment",
   "company": "Truist",
   "reason": "senior title"
+ },
+ {
+  "title": "Wholesale Credit Delivery Senior Portfolio Manager - Dealer Services segment",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
+  "title": "Wholesale Credit Delivery Senior Portfolio Manager - Dealer Services segment",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
+  "title": "Head of Capital Markets Service Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Head of Fraud Strategy and Transformation",
@@ -730,7 +720,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Deposit Pricing Analytics Consultant",
+  "title": "Investment Banking VP - Industrials",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Energy (Oil & Gas)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Healthcare",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -855,7 +855,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader I, II or III - Lawrenceville/Athens Area",
+  "title": "Branch Leader I, II or III - Lawrenceville/Athens Area- Decatur Branch",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1035,6 +1035,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
+  "company": "Truist",
+  "reason": "requires 3+ years experience"
+ },
+ {
   "title": "Equity Research Associate - Industrials / Machinery / E&C",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1071,6 +1076,11 @@
  },
  {
   "title": "Brokerage Registered Client Service Associate - Manassas, VA",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2320,6 +2330,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Air National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Specialist",
+  "company": "Transportation Security Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2500,6 +2520,11 @@
   "reason": "requires 2+ years experience"
  },
  {
+  "title": "Functions - Internal Audit, Summer Analyst - Mississauga, ON 2027",
+  "company": "Citi",
+  "reason": "outside the US (Mississauga Ontario Canada)"
+ },
+ {
   "title": "Services \u2013 Internship, Bogot\u00e1 \u2013 Colombia, 2027",
   "company": "Citi",
   "reason": "outside the US (Bogota  Colombia)"
@@ -2648,6 +2673,11 @@
   "title": "Wealth - Private Bank, Summer Analyst,  Singapore, 2027",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Banking - Corporate Banking, Summer Analyst, China \u2013 APAC, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Shanghai Shanghai China)"
  },
  {
   "title": "Trading Head - Equity Principal Trading",
@@ -2850,11 +2880,6 @@
   "reason": "outside the US (Taguig  Philippines)"
  },
  {
-  "title": "South Africa Learnership Graduate Program - Market, South Africa - Johannesburg, 2026",
-  "company": "Citi",
-  "reason": "outside the US (Johannesburg  South Africa)"
- },
- {
   "title": "South Africa Learnership Graduate Program - TTS, South Africa - Johannesburg, 2026",
   "company": "Citi",
   "reason": "outside the US (Johannesburg  South Africa)"
@@ -2948,11 +2973,6 @@
   "title": "2025 LATAM Markets Analyst Program - Colombia",
   "company": "Citi",
   "reason": "outside the US (Bogota  Colombia)"
- },
- {
-  "title": "Banking, Commercial Banking, Full Time Analyst, London - United Kingdom 2027",
-  "company": "Citi",
-  "reason": "outside the US (London  United Kingdom)"
  },
  {
   "title": "Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027",
@@ -3173,5 +3193,10 @@
   "title": "Financial Reporting Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "KYC Operations Analyst",
+  "company": "Citi",
+  "reason": "requires 4+ years experience"
  }
 ]
