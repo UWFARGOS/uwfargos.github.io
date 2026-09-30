@@ -280,6 +280,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Loan Fulfillment Construction Lending Risk Manager - Remote Opportunity",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Loan Setup Specialist - Flex opportunity",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -291,11 +296,6 @@
  },
  {
   "title": "Commercial Relationship Team Administrator",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Credit Products Commercial Loan Fulfillment Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -336,6 +336,11 @@
  },
  {
   "title": "Credit Products Commercial Loan Fulfillment Specialist",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Credit Products Corporate Loan Fulfillment Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -391,11 +396,6 @@
  },
  {
   "title": "Mortgage Loan Officer - Indiana - Multiple Locations",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Mortgage Loan Officer - Iowa - Multiple Locations",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -505,7 +505,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Fraud Data and Analytics Analyst - Card Fraud",
+  "title": "",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -650,11 +650,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Learning & Instruction Consultant- Sales Leadership Facilitator",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Equity Capital Markets VP",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -715,11 +710,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Portfolio Manager - Wholesale Credit Delivery",
-  "company": "Truist",
-  "reason": "senior title"
- },
- {
   "title": "Head of Capital Markets Service Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -750,9 +740,19 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Wholesale Early Careers Program Manager, Payments Program",
+  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
   "company": "Truist",
-  "reason": "senior title"
+  "reason": "requires 3+ years experience"
+ },
+ {
+  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Wholesale Early Careers Development Associate",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Wholesale Credit Delivery Associate I",
@@ -1055,11 +1055,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
-  "company": "Truist",
-  "reason": "requires 3+ years experience"
- },
- {
   "title": "Equity Research Associate - Industrials / Machinery / E&C",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1091,11 +1086,6 @@
  },
  {
   "title": "Brokerage Registered Client Service Associate - Frederick, Maryland",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Brokerage Registered Client Service Associate - Pittsburgh, Pennsylvania",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1302,6 +1292,16 @@
  {
   "title": "Junior Accountant - EXAMS",
   "company": "Securities and Exchange Commission",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Tax Analyst (Technical Specialist)",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2362,6 +2362,51 @@
  {
   "title": "SUPERVISORY FINANCIAL ANALYST",
   "company": "Pension Benefit Guaranty Corporation",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTANT",
+  "company": "Federal Energy Regulatory Commission",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Analyst",
+  "company": "Offices, Boards and Divisions",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Tax Analyst (Technical Specialist)",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL SYSTEMS AND DATA ANALYST",
+  "company": "Defense Counterintelligence and Security Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Specialist",
+  "company": "Defense Security Cooperation Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Specialist",
+  "company": "Smithsonian Institution ",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Specialist",
+  "company": "Smithsonian Institution ",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SPECIALIST--DIRECT HIRE AUTHORITY",
+  "company": "Department of the Air Force Headquarters",
   "reason": "no internship or entry-level signal"
  },
  {
