@@ -1,101 +1,14 @@
 {
- "generated": "2026-10-01T04:08:57+00:00",
- "count": 43,
+ "generated": "2026-10-01T12:30:43+00:00",
+ "count": 46,
  "jobs": [
-  {
-   "id": "wd-truist-R0118659",
-   "title": "2027 Wealth Internship Program",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0118658",
-   "title": "2027 Wealth Analyst Program",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26984849",
-   "title": "Markets - Sales, Trading & Structuring, Off-Cycle Internship, Frankfurt - Germany, 2026",
-   "company": "Citi",
-   "location": "TAURUS",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Markets---Sales--Trading---Structuring--Off-Cycle-Internship--Frankfurt---Germany--2026_26984849",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work \nYou\u2019re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with ",
-   "locations": [
-    "TAURUS"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26998100",
-   "title": "Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2027",
-   "company": "Citi",
-   "location": "New York New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Functions---Enterprise-Services-and-Public-Affairs--Summer-Analyst--New-York---USA--2027_26998100",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": "NY",
-   "employer_kind": "bank",
-   "snippet": "You\u2019re the brains behind our work. Ready to bring your classroom knowledge into the boardroom? Citi is looking for Summer Analysts to join our Enterprise Services and Public Affairs (ESPA) team in New York, NY. We believe success is built on continuous growth, and our programs ar",
-   "locations": [
-    "New York New York United States"
-   ],
-   "states": [
-    "NY"
-   ],
-   "extra_locations": 0
-  },
   {
    "id": "wd-truist-R0119725",
    "title": "Wholesale Credit Delivery Analyst II",
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wholesale-Credit-Delivery-Analyst-II_R0119725",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [
     "Check location"
    ],
@@ -111,33 +24,12 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-26951376",
-   "title": "Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027",
-   "company": "Citi",
-   "location": "Tampa Florida United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
-   "posted": "Posted 9 Days Ago",
-   "flags": [],
-   "bucket": "Audit & Assurance",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
-   "locations": [
-    "Tampa Florida United States"
-   ],
-   "states": [
-    "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-truist-R0119703",
    "title": "Investment Analyst I",
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Tampa-FL/Investment-Analyst-I_R0119703",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -347,7 +239,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Grade--Debt-Capital-Markets-Analyst-I_R0118559",
-   "posted": "Posted 29 Days Ago",
+   "posted": "Posted 30 Days Ago",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -363,12 +255,34 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-truist-R0119774",
+   "title": "ABL Structuring Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
+   "posted": "Posted 3 Days Ago",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-regions-R105737",
    "title": "2027 ETP Intern - Marketing and Communications, Multiple Opportunities, Birmingham, AL",
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Marketing-and-Communications--Multiple-Opportunities--Birmingham--AL_R105737",
-   "posted": "Posted 28 Days Ago",
+   "posted": "Posted 29 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -391,7 +305,7 @@
    "company": "Regions Bank",
    "location": "Birmingham, AL - Regions Center",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Community-Engagement--Birmingham--AL_R105772",
-   "posted": "Posted 28 Days Ago",
+   "posted": "Posted 29 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -409,12 +323,75 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-citi-26955711",
+   "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
+   "company": "Citi",
+   "location": "Getzville New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
+   "posted": "Posted 29 Days Ago",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Buffalo office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the ",
+   "locations": [
+    "Getzville New York United States"
+   ],
+   "states": [
+    "NY"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26955971",
+   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
+   "company": "Citi",
+   "location": "Irving Texas United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
+   "posted": "Posted 29 Days Ago",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Irving office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the f",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26955732",
+   "title": "Functions - Risk Management, Summer Analyst, Tampa - USA, 2027",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732",
+   "posted": "Posted 29 Days Ago",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Tampa office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the fi",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
+   ],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0118764",
    "title": "Fiduciary Operations Analyst II",
    "company": "Truist",
    "location": "Richmond, VA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Fiduciary-Operations-Analyst-II_R0118764",
-   "posted": "Posted 27 Days Ago",
+   "posted": "Posted 28 Days Ago",
    "flags": [],
    "bucket": "Tax",
    "level": "Entry level",
@@ -435,7 +412,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Corporate-Banking--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992089",
-   "posted": "Posted 26 Days Ago",
+   "posted": "Posted 27 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -456,7 +433,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Financing--Equity-Capital-Markets-Placement-Analyst-Internship--Frankfurt---Germany-2027_26992449",
-   "posted": "Posted 26 Days Ago",
+   "posted": "Posted 27 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -477,7 +454,7 @@
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Commercial---Specialized-Industries-Analyst-II_R0115681-1",
-   "posted": "Posted 20 Days Ago",
+   "posted": "Posted 21 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -493,25 +470,90 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0119774",
-   "title": "ABL Structuring Analyst I",
+   "id": "wd-truist-R0118659",
+   "title": "2027 Wealth Internship Program",
    "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Internship-Program_R0118659",
    "posted": "Posted 2 Days Ago",
    "flags": [
     "Check location",
     "No sponsorship"
    ],
-   "bucket": "Tax",
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118658",
+   "title": "2027 Wealth Analyst Program",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wealth-Analyst-Program_R0118658",
+   "posted": "Posted 2 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Wealth & Financial Planning",
    "level": "Entry level",
    "state": null,
    "employer_kind": "bank",
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
-    "3 Locations"
+    "2 Locations"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26984849",
+   "title": "Markets - Sales, Trading & Structuring, Off-Cycle Internship, Frankfurt - Germany, 2026",
+   "company": "Citi",
+   "location": "TAURUS",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Markets---Sales--Trading---Structuring--Off-Cycle-Internship--Frankfurt---Germany--2026_26984849",
+   "posted": "Posted 2 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "You're the brains behind our work \nYou\u2019re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with ",
+   "locations": [
+    "TAURUS"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26998100",
+   "title": "Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2027",
+   "company": "Citi",
+   "location": "New York New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Functions---Enterprise-Services-and-Public-Affairs--Summer-Analyst--New-York---USA--2027_26998100",
+   "posted": "Posted 2 Days Ago",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": "NY",
+   "employer_kind": "bank",
+   "snippet": "You\u2019re the brains behind our work. Ready to bring your classroom knowledge into the boardroom? Citi is looking for Summer Analysts to join our Enterprise Services and Public Affairs (ESPA) team in New York, NY. We believe success is built on continuous growth, and our programs ar",
+   "locations": [
+    "New York New York United States"
+   ],
+   "states": [
+    "NY"
+   ],
    "extra_locations": 0
   },
   {
@@ -520,7 +562,7 @@
    "company": "Truist",
    "location": "Charlotte, NC",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Internship-Program---Consumer---Small-Business-Banking_R0119236",
-   "posted": "Posted 16 Days Ago",
+   "posted": "Posted 17 Days Ago",
    "flags": [
     "Sophomore eligible",
     "No sponsorship"
@@ -544,7 +586,7 @@
    "company": "Citi",
    "location": "Atlanta Georgia United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Atlanta-Georgia-United-States/Banking---Corporate-Banking--Summer-Analyst--Atlanta---US--2027_26994662",
-   "posted": "Posted 16 Days Ago",
+   "posted": "Posted 17 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",
@@ -565,7 +607,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
-   "posted": "Posted 14 Days Ago",
+   "posted": "Posted 15 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -586,7 +628,7 @@
    "company": "Citi",
    "location": "THE SUMMIT - CIUDAD DE MEXICO",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
-   "posted": "Posted 14 Days Ago",
+   "posted": "Posted 15 Days Ago",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -607,7 +649,7 @@
    "company": "Regions Bank",
    "location": "Clayton, MO - Clayton Banking Building (St Louis, MO)",
    "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clayton-MO---Clayton-Banking-Building-St-Louis-MO/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
-   "posted": "Posted 13 Days Ago",
+   "posted": "Posted 14 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -621,6 +663,27 @@
    ],
    "states": [
     "MO"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26951376",
+   "title": "Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
+   "posted": "Posted 10 Days Ago",
+   "flags": [],
+   "bucket": "Audit & Assurance",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
    ],
    "extra_locations": 0
   },
