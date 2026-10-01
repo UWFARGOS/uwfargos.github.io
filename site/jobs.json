@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-30T21:58:29+00:00",
- "count": 47,
+ "generated": "2026-10-01T04:08:57+00:00",
+ "count": 43,
  "jobs": [
   {
    "id": "wd-truist-R0118659",
@@ -409,69 +409,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-26955711",
-   "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
-   "company": "Citi",
-   "location": "Getzville New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
-   "posted": "Posted 28 Days Ago",
-   "flags": [],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": "NY",
-   "employer_kind": "bank",
-   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Buffalo office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the ",
-   "locations": [
-    "Getzville New York United States"
-   ],
-   "states": [
-    "NY"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26955971",
-   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
-   "company": "Citi",
-   "location": "Irving Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
-   "posted": "Posted 28 Days Ago",
-   "flags": [],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Irving office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the f",
-   "locations": [
-    "Irving Texas United States"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26955732",
-   "title": "Functions - Risk Management, Summer Analyst, Tampa - USA, 2027",
-   "company": "Citi",
-   "location": "Tampa Florida United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732",
-   "posted": "Posted 28 Days Ago",
-   "flags": [],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "Citi is looking for Summer Analysts to join the Risk Management team in our Tampa office. Your work, as part of the Risk summer program, can have an immediate impact. Citi Risk Management is a strategic business partner and works closely with global management teams across the fi",
-   "locations": [
-    "Tampa Florida United States"
-   ],
-   "states": [
-    "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-truist-R0118764",
    "title": "Fiduciary Operations Analyst II",
    "company": "Truist",
@@ -730,33 +667,6 @@
     "VA"
    ],
    "extra_locations": 0
-  },
-  {
-   "id": "us-C-26-DHA-ACCT-0510-PK",
-   "title": "ACCOUNTANT",
-   "company": "Air Force Civilian Career Training",
-   "location": "Robins AFB, Georgia",
-   "url": "https://www.usajobs.gov:443/job/850125600",
-   "posted": "2025-10-01T00:00:00.0000",
-   "flags": [
-    "Sophomore eligible"
-   ],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": "GA",
-   "employer_kind": "government",
-   "snippet": "Any individual who completed all requirements for a bachelor, masters or doctorate degree from a qualifying educational institution within the previous two years or will complete these requirements by 31 May 2026 meets the basic requirement to apply for the Recent Graduate Progra",
-   "locations": [
-    "Robins AFB, Georgia",
-    "Scott AFB, Illinois",
-    "Hanscom AFB, Massachusetts",
-    "Wright-Patterson AFB, Ohio",
-    "Tinker AFB, Oklahoma"
-   ],
-   "states": [
-    "GA"
-   ],
-   "extra_locations": 4
   },
   {
    "id": "mn-goldman-sachs-1",
