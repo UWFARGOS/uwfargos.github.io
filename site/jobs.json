@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-02T11:57:53+00:00",
- "count": 43,
+ "generated": "2026-10-02T17:32:22+00:00",
+ "count": 40,
  "jobs": [
   {
    "id": "wd-regions-R106501",
@@ -278,52 +278,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-regions-R105737",
-   "title": "2027 ETP Intern - Marketing and Communications, Multiple Opportunities, Birmingham, AL",
-   "company": "Regions Bank",
-   "location": "Birmingham, AL - Regions Center",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Marketing-and-Communications--Multiple-Opportunities--Birmingham--AL_R105737",
-   "posted": "Posted 30 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": "AL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Birmingham, AL - Regions Center"
-   ],
-   "states": [
-    "AL"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R105772",
-   "title": "2027 ETP Intern - Community Engagement, Birmingham, AL",
-   "company": "Regions Bank",
-   "location": "Birmingham, AL - Regions Center",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Community-Engagement--Birmingham--AL_R105772",
-   "posted": "Posted 30 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": "AL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Birmingham, AL - Regions Center"
-   ],
-   "states": [
-    "AL"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-citi-26955711",
    "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
    "company": "Citi",
@@ -595,29 +549,6 @@
    ],
    "states": [
     "DE"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R106092",
-   "title": "2027 ETP Intern \u2013 Private Wealth Management, St. Louis, MO",
-   "company": "Regions Bank",
-   "location": "Clayton, MO - Clayton Banking Building (St Louis, MO)",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clayton-MO---Clayton-Banking-Building-St-Louis-MO/XMLNAME-2027-ETP-Intern---Private-Wealth-Management--St-Louis--MO_R106092",
-   "posted": "Posted 15 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": "MO",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Clayton, MO - Clayton Banking Building (St Louis, MO)"
-   ],
-   "states": [
-    "MO"
    ],
    "extra_locations": 0
   },
