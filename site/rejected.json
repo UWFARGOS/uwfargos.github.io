@@ -1,5 +1,10 @@
 [
  {
+  "title": "Asset Management Portfolio Manager",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Trust Relationship Specialist - Dallas",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -165,7 +170,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Trust Relationship Specialist",
+  "title": "Trust Relationship Specialist - Franklin, TN",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -186,11 +191,6 @@
  },
  {
   "title": "Real Estate Banking Relationship Specialist",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Manager - Las Colinas",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -305,6 +305,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Philanthropic Solutions Advisor",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Credit Products Commercial Loan Fulfillment Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -351,11 +356,6 @@
  },
  {
   "title": "Legal Assistant",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "SBA Servicing Team Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -450,11 +450,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Funds Transfer Pricing Analyst",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Enterprise Risk Testing Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -511,11 +506,6 @@
  },
  {
   "title": "Real Estate Capital Markets Business Systems Analyst- Agency Multifamily",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Credit Products Commercial Portfolio Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -665,11 +655,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Sr Investment Banking Associate - Healthcare",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -710,12 +695,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Head of Capital Markets Service Delivery",
+  "title": "Sr Investment Banking Associate - Healthcare",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Enterprise Resilience Officer I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Head of Capital Markets Service Delivery",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -731,6 +721,11 @@
  },
  {
   "title": "Investment Banking VP - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Industrial Technology",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -756,11 +751,6 @@
  },
  {
   "title": "Wholesale Payments Dedicated Support Specialist",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Syndicated Loan Operations-Agency servicing specialist",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -826,11 +816,6 @@
  },
  {
   "title": "Executive Assistant",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wealth Business Analyst III - FINRA",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -915,11 +900,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader - Coppell",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Branch Leader I or II Ezell Boulevard",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -950,17 +930,27 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader I, II or III - Emory",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Branch Leader - St. Augustine Shores",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Branch Leader II or III Surfside",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I or II Guignard Drive",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I or II Newberry Main",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I North Myrtle Beach Area",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1155,11 +1145,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Wholesale Payments Sales Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Crimes Analyst III",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1231,6 +1216,11 @@
  },
  {
   "title": "Senior Associate Software Engineer \uf0e0 Salesforce Business Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Analyst - Mortgage Market Intelligence & Channel Pricing Analytics",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
