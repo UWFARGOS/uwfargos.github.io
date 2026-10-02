@@ -180,12 +180,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Real Estate Banking Relationship Specialist",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Real Estate Capital Markets Sizing Analyst- Agency Multifamily",
+  "title": "2027 Clearsight Investment Banking Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -345,11 +340,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Corporate Banking Strategic Execution Partner",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Technology Operations & Mainframe Operator",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -396,6 +386,16 @@
  },
  {
   "title": "Mortgage Loan Officer - Alabama - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Mortgage Loan Officer - Mississippi - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Mortgage Loan Officer - Texas - Multiple Locations",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -471,11 +471,6 @@
  },
  {
   "title": "Credit Products Process Performance Analyst",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Capital Markets Operational Risk Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -675,11 +670,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Head of Capital Markets Service Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -720,6 +710,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Head of Capital Markets Service Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Enterprise Resilience Officer I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Investment Banking VP - Industrials",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -735,7 +735,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Enterprise Resilience Officer I",
+  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -746,11 +746,6 @@
  },
  {
   "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -796,11 +791,6 @@
  },
  {
   "title": "2027 Finance Program",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "2027 Truist Analyst Program - Technology, Data, and Operations Track",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -961,6 +951,11 @@
  },
  {
   "title": "Branch Leader - St. Augustine Shores",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader II or III Surfside",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2040,11 +2035,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Management Specialist",
-  "company": "Centers for Disease Control and Prevention",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Supervisory Financial Management Specialist",
   "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
@@ -2397,6 +2387,16 @@
  {
   "title": "ACCOUNTANT",
   "company": "Secretary of the Navy Offices (SECNAV)",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SPECIALIST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTANT",
+  "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -3085,6 +3085,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Banking - Commercial Banking, Full Time Analyst, Taiwan \u2013 APAC, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Taipei Taipei City Taiwan)"
+ },
+ {
   "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
   "company": "Citi",
   "reason": "outside the US (London  United Kingdom)"
@@ -3233,11 +3238,6 @@
   "title": "Middle Office Analyst",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
- },
- {
-  "title": "Officer, Credit Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Kowloon  Hong Kong)"
  },
  {
   "title": "Officer, Credit Analyst",
