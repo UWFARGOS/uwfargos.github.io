@@ -1350,11 +1350,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "SUPERVISORY ACCOUNTANT-DIRECT HIRE AUTHORITY",
-  "company": "Air Force Materiel Command",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Naval Sea Systems Command",
   "reason": "no internship or entry-level signal"
@@ -3060,11 +3055,6 @@
   "reason": "requires 7+ years experience"
  },
  {
-  "title": "Quantitative Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
   "title": "Project Analyst",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
@@ -3163,6 +3153,11 @@
   "title": "Middle Office Analyst",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
+ },
+ {
+  "title": "Officer, Credit Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Kowloon  Hong Kong)"
  },
  {
   "title": "Officer, Credit Analyst",
