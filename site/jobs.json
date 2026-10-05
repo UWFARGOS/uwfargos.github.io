@@ -1,7 +1,29 @@
 {
- "generated": "2026-10-05T13:39:57+00:00",
- "count": 41,
+ "generated": "2026-10-05T23:49:16+00:00",
+ "count": 40,
  "jobs": [
+  {
+   "id": "wd-regions-R106501",
+   "title": "2027 Clearsight Summer Analyst",
+   "company": "Regions Bank",
+   "location": "Clearsight McLean",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clearsight-McLean/XMLNAME-2027-Clearsight-Summer-Analyst_R106501",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Clearsight McLean"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-truist-R0119774",
    "title": "ABL Structuring Analyst I",
@@ -423,49 +445,6 @@
    "states": [
     "FL"
    ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-25928747",
-   "title": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027",
-   "company": "Citi",
-   "location": "New York New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": "NY",
-   "employer_kind": "bank",
-   "snippet": "NAM Quantitative Analysis, Summer Analyst Program \u2013 New York (North America - 2027) \u00a0 You're the brains behind our work. \u00a0 Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it\u2019s honing your skills or building ",
-   "locations": [
-    "New York New York United States"
-   ],
-   "states": [
-    "NY"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R106501",
-   "title": "2027 Clearsight Summer Analyst",
-   "company": "Regions Bank",
-   "location": "Clearsight McLean",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clearsight-McLean/XMLNAME-2027-Clearsight-Summer-Analyst_R106501",
-   "posted": "Posted 3 Days Ago",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Clearsight McLean"
-   ],
-   "states": [],
    "extra_locations": 0
   },
   {
