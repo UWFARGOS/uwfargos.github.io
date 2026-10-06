@@ -585,7 +585,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Internal Auditor II - Finance & Regulatory Reporting",
+  "title": "",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1431,6 +1431,11 @@
  },
  {
   "title": "Auditor",
+  "company": "National Institutes of Health",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor",
   "company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
   "reason": "no internship or entry-level signal"
  },
@@ -2245,6 +2250,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "ACCOUNTANT (STAFF)",
+  "company": "U.S. Army Corps of Engineers",
+  "reason": "outside the US (Wiesbaden, Germany)"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2680,11 +2690,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Assistant Vice President - Vermillion Developer",
-  "company": "Citi",
-  "reason": "outside the US (Gurugram Haryana India)"
- },
- {
   "title": "Data Scientist",
   "company": "Citi",
   "reason": "outside the US (Gurugram Haryana India)"
@@ -2715,11 +2720,6 @@
   "reason": "outside the US (Dubai United Arab Emirates)"
  },
  {
-  "title": "Mehanty Management Associate (UAE Nationals ONLY)",
-  "company": "Citi",
-  "reason": "outside the US (Dubai United Arab Emirates)"
- },
- {
   "title": "AVP Commercial Banking - Commercial Banking Associate",
   "company": "Citi",
   "reason": "outside the US (Toronto - Canada)"
@@ -2733,6 +2733,11 @@
   "title": "Fresh Graduate - Finance, Economics, Mathematics, Accounting, Business Administration, Commerce",
   "company": "Citi",
   "reason": "outside the US (Taguig  Philippines)"
+ },
+ {
+  "title": "South Africa Learnership Graduate Program - Market, South Africa - Johannesburg, 2026",
+  "company": "Citi",
+  "reason": "outside the US (Johannesburg  South Africa)"
  },
  {
   "title": "South Africa Learnership Graduate Program - ICRM, South Africa - Johannesburg, 2026",
@@ -2925,11 +2930,6 @@
   "reason": "outside the US (Gurugram Haryana India)"
  },
  {
-  "title": "Business Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
   "title": "Credit Analyst",
   "company": "Citi",
   "reason": "requires 2+ years experience"
@@ -2938,6 +2938,11 @@
   "title": "Implementation Analyst",
   "company": "Citi",
   "reason": "outside the US (Pune Maharashtra India)"
+ },
+ {
+  "title": "Business analyst",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "Risk - Full-Time Analyst, Warsaw, 2027 - (Applicable for 2026 Citi Summer interns only)",
@@ -2953,6 +2958,26 @@
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Banking - Commercial Banking, Summer Analyst, Taiwan \u2013 APAC, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Taipei Taipei City Taiwan)"
+ },
+ {
+  "title": "Citi Global Wealth, Summer Analyst, Geneva - Switzerland, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Geneva  Switzerland)"
+ },
+ {
+  "title": "Operations - Full Time Analyst, Penang , 2026",
+  "company": "Citi",
+  "reason": "outside the US (Penang Pulau Pinang (penang) Malaysia)"
+ },
+ {
+  "title": "Operations - Full Time Analyst, Penang , 2026",
+  "company": "Citi",
+  "reason": "outside the US (Penang Pulau Pinang (penang) Malaysia)"
  },
  {
   "title": "Transfer Pricing Analyst",
@@ -2998,30 +3023,5 @@
   "title": "Transaction Capture Analyst",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
- },
- {
-  "title": "Finance Reporting Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Taipei Taipei City Taiwan)"
- },
- {
-  "title": "Securities & Derivatives Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
- },
- {
-  "title": "Middle Office Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
- },
- {
-  "title": "Officer, Credit Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Kowloon  Hong Kong)"
- },
- {
-  "title": "Officer, Credit Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Kowloon  Hong Kong)"
  }
 ]
