@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-06T12:49:56+00:00",
- "count": 40,
+ "generated": "2026-10-06T22:24:55+00:00",
+ "count": 39,
  "jobs": [
   {
    "id": "wd-regions-R106501",
@@ -25,25 +25,24 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0119774",
-   "title": "ABL Structuring Analyst I",
+   "id": "wd-truist-R0119960",
+   "title": "Wealth Brokerage Associate - Temporary, Charlottesville, VA",
    "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
-   "posted": "Posted 8 Days Ago",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
+   "location": "Charlottesville, VA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlottesville-VA/Wealth-Brokerage-Associate---Temporary--Charlottesville--VA_R0119960",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "VA",
    "employer_kind": "bank",
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
-    "3 Locations"
+    "Charlottesville, VA"
    ],
-   "states": [],
+   "states": [
+    "VA"
+   ],
    "extra_locations": 0
   },
   {
@@ -571,27 +570,6 @@
    "states": [
     "FL"
    ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119703",
-   "title": "Investment Analyst I",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Tampa-FL/Investment-Analyst-I_R0119703",
-   "posted": "Posted 12 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
    "extra_locations": 0
   },
   {
