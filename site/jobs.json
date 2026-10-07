@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-06T22:24:55+00:00",
- "count": 39,
+ "generated": "2026-10-07T04:18:31+00:00",
+ "count": 40,
  "jobs": [
   {
    "id": "wd-regions-R106501",
@@ -20,6 +20,29 @@
    "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
    "locations": [
     "Clearsight McLean"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R106052",
+   "title": "Business Systems Analyst",
+   "company": "Regions Bank",
+   "location": "3 Locations",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Business-Systems-Analyst_R106052",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "Sophomore eligible",
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "3 Locations"
    ],
    "states": [],
    "extra_locations": 0
