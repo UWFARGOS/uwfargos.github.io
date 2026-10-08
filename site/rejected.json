@@ -220,11 +220,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "2027 CBG ETP Analyst - Commercial Banking Development Program, Dallas, Tx",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Commercial Relationship Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -430,6 +425,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Mortgage Loan Officer - Missouri - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Regulatory Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -570,6 +570,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Manager, Identity & Access Management - Secrets & Privileged Access",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Internal Auditor II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -670,41 +675,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Sr Investment Banking Associate - Healthcare",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Head of Capital Markets Service Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Industrials",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Energy (Oil & Gas)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Healthcare",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Industrial Technology",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Equity Research VP - Aerospace & Defense",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -750,7 +720,42 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Sr Investment Banking Associate - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Enterprise Resilience Officer I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Head of Capital Markets Service Delivery",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Industrials",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Energy (Oil & Gas)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Industrial Technology",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Equity Research VP - Aerospace & Defense",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -786,6 +791,11 @@
  },
  {
   "title": "2027 Finance Program",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Talent Acquisition Consultant - Wholesale Banking",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2645,7 +2655,17 @@
   "reason": "outside the US (Warsaw  Poland)"
  },
  {
+  "title": "Machine Learning Analyst-Python and SQL",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
   "title": "Python Angular Fullstack Developer",
+  "company": "Citi",
+  "reason": "outside the US (Bangaluru Karnataka India)"
+ },
+ {
+  "title": "Specialized Analytics Sr Anlst - C12 - BANGALORE",
   "company": "Citi",
   "reason": "outside the US (Bangaluru Karnataka India)"
  },
@@ -2910,11 +2930,6 @@
   "reason": "outside the US (Olsztyn  Poland)"
  },
  {
-  "title": "Performance Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
@@ -3008,5 +3023,10 @@
   "title": "Digital Service Analyst",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Financial Reporting Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
  }
 ]

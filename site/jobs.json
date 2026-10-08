@@ -1,58 +1,14 @@
 {
- "generated": "2026-10-08T04:30:20+00:00",
+ "generated": "2026-10-08T12:53:44+00:00",
  "count": 37,
  "jobs": [
-  {
-   "id": "wd-regions-R106052",
-   "title": "Business Systems Analyst",
-   "company": "Regions Bank",
-   "location": "3 Locations",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Business-Systems-Analyst_R106052",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location",
-    "Sophomore eligible",
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119960",
-   "title": "Wealth Brokerage Associate - Temporary, Charlottesville, VA",
-   "company": "Truist",
-   "location": "Charlottesville, VA",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlottesville-VA/Wealth-Brokerage-Associate---Temporary--Charlottesville--VA_R0119960",
-   "posted": "Posted Yesterday",
-   "flags": [],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": "VA",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Charlottesville, VA"
-   ],
-   "states": [
-    "VA"
-   ],
-   "extra_locations": 0
-  },
   {
    "id": "wd-citi-26984849",
    "title": "Markets - Sales, Trading & Structuring, Off-Cycle Internship, Frankfurt - Germany, 2026",
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Markets---Sales--Trading---Structuring--Off-Cycle-Internship--Frankfurt---Germany--2026_26984849",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -73,7 +29,7 @@
    "company": "Citi",
    "location": "New York New York United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Functions---Enterprise-Services-and-Public-Affairs--Summer-Analyst--New-York---USA--2027_26998100",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -96,7 +52,7 @@
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wholesale-Credit-Delivery-Analyst-II_R0119725",
-   "posted": "Posted 7 Days Ago",
+   "posted": "Posted 8 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -406,12 +362,34 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-regions-R106501",
+   "title": "2027 Clearsight Summer Analyst",
+   "company": "Regions Bank",
+   "location": "Clearsight McLean",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clearsight-McLean/XMLNAME-2027-Clearsight-Summer-Analyst_R106501",
+   "posted": "Posted 3 Days Ago",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Clearsight McLean"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0115681",
    "title": "Commercial & Specialized Industries Analyst II",
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Commercial---Specialized-Industries-Analyst-II_R0115681-1",
-   "posted": "Posted 27 Days Ago",
+   "posted": "Posted 28 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -432,7 +410,7 @@
    "company": "Citi",
    "location": "Atlanta Georgia United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Atlanta-Georgia-United-States/Banking---Corporate-Banking--Summer-Analyst--Atlanta---US--2027_26994662",
-   "posted": "Posted 23 Days Ago",
+   "posted": "Posted 24 Days Ago",
    "flags": [],
    "bucket": "Commercial & Credit",
    "level": "Internship",
@@ -453,7 +431,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
-   "posted": "Posted 21 Days Ago",
+   "posted": "Posted 22 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -474,7 +452,7 @@
    "company": "Citi",
    "location": "THE SUMMIT - CIUDAD DE MEXICO",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
-   "posted": "Posted 21 Days Ago",
+   "posted": "Posted 22 Days Ago",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -490,14 +468,15 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-regions-R106501",
-   "title": "2027 Clearsight Summer Analyst",
+   "id": "wd-regions-R106052",
+   "title": "Business Systems Analyst",
    "company": "Regions Bank",
-   "location": "Clearsight McLean",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clearsight-McLean/XMLNAME-2027-Clearsight-Summer-Analyst_R106501",
+   "location": "3 Locations",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Business-Systems-Analyst_R106052",
    "posted": "Posted 2 Days Ago",
    "flags": [
     "Check location",
+    "Sophomore eligible",
     "No sponsorship"
    ],
    "bucket": "Insurance & Actuarial",
@@ -506,9 +485,30 @@
    "employer_kind": "bank",
    "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
    "locations": [
-    "Clearsight McLean"
+    "3 Locations"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119960",
+   "title": "Wealth Brokerage Associate - Temporary, Charlottesville, VA",
+   "company": "Truist",
+   "location": "Charlottesville, VA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlottesville-VA/Wealth-Brokerage-Associate---Temporary--Charlottesville--VA_R0119960",
+   "posted": "Posted 2 Days Ago",
+   "flags": [],
+   "bucket": "Wealth & Financial Planning",
+   "level": "Internship",
+   "state": "VA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Charlottesville, VA"
+   ],
+   "states": [
+    "VA"
+   ],
    "extra_locations": 0
   },
   {
@@ -517,7 +517,7 @@
    "company": "Citi",
    "location": "Tampa Florida United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
-   "posted": "Posted 16 Days Ago",
+   "posted": "Posted 17 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
