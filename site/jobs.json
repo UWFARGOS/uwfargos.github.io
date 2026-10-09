@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-09T12:39:07+00:00",
- "count": 37,
+ "generated": "2026-10-09T22:19:59+00:00",
+ "count": 38,
  "jobs": [
   {
    "id": "wd-truist-R0120380",
@@ -24,6 +24,71 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-truist-R0120649",
+   "title": "2027 Structured Credit Summer Analyst Program",
+   "company": "Truist",
+   "location": "Atlanta, GA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Structured-Credit-Summer-Analyst-Program_R0120649",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": "GA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "states": [
+    "GA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119703",
+   "title": "Investment Analyst I",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Tampa-FL/Investment-Analyst-I_R0119703",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26999998",
+   "title": "Long Term Internship \u2013 Investment Banking, Turkey \u2013 Istanbul, 2027",
+   "company": "Citi",
+   "location": "Istanbul  Turkey",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Istanbul--Turkey/Long-Term-Internship---Investment-Banking--Turkey---Istanbul--2027_26999998",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Treasury",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Job Description You're the brains behind our work. \nYou're ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our program",
+   "locations": [
+    "Istanbul  Turkey"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0119725",
    "title": "Wholesale Credit Delivery Analyst II",
    "company": "Truist",
@@ -40,28 +105,6 @@
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
     "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R106501",
-   "title": "2027 Clearsight Summer Analyst",
-   "company": "Regions Bank",
-   "location": "Clearsight McLean",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Clearsight-McLean/XMLNAME-2027-Clearsight-Summer-Analyst_R106501",
-   "posted": "Posted 4 Days Ago",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Insurance & Actuarial",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Clearsight McLean"
    ],
    "states": [],
    "extra_locations": 0
@@ -400,27 +443,6 @@
     "2 Locations"
    ],
    "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26994662",
-   "title": "Banking - Corporate Banking, Summer Analyst, Atlanta - US, 2027",
-   "company": "Citi",
-   "location": "Atlanta Georgia United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Atlanta-Georgia-United-States/Banking---Corporate-Banking--Summer-Analyst--Atlanta---US--2027_26994662",
-   "posted": "Posted 25 Days Ago",
-   "flags": [],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": "GA",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work You're ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with t",
-   "locations": [
-    "Atlanta Georgia United States"
-   ],
-   "states": [
-    "GA"
-   ],
    "extra_locations": 0
   },
   {
