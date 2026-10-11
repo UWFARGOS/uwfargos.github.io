@@ -160,17 +160,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Manager - Gardendale Odum Road",
+  "title": "",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Branch Manager - Douglassville Main Branch",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Manager - Suwanee",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -196,6 +191,11 @@
  },
  {
   "title": "Private Wealth Management Wealth Advisor",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Asset Management Institutional Consulting Group Area Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -2900,11 +2900,6 @@
   "reason": "outside the US (Olsztyn  Poland)"
  },
  {
-  "title": "Data Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Pune Maharashtra India)"
- },
- {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
@@ -2998,5 +2993,10 @@
   "title": "Digital Service Analyst",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Financial Reporting Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
  }
 ]
