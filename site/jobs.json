@@ -1,7 +1,50 @@
 {
- "generated": "2026-10-13T13:40:34+00:00",
- "count": 38,
+ "generated": "2026-10-13T22:23:37+00:00",
+ "count": 40,
  "jobs": [
+  {
+   "id": "wd-truist-R0119774",
+   "title": "ABL Structuring Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26945135",
+   "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
+   "company": "Citi",
+   "location": "4 Locations",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "We are seeking a highly motivated Associate for a front-office coverage role on Healthcare, Higher Ed & Nonprofit\u00a0team. This position is an excellent opportunity for individuals looking to build a career in a nonprofit industry The Commercial Associate role role is an entry level",
+   "locations": [
+    "4 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-truist-R0119960",
    "title": "Wealth Brokerage Associate - Temporary, Charlottesville, VA",
