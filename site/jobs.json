@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-14T16:37:31+00:00",
- "count": 39,
+ "generated": "2026-10-14T21:24:17+00:00",
+ "count": 37,
  "jobs": [
   {
    "id": "wd-truist-R0119774",
@@ -153,27 +153,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0119703",
-   "title": "Investment Analyst I",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Tampa-FL/Investment-Analyst-I_R0119703",
-   "posted": "Posted 5 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-citi-26999998",
    "title": "Long Term Internship \u2013 Investment Banking, Turkey \u2013 Istanbul, 2027",
    "company": "Citi",
@@ -293,27 +272,6 @@
    "snippet": "You \u2019 re the brains behind our work. Citi\u2019s Commercial Bank (\u201cCCB\u201d) is looking for Summer Analysts to join the Natural Resources team in Houston. This team covers clients in the Oil & Gas (Upstream and Midstream), Energy Transition, and Power and Utilities sectors. Our Commercial",
    "locations": [
     "Houston Texas United States"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26951372",
-   "title": "Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027",
-   "company": "Citi",
-   "location": "Irving Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Audit & Assurance",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
-   "locations": [
-    "Irving Texas United States"
    ],
    "states": [
     "TX"
