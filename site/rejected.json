@@ -670,26 +670,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Brokerage Registered Client Service Associate - Maryland",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Equity Capital Markets VP",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Equity Capital Markets Vice President",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Real Estate Corporate Banking Associate I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -728,6 +708,26 @@
   "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
   "company": "Truist",
   "reason": "senior title"
+ },
+ {
+  "title": "Brokerage Registered Client Service Associate - Maryland",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Equity Capital Markets VP",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Equity Capital Markets Vice President",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Real Estate Corporate Banking Associate I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Enterprise Resilience Officer I",
@@ -2270,14 +2270,14 @@
   "reason": "outside the US (Singapore  Singapore)"
  },
  {
+  "title": "Director/ MD, Senior Private Banker \u2013 International Clients (Singapore Based)",
+  "company": "Citi",
+  "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
   "title": "Officer - Ops Sup Intermed Analyst (IBCO)",
   "company": "Citi",
   "reason": "outside the US (Taguig  Philippines)"
- },
- {
-  "title": "Banking and International Risk and Controls Senior Analyst - Assistant Vice President",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
  },
  {
   "title": "Asesor Previsional Afore -  Monterrey",
@@ -2415,9 +2415,9 @@
   "reason": "requires 2+ years experience"
  },
  {
-  "title": "",
+  "title": "BANAMEX Asesor Previsional Afore",
   "company": "Citi",
-  "reason": "no internship or entry-level signal"
+  "reason": "outside the US (Monterrey Nuevo Leon Mexico)"
  },
  {
   "title": "Services \u2013 Internship, Bogot\u00e1 \u2013 Colombia, 2027",
