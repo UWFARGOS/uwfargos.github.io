@@ -1315,6 +1315,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Accountant",
   "company": "Central Intelligence Agency",
   "reason": "no internship or entry-level signal"
@@ -1450,11 +1455,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Supervisory Accountant (Staff)",
-  "company": "DHS Headquarters",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Director of Financial Operations/Comptroller",
   "company": "U.S. Coast Guard",
   "reason": "no internship or entry-level signal"
@@ -1475,23 +1475,8 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "FINANCIAL SYSTEMS ANALYST",
-  "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Business Administrator",
   "company": "Bureau of Prisons/Federal Prison System",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Analyst",
-  "company": "Federal Aviation Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "ACCOUNTANT",
-  "company": "Defense Contract Audit Agency",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1505,11 +1490,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "SUPERVISORY FINANCIAL SYSTEMS SPECIALIST",
-  "company": "Defense Finance and Accounting Service",
-  "reason": "outside the US (Yokota Air Base, Japan)"
- },
- {
   "title": "FINANCIAL MANAGEMENT ANALYST (TITLE 32)",
   "company": "Air National Guard Units",
   "reason": "no internship or entry-level signal"
@@ -1517,31 +1497,6 @@
  {
   "title": "FINANCIAL MANAGEMENT SPECIALIST",
   "company": "Headquarters, Air Force Reserve Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Specialist",
-  "company": "Smithsonian Institution ",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Specialist",
-  "company": "Smithsonian Institution ",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior CFI Specialist, CG-1160-15",
-  "company": "Federal Deposit Insurance Corporation",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior CFI Specialist, CG-1160-15",
-  "company": "Federal Deposit Insurance Corporation",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant (Open to both U.S. Citizens and Federal Employees)",
-  "company": "Maritime Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1575,11 +1530,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Accountant",
-  "company": "Drug Enforcement Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "FINANCIAL SYSTEMS SPECIALIST",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
@@ -1602,11 +1552,6 @@
  {
   "title": "Supervisory Auditor (FAO Manager)",
   "company": "Defense Contract Audit Agency",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Supervisory Accountant",
-  "company": "U.S. Marshals Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1655,11 +1600,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Tax Analyst",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
   "company": "United States Fleet Forces Command",
   "reason": "no internship or entry-level signal"
@@ -1700,11 +1640,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "SUPERVISORY FINANCIAL SPECIALIST",
-  "company": "Air Force Materiel Command",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "ACCOUNTANT (STAFF)",
   "company": "U.S. Army Corps of Engineers",
   "reason": "outside the US (Wiesbaden, Germany)"
@@ -1730,16 +1665,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Supervisory Accountant",
-  "company": "Commerce, International Trade Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Supervisory Accountant",
-  "company": "Commerce, International Trade Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Systems Analyst",
   "company": "Defense Logistics Agency",
   "reason": "no internship or entry-level signal"
@@ -1752,11 +1677,6 @@
  {
   "title": "Supervisory Financial Program/Cost Analyst",
   "company": "Citizenship and Immigration Services",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Functional Training Coordinator",
-  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1807,11 +1727,6 @@
  {
   "title": "ACCOUNTANT",
   "company": "Defense Human Resources Activity",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1985,6 +1900,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "ACCOUNTING SPECIALIST",
+  "company": "Headquarters, Air Force Reserve Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Senior Financial Management Specialist",
   "company": "Drug Enforcement Administration",
   "reason": "no internship or entry-level signal"
@@ -1992,6 +1912,11 @@
  {
   "title": "Supervisory Financial Management Specialist",
   "company": "Federal Emergency Management Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Supply Systems Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2047,6 +1972,11 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Defense Counterintelligence and Security Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "Commander, Navy Installations Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2160,6 +2090,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Management Specialist",
+  "company": "Department of State Headquarters",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Supervisory Financial Management Specialist",
   "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
@@ -2170,13 +2105,38 @@
   "reason": "requires 4+ years experience"
  },
  {
+  "title": "Supervisory Accountant",
+  "company": "Customs and Border Protection",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Supervisory Financial Administrative Specialist",
   "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "United States Fleet Forces Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SYSTEMS ANALYST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Supervisory Financial Management Specialist",
   "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Tax Analyst",
+  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2195,6 +2155,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Director of Audit Operations (Supervisory Performance Auditor)",
+  "company": "Office of Inspector General",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Management Analyst",
   "company": "U.S. Special Operations Command (Army)",
   "reason": "no internship or entry-level signal"
@@ -2207,6 +2172,16 @@
  {
   "title": "SUPERVISORY ACCOUNTANT",
   "company": "Defense Counterintelligence and Security Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Special Warfare Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Lead Accountant",
+  "company": "Bureau of Economic Analysis",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2635,11 +2610,6 @@
   "reason": "outside the US (Dublin  Ireland)"
  },
  {
-  "title": "Reporting Manager",
-  "company": "Citi",
-  "reason": "outside the US (Dublin  Ireland)"
- },
- {
   "title": "Sales Analytics Senior Analyst - AVP - MUMBAI",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -2693,6 +2663,11 @@
   "title": "Data Scientist",
   "company": "Citi",
   "reason": "outside the US (Bangaluru Karnataka India)"
+ },
+ {
+  "title": "Machine learning and GEN AI Data Scientist",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "Specialized Analytics Senior Analyst",
@@ -2930,6 +2905,11 @@
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
+  "title": "Risk - Full-Time Analyst, Warsaw, 2027 - (Applicable for 2026 Citi Summer interns only)",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
+ },
+ {
   "title": "Transfer Pricing Analyst",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -3028,10 +3008,5 @@
   "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
- },
- {
-  "title": "Valuation Control Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
  }
 ]

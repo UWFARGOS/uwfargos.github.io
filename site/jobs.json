@@ -1,57 +1,14 @@
 {
- "generated": "2026-10-15T03:12:20+00:00",
- "count": 37,
+ "generated": "2026-10-15T10:56:02+00:00",
+ "count": 38,
  "jobs": [
-  {
-   "id": "wd-truist-R0119774",
-   "title": "ABL Structuring Analyst I",
-   "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26945135",
-   "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
-   "company": "Citi",
-   "location": "4 Locations",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "We are seeking a highly motivated Associate for a front-office coverage role on Healthcare, Higher Ed & Nonprofit\u00a0team. This position is an excellent opportunity for individuals looking to build a career in a nonprofit industry The Commercial Associate role role is an entry level",
-   "locations": [
-    "4 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
   {
    "id": "wd-truist-R0120726",
    "title": "Financial Crimes Analyst I",
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Financial-Crimes-Analyst-I_R0120726",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [
     "Check location"
    ],
@@ -72,7 +29,7 @@
    "company": "Truist",
    "location": "4 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Sanctions-Analyst-II_R0120686",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [
     "Check location"
    ],
@@ -93,7 +50,7 @@
    "company": "Truist",
    "location": "Charlottesville, VA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlottesville-VA/Wealth-Brokerage-Associate---Temporary--Charlottesville--VA_R0119960",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "flags": [],
    "bucket": "Wealth & Financial Planning",
    "level": "Internship",
@@ -114,7 +71,7 @@
    "company": "Truist",
    "location": "5 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Analyst-II---Wholesale-Credit-Delivery---Dealer-Services_R0120380",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -135,7 +92,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Structured-Credit-Summer-Analyst-Program_R0120649",
-   "posted": "Posted 5 Days Ago",
+   "posted": "Posted 6 Days Ago",
    "flags": [
     "No sponsorship"
    ],
@@ -158,7 +115,7 @@
    "company": "Citi",
    "location": "Istanbul  Turkey",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Istanbul--Turkey/Long-Term-Internship---Investment-Banking--Turkey---Istanbul--2027_26999998",
-   "posted": "Posted 5 Days Ago",
+   "posted": "Posted 6 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -431,7 +388,7 @@
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
-   "posted": "Posted 28 Days Ago",
+   "posted": "Posted 29 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -452,7 +409,7 @@
    "company": "Citi",
    "location": "THE SUMMIT - CIUDAD DE MEXICO",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
-   "posted": "Posted 28 Days Ago",
+   "posted": "Posted 29 Days Ago",
    "flags": [],
    "bucket": "Treasury",
    "level": "Entry level",
@@ -473,7 +430,7 @@
    "company": "Citi",
    "location": "Tampa Florida United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
-   "posted": "Posted 23 Days Ago",
+   "posted": "Posted 24 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
@@ -489,12 +446,55 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-truist-R0119774",
+   "title": "ABL Structuring Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
+   "posted": "Posted 2 Days Ago",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26945135",
+   "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
+   "company": "Citi",
+   "location": "4 Locations",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
+   "posted": "Posted 2 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "We are seeking a highly motivated Associate for a front-office coverage role on Healthcare, Higher Ed & Nonprofit\u00a0team. This position is an excellent opportunity for individuals looking to build a career in a nonprofit industry The Commercial Associate role role is an entry level",
+   "locations": [
+    "4 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-citi-26984849",
    "title": "Markets - Sales, Trading & Structuring, Off-Cycle Internship, Frankfurt - Germany, 2026",
    "company": "Citi",
    "location": "TAURUS",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Markets---Sales--Trading---Structuring--Off-Cycle-Internship--Frankfurt---Germany--2026_26984849",
-   "posted": "Posted 15 Days Ago",
+   "posted": "Posted 16 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -515,7 +515,7 @@
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wholesale-Credit-Delivery-Analyst-II_R0119725",
-   "posted": "Posted 14 Days Ago",
+   "posted": "Posted 15 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -528,6 +528,27 @@
     "2 Locations"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "us-CERD-26- 13088908-DHA",
+   "title": "FINANCIAL MANAGEMENT SPECIALIST",
+   "company": "U.S. Army Corps of Engineers",
+   "location": "Philadelphia, Pennsylvania",
+   "url": "https://www.usajobs.gov:443/job/888744300",
+   "posted": "2026-10-15T00:00:00.0000",
+   "flags": [],
+   "bucket": "Commercial & Credit",
+   "level": "Entry level",
+   "state": "PA",
+   "employer_kind": "government",
+   "snippet": "Who May Apply: To be eligible for consideration you must meet the definition of post-secondary student or recent graduate as defined below: Post-Secondary Student: a person who, (1) is currently enrolled in, and in good academic standing at, a full-time program at an institution ",
+   "locations": [
+    "Philadelphia, Pennsylvania"
+   ],
+   "states": [
+    "PA"
+   ],
    "extra_locations": 0
   },
   {
