@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-15T16:24:23+00:00",
- "count": 36,
+ "generated": "2026-10-15T21:02:17+00:00",
+ "count": 38,
  "jobs": [
   {
    "id": "wd-truist-R0120726",
@@ -42,6 +42,29 @@
     "4 Locations"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R106935",
+   "title": "2027 ETP Intern - Real Estate Banking, Dallas TX",
+   "company": "Regions Bank",
+   "location": "Dallas, TX - 17 Seventeen Building Branch",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Dallas-TX---17-Seventeen-Building-Branch/XMLNAME-2027-ETP-Intern---Real-Estate-Banking--Dallas-TX_R106935",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Dallas, TX - 17 Seventeen Building Branch"
+   ],
+   "states": [
+    "TX"
+   ],
    "extra_locations": 0
   },
   {
@@ -486,6 +509,29 @@
     "TAURUS"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "us-IMP-13089721-27-005-AF-T32",
+   "title": "FINANCIAL MANAGEMENT ANALYST",
+   "company": "Air National Guard Units",
+   "location": "New Castle, Delaware",
+   "url": "https://www.usajobs.gov:443/job/888961200",
+   "posted": "2026-10-15T14:50:10.5130",
+   "flags": [
+    "Clearance needed"
+   ],
+   "bucket": "Audit & Assurance",
+   "level": "Entry level",
+   "state": "DE",
+   "employer_kind": "government",
+   "snippet": "Military Grades: E-4/SrA - E-6/TSgt Compatible Military Assignments: Compatibility is identified as being a member of the Delaware Air National Guard. SPECIALIZED EXPERIENCE: Applicant must have at least 12 months of finance program experiences and competencies that provided know",
+   "locations": [
+    "New Castle, Delaware"
+   ],
+   "states": [
+    "DE"
+   ],
    "extra_locations": 0
   },
   {
