@@ -695,17 +695,22 @@
   "reason": "senior title"
  },
  {
-  "title": "Enterprise Resilience Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Sr Investment Banking Associate - TMT",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Enterprise Resilience Officer I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Brokerage Registered Client Service Associate - Maryland",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -770,11 +775,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Deposit Pricing Analytics Consultant",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Early Careers Development Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -801,11 +801,6 @@
  },
  {
   "title": "Investment Banking Analyst - Energy",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Asset Securitization Structuring Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -881,11 +876,6 @@
  },
  {
   "title": "Branch Leader I or II Pickens",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Data Scientist II - Fraud Reporting",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -971,6 +961,11 @@
  },
  {
   "title": "Branch Leader - Sea Island Road",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader - East DFW Area",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1221,6 +1216,11 @@
  },
  {
   "title": "Loan Administration Analyst - Grandbridge Real Estate Capital - Operations Support (New Loan Boarding)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Manager - Core Technology and Operations Finance",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2247,6 +2247,36 @@
  {
   "title": "Financial Specialist",
   "company": "U.S. Special Operations Command (Army)",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SPECIALIST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Program Specialist (Financial Specialist)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTANT (STAFF)",
+  "company": "Defense Commissary Agency",
+  "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "Financial Analyst",
+  "company": "Western Area Power Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "U.S. Army Corps of Engineers",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCE & ACQUISITION - (January 2027 Full Performance Hiring Event) (GG 11-13)",
+  "company": "Defense Intelligence Agency",
   "reason": "no internship or entry-level signal"
  },
  {
