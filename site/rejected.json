@@ -690,6 +690,11 @@
   "reason": "senior title"
  },
  {
+  "title": "Sr Investment Banking Associate - TMT",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Head of Fraud Strategy and Transformation",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -701,11 +706,6 @@
  },
  {
   "title": "Enterprise Resilience Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Sr Investment Banking Associate - TMT",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1173,11 +1173,6 @@
   "title": "Middle Market Credit Delivery Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Card Payments Operations Senior Analyst",
-  "company": "Truist",
-  "reason": "senior title"
  },
  {
   "title": "Regulatory Reporting Governance Sr. Analyst",
@@ -2260,6 +2255,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Operations Liaison",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2763,11 +2763,6 @@
   "title": "Fresh Graduate - Finance, Economics, Mathematics, Accounting, Business Administration, Commerce",
   "company": "Citi",
   "reason": "outside the US (Taguig  Philippines)"
- },
- {
-  "title": "South Africa Learnership Graduate Program - ICRM, South Africa - Johannesburg, 2026",
-  "company": "Citi",
-  "reason": "outside the US (Johannesburg  South Africa)"
  },
  {
   "title": "Graduan Career Fair  - Custody Asset Servicing Analyst / Senior Analyst",
