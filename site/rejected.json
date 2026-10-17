@@ -5,11 +5,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Trust Relationship Specialist - Dallas",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Trust Relationship Specialist - Houston",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -191,6 +186,11 @@
  },
  {
   "title": "Branch Manager - Cordova Trinity",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Manager- Valrico",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -700,12 +700,12 @@
   "reason": "senior title"
  },
  {
-  "title": "Brokerage Registered Client Service Associate - Maryland",
+  "title": "Enterprise Resilience Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Enterprise Resilience Officer I",
+  "title": "Brokerage Registered Client Service Associate - Maryland",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2628,6 +2628,11 @@
   "title": "Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027",
   "company": "Citi",
   "reason": "outside the US (London  United Kingdom)"
+ },
+ {
+  "title": "Wealth - Citigold, Summer Analyst, Hong Kong, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
   "title": "Early Career, Campus Recruiter",
