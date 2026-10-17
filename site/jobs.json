@@ -1,58 +1,14 @@
 {
- "generated": "2026-10-17T03:00:53+00:00",
+ "generated": "2026-10-17T10:13:58+00:00",
  "count": 36,
  "jobs": [
-  {
-   "id": "wd-regions-R106935",
-   "title": "2027 ETP Intern - Real Estate Banking, Dallas TX",
-   "company": "Regions Bank",
-   "location": "Dallas, TX - 17 Seventeen Building Branch",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Dallas-TX---17-Seventeen-Building-Branch/XMLNAME-2027-ETP-Intern---Real-Estate-Banking--Dallas-TX_R106935",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Dallas, TX - 17 Seventeen Building Branch"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26951372",
-   "title": "Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027",
-   "company": "Citi",
-   "location": "Irving Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
-   "posted": "Posted Yesterday",
-   "flags": [],
-   "bucket": "Audit & Assurance",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
-   "locations": [
-    "Irving Texas United States"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
   {
    "id": "wd-truist-R0120746",
    "title": "Securitization & Capital Call Underwriting Analyst",
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Asset-Securitization-Structuring-Analyst_R0120746",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [
     "Sophomore eligible"
    ],
@@ -75,7 +31,7 @@
    "company": "Truist",
    "location": "5 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Analyst-II---Wholesale-Credit-Delivery---Dealer-Services_R0120380",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -96,7 +52,7 @@
    "company": "Citi",
    "location": "Istanbul  Turkey",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Istanbul--Turkey/Long-Term-Internship---Investment-Banking--Turkey---Istanbul--2027_26999998",
-   "posted": "Posted 7 Days Ago",
+   "posted": "Posted 8 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -107,6 +63,49 @@
    "snippet": "Job Description You're the brains behind our work. \nYou're ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our program",
    "locations": [
     "Istanbul  Turkey"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0119774",
+   "title": "ABL Structuring Analyst I",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
+   "posted": "Posted 4 Days Ago",
+   "flags": [
+    "Check location",
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26945135",
+   "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
+   "company": "Citi",
+   "location": "4 Locations",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
+   "posted": "Posted 4 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "We are seeking a highly motivated Associate for a front-office coverage role on Healthcare, Higher Ed & Nonprofit\u00a0team. This position is an excellent opportunity for individuals looking to build a career in a nonprofit industry The Commercial Associate role role is an entry level",
+   "locations": [
+    "4 Locations"
    ],
    "states": [],
    "extra_locations": 0
@@ -196,6 +195,27 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-citi-26992451",
+   "title": "Banking, Debt Capital Markets, Placement Analyst Internship, Frankfurt - Germany 2027",
+   "company": "Citi",
+   "location": "TAURUS",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Treasury",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "You're the brains behind our work You are ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network; we know that success cannot come without growth. Our programs equip you wit",
+   "locations": [
+    "TAURUS"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-citi-26992089",
    "title": "Banking, Corporate Banking, Placement Analyst Internship, Frankfurt - Germany 2027",
    "company": "Citi",
@@ -235,6 +255,27 @@
     "TAURUS"
    ],
    "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26992624",
+   "title": "Banking \u2013 Corporate Banking, Full-Time Analyst, Mexico City \u2013 Mexico, 2027",
+   "company": "Citi",
+   "location": "THE SUMMIT - CIUDAD DE MEXICO",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [],
+   "bucket": "Treasury",
+   "level": "Entry level",
+   "state": "DE",
+   "employer_kind": "bank",
+   "snippet": "You're ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you nee",
+   "locations": [
+    "THE SUMMIT - CIUDAD DE MEXICO"
+   ],
+   "states": [
+    "DE"
+   ],
    "extra_locations": 0
   },
   {
@@ -301,84 +342,20 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-26992451",
-   "title": "Banking, Debt Capital Markets, Placement Analyst Internship, Frankfurt - Germany 2027",
-   "company": "Citi",
-   "location": "TAURUS",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
-   "posted": "Posted 30 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Treasury",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work You are ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network; we know that success cannot come without growth. Our programs equip you wit",
-   "locations": [
-    "TAURUS"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26992624",
-   "title": "Banking \u2013 Corporate Banking, Full-Time Analyst, Mexico City \u2013 Mexico, 2027",
-   "company": "Citi",
-   "location": "THE SUMMIT - CIUDAD DE MEXICO",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
-   "posted": "Posted 30 Days Ago",
-   "flags": [],
-   "bucket": "Treasury",
-   "level": "Entry level",
-   "state": "DE",
-   "employer_kind": "bank",
-   "snippet": "You're ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you nee",
-   "locations": [
-    "THE SUMMIT - CIUDAD DE MEXICO"
-   ],
-   "states": [
-    "DE"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119774",
-   "title": "ABL Structuring Analyst I",
+   "id": "wd-truist-R0120686",
+   "title": "Financial Crimes Sanctions Analyst II",
    "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
+   "location": "4 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Sanctions-Analyst-II_R0120686",
    "posted": "Posted 3 Days Ago",
    "flags": [
-    "Check location",
-    "No sponsorship"
+    "Check location"
    ],
    "bucket": "Tax",
    "level": "Entry level",
    "state": null,
    "employer_kind": "bank",
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26945135",
-   "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
-   "company": "Citi",
-   "location": "4 Locations",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
-   "posted": "Posted 3 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "We are seeking a highly motivated Associate for a front-office coverage role on Healthcare, Higher Ed & Nonprofit\u00a0team. This position is an excellent opportunity for individuals looking to build a career in a nonprofit industry The Commercial Associate role role is an entry level",
    "locations": [
     "4 Locations"
    ],
@@ -391,7 +368,7 @@
    "company": "Citi",
    "location": "Tampa Florida United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 26 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
@@ -407,24 +384,47 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0120686",
-   "title": "Financial Crimes Sanctions Analyst II",
-   "company": "Truist",
-   "location": "4 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Sanctions-Analyst-II_R0120686",
+   "id": "wd-regions-R106935",
+   "title": "2027 ETP Intern - Real Estate Banking, Dallas TX",
+   "company": "Regions Bank",
+   "location": "Dallas, TX - 17 Seventeen Building Branch",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Dallas-TX---17-Seventeen-Building-Branch/XMLNAME-2027-ETP-Intern---Real-Estate-Banking--Dallas-TX_R106935",
    "posted": "Posted 2 Days Ago",
    "flags": [
-    "Check location"
+    "No sponsorship"
    ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
+   "bucket": "Advisory & Consulting",
+   "level": "Internship",
+   "state": "TX",
    "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
    "locations": [
-    "4 Locations"
+    "Dallas, TX - 17 Seventeen Building Branch"
    ],
-   "states": [],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26951372",
+   "title": "Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027",
+   "company": "Citi",
+   "location": "Irving Texas United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
+   "posted": "Posted 2 Days Ago",
+   "flags": [],
+   "bucket": "Audit & Assurance",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "states": [
+    "TX"
+   ],
    "extra_locations": 0
   },
   {
@@ -433,7 +433,7 @@
    "company": "Truist",
    "location": "Charlottesville, VA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlottesville-VA/Wealth-Brokerage-Associate---Temporary--Charlottesville--VA_R0119960",
-   "posted": "Posted 10 Days Ago",
+   "posted": "Posted 11 Days Ago",
    "flags": [],
    "bucket": "Wealth & Financial Planning",
    "level": "Internship",
