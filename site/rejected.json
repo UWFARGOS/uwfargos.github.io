@@ -715,11 +715,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Deposit Pricing Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -763,6 +758,11 @@
   "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
   "company": "Truist",
   "reason": "senior title"
+ },
+ {
+  "title": "Senior Deposit Pricing Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Enterprise Resilience Officer I",
@@ -1130,27 +1130,27 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Treasury Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Middle Market Credit Delivery Analyst or Senior Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Treasury Sales Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Treasury Sales Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Treasury Sales Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2370,12 +2370,22 @@
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
  },
  {
+  "title": "Technology - Infrastructure, Summer Analyst (Internship), Philippines, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Taguig  Philippines)"
+ },
+ {
   "title": "Investment Banking - Summer Internship Program, Tokyo - Japan, 2027",
   "company": "Citi",
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
  },
  {
   "title": "Corporate Banking - Summer Internship Program, Tokyo - Japan, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
+ },
+ {
+  "title": "Markets - Summer Internship Program, Boston Career Forum in 2026, Tokyo - Japan, 2027",
   "company": "Citi",
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
  },
@@ -2403,11 +2413,6 @@
   "title": "Banking \u2013 Infrastructure Finance, Internship, S\u00e3o Paulo \u2013 Brazil, 2027",
   "company": "Citi",
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
- },
- {
-  "title": "Markets - Summer Internship Program, Boston Career Forum in 2026, Tokyo - Japan, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
  },
  {
   "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris, France 2026",
@@ -2493,11 +2498,6 @@
   "title": "Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027",
   "company": "Citi",
   "reason": "outside the US (London  United Kingdom)"
- },
- {
-  "title": "Wealth - Citigold, Summer Analyst, Hong Kong, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
   "title": "Early Career, Campus Recruiter",
