@@ -20,6 +20,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Relationship Banker I - One Hundred Oaks Branch",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "IT Senior Audit Director",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -41,6 +46,11 @@
  },
  {
   "title": "IT Auditor",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Auditor",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -180,17 +190,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Manager - Cordova Trinity",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Manager - Crosstown",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Manager - Fort Gaines",
+  "title": "Branch Manager - Winder Main",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -211,6 +211,11 @@
  },
  {
   "title": "Government and Institutional Banker",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Commercial Relationship Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -295,11 +300,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Retail Performance Executive",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Commercial Loan Servicing Specialist- CBG Operations.",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -321,11 +321,6 @@
  },
  {
   "title": "Commercial Relationship Team Administrator",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Credit Products Commercial Loan Fulfillment Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -420,6 +415,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Mortgage Loan Officer - Mississippi - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Mortgage Loan Officer - Texas - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Regulatory Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -461,11 +466,6 @@
  },
  {
   "title": "Core Finance Analyst-Corporate Banking",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Regions Business Capital Underwriting Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -530,17 +530,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Business Systems Analyst - Mortgage and Home Equity",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Fraud Data and Analytics Analyst - Card Fraud",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Business Systems Analyst - Mortgage and Home Equity",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Credit Products Process Performance Analyst- CBG Operations",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -580,16 +580,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Internal Auditor II",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Internal Auditor II",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Sr Internal Auditor - Technology",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -611,6 +601,11 @@
  },
  {
   "title": "Sr Internal Auditor - Finance & Reg Reporting",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Sr Internal Auditor - Capital Markets & Investment Banking",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -665,16 +660,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Real Estate Corporate Banking Associate I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Corporate Banking Associate I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Sr Investment Banking Associate - Healthcare",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -701,6 +686,36 @@
  },
  {
   "title": "Investment Banking VP - Industrial Technology",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Corporate Banking Associate I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "WCD Corporate and Leverage Finance Associate",
+  "company": "Truist",
+  "reason": "requires 6+ years experience"
+ },
+ {
+  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
+  "company": "Truist",
+  "reason": "requires 3+ years experience"
+ },
+ {
+  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Deposit Pricing Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Deposit Pricing Analytics Consultant",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -740,6 +755,11 @@
   "reason": "senior title"
  },
  {
+  "title": "Portfolio Manager - Wholesale Credit Delivery - Dealer Services segment",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
   "title": "Head of Fraud Strategy and Transformation",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -750,32 +770,12 @@
   "reason": "senior title"
  },
  {
-  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
-  "company": "Truist",
-  "reason": "requires 3+ years experience"
- },
- {
-  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Enterprise Resilience Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Deposit Pricing Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Enterprise Data Risk Oversight Manager",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Deposit Pricing Analytics Consultant",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -890,11 +890,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader- Freedom Drive",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Audit Director - Wholesale Lending",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -965,6 +960,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Branch Leader- St Albans",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Branch Leader - East DFW Area",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -976,6 +976,11 @@
  },
  {
   "title": "Branch Leader - Metro Jacksonville Area",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader - South Alcaniz",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1006,16 +1011,6 @@
  },
  {
   "title": "Equity Research Associate - Biotech",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Equity Research Associate - (Services)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Enterprise Funding Optimization Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1115,11 +1110,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Associate Software Engineer / Python and AWS",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Brokerage Client Service Associate - Raleigh, North Carolina",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1130,22 +1120,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Treasury Sales Analyst",
+  "title": "Brokerage Client Service Associate - Lake Mary, FL",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Treasury Sales Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Treasury Sales Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Treasury Sales Analyst",
+  "title": "Brokerage Client Service Associate - Charleston, West Virginia",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1155,12 +1135,32 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "CSBB Business Execution Analyst",
+  "title": "Treasury Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Grandbridge Real Estate Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Liquidity Risk Senior Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1176,11 +1176,6 @@
  },
  {
   "title": "Asset Liability Management Senior Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Middle Market Credit Delivery Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1226,6 +1221,16 @@
  },
  {
   "title": "Loan Administration Analyst - Grandbridge Real Estate Capital - Operations Support (New Loan Boarding)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Manager - Core Technology and Operations Finance",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Commercial Real Estate Insurance Manager - Grandbridge Real Estate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1312,6 +1317,11 @@
  {
   "title": "Assistant Director",
   "company": "Securities and Exchange Commission",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SYSTEMS ANALYST",
+  "company": "Air Force Elements, U.S. Special Operations Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2125,8 +2135,8 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Program Specialist (Financial Specialist)",
-  "company": "Bureau of Prisons/Federal Prison System",
+  "title": "Supervisory Financial Administrative Specialist (Accounts Management)",
+  "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2172,11 +2182,6 @@
  {
   "title": "FINANCIAL MANAGEMENT SPECIALIST",
   "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Program Specialist (Financial Specialist)",
-  "company": "Bureau of Prisons/Federal Prison System",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2227,6 +2232,81 @@
  {
   "title": "FINANCIAL ANALYST",
   "company": "Joint Activities",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Staff Accountant",
+  "company": "Deputy Assistant Secretary for Finance",
+  "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "Financial Management Specialist",
+  "company": "U.S. Secret Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Specialist",
+  "company": "U.S. Secret Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Stakeholder Relationship Tax Consultant",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "RESOURCE ANALYST",
+  "company": "Defense Information Systems Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Program Specialist (Financial Specialist)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Program Specialist (Financial Specialist)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Administrative Specialist - Billing",
+  "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Specialist",
+  "company": "Transportation Security Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Air National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Systems Accountant",
+  "company": "Immigration and Customs Enforcement",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SYSTEMS ANALYST",
+  "company": "Air Force Elements, U.S. Special Operations Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Program Specialist",
+  "company": "Immigration and Customs Enforcement",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business Financial Analyst ",
+  "company": "Architect of the Capitol",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2405,14 +2485,14 @@
   "reason": "requires 2+ years experience"
  },
  {
+  "title": "Functions - Internal Audit, Summer Analyst - Mississauga, ON 2027",
+  "company": "Citi",
+  "reason": "outside the US (Mississauga Ontario Canada)"
+ },
+ {
   "title": "BANAMEX Asesor Previsional Afore",
   "company": "Citi",
   "reason": "outside the US (Monterrey Nuevo Leon Mexico)"
- },
- {
-  "title": "BANAMEX_ Asesor Previsional Afore",
-  "company": "Citi",
-  "reason": "outside the US (Cancun Quintana Roo Mexico)"
  },
  {
   "title": "Services \u2013 Internship, Bogot\u00e1 \u2013 Colombia, 2027",
@@ -2500,11 +2580,6 @@
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
  },
  {
-  "title": "Markets \u2013 Sales and Trading, Internship, S\u00e3o Paulo - Brazil, 2026",
-  "company": "Citi",
-  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
- },
- {
   "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris - France 2027",
   "company": "Citi",
   "reason": "outside the US (Paris  France)"
@@ -2573,6 +2648,11 @@
   "title": "Banking - Investment Banking, Summer Analyst, Korea, Republic of \u2013 APAC, 2027",
   "company": "Citi",
   "reason": "outside the US (Seoul  Korea, Republic Of)"
+ },
+ {
+  "title": "Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027",
+  "company": "Citi",
+  "reason": "outside the US (London  United Kingdom)"
  },
  {
   "title": "Early Career, Campus Recruiter",

@@ -1,29 +1,7 @@
 {
- "generated": "2026-10-19T12:09:58+00:00",
- "count": 35,
+ "generated": "2026-10-19T22:06:14+00:00",
+ "count": 33,
  "jobs": [
-  {
-   "id": "wd-truist-R0119774",
-   "title": "ABL Structuring Analyst I",
-   "company": "Truist",
-   "location": "3 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2025-Truist-Securities---Credit-Delivery---Asset-Based-Lending---Analyst-Program-1_R0119774",
-   "posted": "Posted 6 Days Ago",
-   "flags": [
-    "Check location",
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "3 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
   {
    "id": "wd-citi-26945135",
    "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
@@ -61,10 +39,11 @@
    "employer_kind": "bank",
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
-    "4 Locations"
+    "4 Locations",
+    "5 Locations"
    ],
    "states": [],
-   "extra_locations": 0
+   "extra_locations": 1
   },
   {
    "id": "wd-regions-R106935",
@@ -108,27 +87,6 @@
    "states": [
     "TX"
    ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0114407",
-   "title": "Process Analyst II",
-   "company": "Truist",
-   "location": "4 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA---1001-Semmes-Ave---Truist-Plaza-Richmond/Process-Analyst-II_R0114407",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "4 Locations"
-   ],
-   "states": [],
    "extra_locations": 0
   },
   {
