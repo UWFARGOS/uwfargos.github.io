@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T16:44:32+00:00",
- "count": 32,
+ "generated": "2026-10-21T21:21:34+00:00",
+ "count": 31,
  "jobs": [
   {
    "id": "wd-citi-26945135",
@@ -296,27 +296,6 @@
    ],
    "states": [
     "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0119960",
-   "title": "Wealth Brokerage Associate - Temporary, Charlottesville, VA",
-   "company": "Truist",
-   "location": "Charlottesville, VA",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlottesville-VA/Wealth-Brokerage-Associate---Temporary--Charlottesville--VA_R0119960",
-   "posted": "Posted 15 Days Ago",
-   "flags": [],
-   "bucket": "Wealth & Financial Planning",
-   "level": "Internship",
-   "state": "VA",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Charlottesville, VA"
-   ],
-   "states": [
-    "VA"
    ],
    "extra_locations": 0
   },
