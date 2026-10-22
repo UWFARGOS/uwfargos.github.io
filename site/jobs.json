@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T11:14:01+00:00",
+ "generated": "2026-10-22T16:42:59+00:00",
  "count": 31,
  "jobs": [
   {
@@ -342,29 +342,6 @@
    "extra_locations": 0
   },
   {
-   "id": "us-IMP-13089721-27-005-AF-T32",
-   "title": "FINANCIAL MANAGEMENT ANALYST",
-   "company": "Air National Guard Units",
-   "location": "New Castle, Delaware",
-   "url": "https://www.usajobs.gov:443/job/888961200",
-   "posted": "2026-10-15T14:50:10.5130",
-   "flags": [
-    "Clearance needed"
-   ],
-   "bucket": "Audit & Assurance",
-   "level": "Entry level",
-   "state": "DE",
-   "employer_kind": "government",
-   "snippet": "Military Grades: E-4/SrA - E-6/TSgt Compatible Military Assignments: Compatibility is identified as being a member of the Delaware Air National Guard. SPECIALIZED EXPERIENCE: Applicant must have at least 12 months of finance program experiences and competencies that provided know",
-   "locations": [
-    "New Castle, Delaware"
-   ],
-   "states": [
-    "DE"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "us-CERD-26- 13088908-DHA",
    "title": "FINANCIAL MANAGEMENT SPECIALIST",
    "company": "U.S. Army Corps of Engineers",
@@ -382,6 +359,29 @@
    ],
    "states": [
     "PA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "us-IMP-13089721-27-005-AF-T32",
+   "title": "FINANCIAL MANAGEMENT ANALYST",
+   "company": "Air National Guard Units",
+   "location": "New Castle, Delaware",
+   "url": "https://www.usajobs.gov:443/job/888961200",
+   "posted": "2026-10-15T00:00:00.0000",
+   "flags": [
+    "Clearance needed"
+   ],
+   "bucket": "Audit & Assurance",
+   "level": "Entry level",
+   "state": "DE",
+   "employer_kind": "government",
+   "snippet": "Military Grades: E-4/SrA - E-6/TSgt Compatible Military Assignments: Compatibility is identified as being a member of the Delaware Air National Guard. SPECIALIZED EXPERIENCE: Applicant must have at least 12 months of finance program experiences and competencies that provided know",
+   "locations": [
+    "New Castle, Delaware"
+   ],
+   "states": [
+    "DE"
    ],
    "extra_locations": 0
   },
