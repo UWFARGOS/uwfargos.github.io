@@ -105,11 +105,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "GIB Commercial Relationship Manager Associate",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Bilingual Contact Center Banker-  Hoover, AL: Nashville, TN",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -131,6 +126,11 @@
  },
  {
   "title": "Contact Center Banker - Nashville, TN",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Contact Center Banker - Hoover, Alabama",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -425,6 +425,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Mortgage Loan Officer - Iowa - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Regulatory Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -455,7 +460,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Enterprise Risk Governance Analyst",
+  "title": "",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "HR Risk & Compliance Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -805,11 +815,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Investment Banking Analyst - Energy (Power, Utilities & Infrastructure)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Fiduciary Support Specialist II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -856,11 +861,6 @@
  },
  {
   "title": "SBDS Asset Manager Team Leader",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Leader IU, II, III - Page Field Commons",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -965,11 +965,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Leader- Louisville Area",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Branch Leader - Wilmington Downtown",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -981,6 +976,21 @@
  },
  {
   "title": "Branch Leader - Phenix City",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader - Charlotte Metro Area",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I or II - Highway 58  *Saturday required*",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader - New Walkertown Road",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1026,11 +1036,6 @@
  },
  {
   "title": "Grandbridge Capital Markets Associate",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wholesale Strategic Execution Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1100,11 +1105,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Associate AI & Data Consultant",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Centralized Brokerage Registered Client Service Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1140,6 +1140,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Investor Accounting & Reporting Associate - Grandbridge Real Estate",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Associate AI & Data Consultant \u2013 Program Governance",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1166,11 +1176,6 @@
  },
  {
   "title": "Treasury Sales Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Middle Market Credit Delivery Analyst or Senior Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1260,7 +1265,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Quantitative Model Development Analyst- AML and Financial Crimes",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Commercial Real Estate Senior Insurance Analyst - Grandbridge Real Estate",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Loan Administration Analyst - Grandbridge Real Estate Capital - Operations Support (New Loan Boarding)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2040,6 +2055,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Facilities Engineering Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Supervisory Financial Management Analyst",
   "company": "Defense Health Agency",
   "reason": "no internship or entry-level signal"
@@ -2402,6 +2422,56 @@
  {
   "title": "Investigative Accountant",
   "company": "Securities and Exchange Commission",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY ACCOUNTANT",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Education and Training Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Program Specialist (Financial Specialist)",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Management Specialist",
+  "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Office of the Chief Financial Officer",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Office of the Chief Financial Officer",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Frivolous Return Program Coordinator",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Lead Financial Administrative Specialist - Accounts Management",
+  "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Administration Specialist - IV Manager",
+  "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "U.S. Marine Corps",
   "reason": "no internship or entry-level signal"
  },
  {
