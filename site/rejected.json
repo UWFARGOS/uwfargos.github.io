@@ -145,11 +145,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Trust Relationship Specialist",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Trust Relationship Specialist - Nashville, TN (Music Row)",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -196,6 +191,11 @@
  },
  {
   "title": "Branch Manager - Cordova Trinity",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Manager - Crosstown",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -255,11 +255,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Associate Financial Consultant - RIS",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "BlackArch Partners Investment Banking Associate",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -285,11 +280,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Private Wealth Management Associate Wealth Advisor",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Credit Products Specialized Industries Associate - Healthcare",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -306,11 +296,6 @@
  },
  {
   "title": "Credit Products Specialized Industries Associate - Oil & Gas",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Commercial Loan Servicing Specialist- CBG Operations.",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -430,6 +415,21 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Mortgage Loan Officer - South Carolina - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Mortgage Loan Officer - Arkansas - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Mortgage Loan Officer - Alabama - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Regulatory Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -456,11 +456,6 @@
  },
  {
   "title": "Marketing Performance Analyst",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -680,11 +675,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Head of Capital Markets Service Delivery",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Investment Banking VP - Industrials",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -790,6 +780,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "ORMP Risk Officer I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Wholesale Early Careers Development Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -855,12 +850,7 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "ORMP Risk Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "SBDS Asset Manager Team Leader",
+  "title": "",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1050,11 +1040,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Closing Associate or Senior Closing Associate - Grandbridge Real Estate Capital",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Brokerage Registered Client Service Associate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1150,17 +1135,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Closing Associate - Grandbridge Real Estate Capital",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Deposit Product Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Treasury Sales Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1357,6 +1342,16 @@
  {
   "title": "Auditor (Financial)",
   "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2475,6 +2470,26 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT SPECIALIST",
+  "company": "Air Education and Training Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Management Specialist",
+  "company": "Indian Health Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2745,6 +2760,11 @@
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
  },
  {
+  "title": "Banking  \u2013 Commercial Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
+ },
+ {
   "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris, France 2026",
   "company": "Citi",
   "reason": "outside the US (Paris  France)"
@@ -2818,11 +2838,6 @@
   "title": "Banking, Investment Banking, CEE, Greece & Cyprus, Summer Analyst, London, United Kingdom 2027",
   "company": "Citi",
   "reason": "outside the US (London  United Kingdom)"
- },
- {
-  "title": "Banking - Investment Banking, Summer Analyst, Korea, Republic of \u2013 APAC, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Seoul  Korea, Republic Of)"
  },
  {
   "title": "Early Career, Campus Recruiter",
@@ -2965,7 +2980,7 @@
   "reason": "outside the US (Mumbai Maharashtra India)"
  },
  {
-  "title": "Banking \u2013 Investment Banking, Full-Time Analyst, Mexico City - Mexico, 2027",
+  "title": "",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
  },
@@ -2978,11 +2993,6 @@
   "title": "2025 Corporate Banking Full Time Analyst Program - Mexico",
   "company": "Citi",
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
- },
- {
-  "title": "Banking \u2013 Corporate Banking, Full-Time Analyst, Monterrey \u2013 Mexico, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Citi Mexico EDIF. TORRE HELICE)"
  },
  {
   "title": "Services, Full-Time Analyst, Mexico \u2013 Mexico City, 2027",
