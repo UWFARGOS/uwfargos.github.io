@@ -1,35 +1,14 @@
 {
- "generated": "2026-10-23T03:24:18+00:00",
- "count": 30,
+ "generated": "2026-10-23T11:05:19+00:00",
+ "count": 29,
  "jobs": [
-  {
-   "id": "wd-citi-26945135",
-   "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
-   "company": "Citi",
-   "location": "4 Locations",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
-   "posted": "Posted 9 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "We are seeking a highly motivated Associate for a front-office coverage role on Healthcare, Higher Ed & Nonprofit\u00a0team. This position is an excellent opportunity for individuals looking to build a career in a nonprofit industry The Commercial Associate role role is an entry level",
-   "locations": [
-    "4 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
   {
    "id": "wd-truist-R0120686",
    "title": "Financial Crimes Sanctions Analyst II",
    "company": "Truist",
    "location": "4 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Sanctions-Analyst-II_R0120686",
-   "posted": "Posted 8 Days Ago",
+   "posted": "Posted 9 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -51,7 +30,7 @@
    "company": "Citi",
    "location": "Irving Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
-   "posted": "Posted 7 Days Ago",
+   "posted": "Posted 8 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
@@ -72,7 +51,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Asset-Securitization-Structuring-Analyst_R0120746",
-   "posted": "Posted 6 Days Ago",
+   "posted": "Posted 7 Days Ago",
    "flags": [
     "Sophomore eligible"
    ],
@@ -305,7 +284,7 @@
    "company": "Truist",
    "location": "5 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Analyst-II---Wholesale-Credit-Delivery---Dealer-Services_R0120380",
-   "posted": "Posted 14 Days Ago",
+   "posted": "Posted 15 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -316,6 +295,27 @@
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
     "5 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26945135",
+   "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
+   "company": "Citi",
+   "location": "4 Locations",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
+   "posted": "Posted 10 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Advisory & Consulting",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "We are seeking a highly motivated Associate for a front-office coverage role on Healthcare, Higher Ed & Nonprofit\u00a0team. This position is an excellent opportunity for individuals looking to build a career in a nonprofit industry The Commercial Associate role role is an entry level",
+   "locations": [
+    "4 Locations"
    ],
    "states": [],
    "extra_locations": 0
@@ -338,29 +338,6 @@
    ],
    "states": [
     "PA"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "us-IMP-13089721-27-005-AF-T32",
-   "title": "FINANCIAL MANAGEMENT ANALYST",
-   "company": "Air National Guard Units",
-   "location": "New Castle, Delaware",
-   "url": "https://www.usajobs.gov:443/job/888961200",
-   "posted": "2026-10-15T00:00:00.0000",
-   "flags": [
-    "Clearance needed"
-   ],
-   "bucket": "Audit & Assurance",
-   "level": "Entry level",
-   "state": "DE",
-   "employer_kind": "government",
-   "snippet": "Military Grades: E-4/SrA - E-6/TSgt Compatible Military Assignments: Compatibility is identified as being a member of the Delaware Air National Guard. SPECIALIZED EXPERIENCE: Applicant must have at least 12 months of finance program experiences and competencies that provided know",
-   "locations": [
-    "New Castle, Delaware"
-   ],
-   "states": [
-    "DE"
    ],
    "extra_locations": 0
   },

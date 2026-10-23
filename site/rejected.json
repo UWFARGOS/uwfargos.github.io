@@ -135,11 +135,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Contact Center Banker - Hoover, Alabama",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Trust Relationship Specialist",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -196,6 +191,11 @@
  },
  {
   "title": "Branch Manager - Military Road",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Manager - Cordova Trinity",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -1300,11 +1300,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Management Specialist",
-  "company": "Headquarters, NASA",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Assistant Director",
   "company": "Securities and Exchange Commission",
   "reason": "no internship or entry-level signal"
@@ -1342,6 +1337,11 @@
  {
   "title": "Supervisory Auditor (Regional Audit Manager)",
   "company": "Defense Contract Audit Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor (Financial)",
+  "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1510,16 +1510,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Assistant Director",
-  "company": "Securities and Exchange Commission",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Federal Law Enforcement Training Centers",
-  "reason": "requires 4+ years experience"
- },
- {
   "title": "SUPERVISORY FINANCIAL SPECIALIST",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
@@ -1560,11 +1550,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "Naval Sea Systems Command",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Assistant Inspector General for Audit",
   "company": "Office of Inspector General",
   "reason": "no internship or entry-level signal"
@@ -1585,18 +1570,8 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "SUPERVISORY FINANCIAL SPECIALIST",
-  "company": "US Army Financial Management Command",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Specialist",
   "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Financial Management Specialist",
-  "company": "Drug Enforcement Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1607,16 +1582,6 @@
  {
   "title": "SUPERVISORY FINANCIAL SYSTEMS ANALYST",
   "company": "Defense Finance and Accounting Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Auditor",
-  "company": "Missile Defense Agency",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Staff Auditor",
-  "company": "Missile Defense Agency",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1667,11 +1632,6 @@
  {
   "title": "Accountant (Cash Management)",
   "company": "Indian Health Service",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Management Analyst (Title 32) (Indefinite)",
-  "company": "Army National Guard Units",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1745,16 +1705,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Lead Accountant",
-  "company": "Bureau of Economic Analysis",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Immigration and Customs Enforcement",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
@@ -1762,11 +1712,6 @@
  {
   "title": "Financial Analyst",
   "company": "Gulf Coast Ecosystem Restoration Council",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Auditor",
-  "company": "Pension Benefit Guaranty Corporation",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1780,11 +1725,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Accountant",
-  "company": "Bureau of Prisons/Federal Prison System",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Lead Financial Liaison",
   "company": "Defense Logistics Agency",
   "reason": "no internship or entry-level signal"
@@ -1792,21 +1732,6 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Management Specialist",
-  "company": "Headquarters, NASA",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "Naval Sea Systems Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
-  "company": "Naval Facilities Engineering Systems Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1830,19 +1755,9 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Management Analyst",
-  "company": "U.S. Secret Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "CHIEF OF STAFF",
   "company": "Defense Finance and Accounting Service",
   "reason": "outside the US (Yokota Air Base, Japan)"
- },
- {
-  "title": "Financial Management Analyst",
-  "company": "U.S. Secret Service",
-  "reason": "no internship or entry-level signal"
  },
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
@@ -1852,11 +1767,6 @@
  {
   "title": "SUPERVISORY FINANCIAL SPECIALIST (TITLE 5)",
   "company": "Army National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "STRATEGIC SYSTEMS PROGRAMS (SSP)",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2200,6 +2110,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Financial Analyst",
+  "company": "Joint Activities",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "ACCOUNTANT (STAFF)",
   "company": "Naval Air Systems Command",
   "reason": "no internship or entry-level signal"
@@ -2275,8 +2190,18 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Accountant",
+  "company": "Defense Health Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "AUDITOR (TITLE 5)",
   "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Automated Examination Systems Specialist (AESS / RGS / AIMS-ACE Coordinator)",
+  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2310,8 +2235,28 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Washington Headquarters Services",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "U.S. Marine Corps",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Specialist",
+  "company": "Drug Enforcement Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Supervisory Auditor (FAO Supervisor)",
   "company": "Defense Contract Audit Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Resource Management Officer",
+  "company": "Joint Activities",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2325,6 +2270,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Staff Accountant",
+  "company": "Deputy Assistant Secretary for Finance",
+  "reason": "requires 4+ years experience"
+ },
+ {
   "title": "AUDITOR",
   "company": "Army National Guard Units",
   "reason": "no internship or entry-level signal"
@@ -2332,6 +2282,16 @@
  {
   "title": "Lead Accountant",
   "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTANT",
+  "company": "Immediate Office of the Chief of Naval Operations",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "United States Fleet Forces Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2345,8 +2305,58 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "RESOURCE MANAGER",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "SUPERVISORY ACCOUNTANT",
   "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Specialist",
+  "company": "Drug Enforcement Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "United States Fleet Forces Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPV FINANCIAL SYSTEMS SPECIALIST (PROJMGT)",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTING OFFICER",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTING OFFICER",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Centers for Medicare & Medicaid Services",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "U.S. Pacific Fleet",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Centers for Medicare & Medicaid Services",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Systems Analyst",
+  "company": "ARMY TRANSPORTATION",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2355,9 +2365,44 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "U.S. Pacific Fleet",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Auditor",
+  "company": "Agricultural Marketing Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Analyst",
+  "company": "Nuclear Regulatory Commission",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SPECIALIST",
+  "company": "Air Education and Training Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor (Financial)",
+  "company": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Staff Accountant",
   "company": "Veterans Health Administration",
   "reason": "requires 4+ years experience"
+ },
+ {
+  "title": "Investigative Accountant",
+  "company": "Securities and Exchange Commission",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "S.V.P. International LFO",
@@ -2795,6 +2840,11 @@
   "reason": "outside the US (Warsaw  Poland)"
  },
  {
+  "title": "Machine Learning Analyst-Python and SQL",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
   "title": "Python Angular Fullstack Developer",
   "company": "Citi",
   "reason": "outside the US (Bangaluru Karnataka India)"
@@ -2815,11 +2865,6 @@
   "reason": "outside the US (Taguig  Philippines)"
  },
  {
-  "title": "Associate - Healthcare Commercial Banking",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "South Africa Learnership Graduate Program - TTS, South Africa - Johannesburg, 2026",
   "company": "Citi",
   "reason": "outside the US (Johannesburg  South Africa)"
@@ -2828,6 +2873,11 @@
   "title": "South Africa Learnership Graduate Program - ICRM, South Africa - Johannesburg, 2026",
   "company": "Citi",
   "reason": "outside the US (Johannesburg  South Africa)"
+ },
+ {
+  "title": "Associate - Healthcare Commercial Banking",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Graduan Career Fair  - Custody Asset Servicing Analyst / Senior Analyst",
@@ -2935,6 +2985,11 @@
   "reason": "outside the US (London  United Kingdom)"
  },
  {
+  "title": "Technology - Application Development, Placement Analyst, Belfast 2027",
+  "company": "Citi",
+  "reason": "outside the US (Belfast  United Kingdom)"
+ },
+ {
   "title": "Banking, Commercial Banking, Full Time Analyst, Paris - France 2027",
   "company": "Citi",
   "reason": "outside the US (Paris  France)"
@@ -2968,11 +3023,6 @@
   "title": "Banking, Commercial Banking, Summer Analyst, Stockholm - Sweden 2027",
   "company": "Citi",
   "reason": "outside the US (Stockholm  Sweden)"
- },
- {
-  "title": "Research Product Manager",
-  "company": "Citi",
-  "reason": "outside the US (London  United Kingdom)"
  },
  {
   "title": "KYC Analyst",
@@ -3023,6 +3073,11 @@
   "title": "Infrastructure Analyst",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Research Product Manager",
+  "company": "Citi",
+  "reason": "outside the US (London  United Kingdom)"
  },
  {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
