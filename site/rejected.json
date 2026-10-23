@@ -165,11 +165,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Trust Relationship Specialist - Franklin, TN",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Corporate Banking Group Syndications Fulfillment Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -196,6 +191,11 @@
  },
  {
   "title": "Corporate Relationship Specialist- Technology & Defense",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Manager - Military Road",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -556,6 +556,11 @@
  },
  {
   "title": "Digital Product Analyst- Salesforce [On-Site, Birmingham, AL]",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Capital Markets Business Systems Analyst- Real Estate Agency Production Team",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -2350,6 +2355,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Staff Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "requires 4+ years experience"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2725,11 +2735,6 @@
   "reason": "outside the US (Budapest  Hungary)"
  },
  {
-  "title": "Forward Deployed Engineer, AI Transformation -Senior Vice President",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Assistant Vice President, Balance Sheet Analytics Developer \u2013 Treasury ALM",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -2930,11 +2935,6 @@
   "reason": "outside the US (London  United Kingdom)"
  },
  {
-  "title": "Credit Analyst - Asset-Backed Securities (ABS)",
-  "company": "Citi",
-  "reason": "outside the US (Mumbai Maharashtra India)"
- },
- {
   "title": "Banking, Commercial Banking, Full Time Analyst, Paris - France 2027",
   "company": "Citi",
   "reason": "outside the US (Paris  France)"
@@ -3003,11 +3003,6 @@
   "title": "Testing Analyst",
   "company": "Citi",
   "reason": "outside the US (Warsaw  Poland)"
- },
- {
-  "title": "Project Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "Credit Analyst",
@@ -3123,5 +3118,15 @@
   "title": "Digital Service Analyst",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Financial Reporting Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "Valuation Control Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
  }
 ]
