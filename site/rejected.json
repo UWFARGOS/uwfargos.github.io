@@ -140,11 +140,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Trust Relationship Specialist",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Trust Relationship Specialist - Nashville, TN (Music Row)",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -196,6 +191,11 @@
  },
  {
   "title": "Branch Manager - Crosstown",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Manager - Fort Gaines",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -705,36 +705,6 @@
   "reason": "requires 6+ years experience"
  },
  {
-  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
-  "company": "Truist",
-  "reason": "requires 3+ years experience"
- },
- {
-  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "WCD Corporate and Leverage Finance Vice President",
-  "company": "Truist",
-  "reason": "senior title"
- },
- {
-  "title": "Senior Deposit Pricing Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Deposit Pricing Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Deposit Pricing Analytics Consultant",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -775,7 +745,37 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
+  "company": "Truist",
+  "reason": "requires 3+ years experience"
+ },
+ {
+  "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "WCD Corporate and Leverage Finance Vice President",
+  "company": "Truist",
+  "reason": "senior title"
+ },
+ {
+  "title": "Senior Deposit Pricing Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Deposit Pricing Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Senior Enterprise Data Risk Oversight Manager",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Deposit Pricing Analytics Consultant",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -846,11 +846,6 @@
  },
  {
   "title": "Senior Compensation Consultant: Technology, Data & Operations (TD&O)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -981,6 +976,11 @@
  },
  {
   "title": "Branch Leader - New Walkertown Road",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I, II, III - Shenandoah",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2490,6 +2490,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Accounting Technician",
+  "company": "United States Space Force",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2978,11 +2983,6 @@
   "title": "Job Requisition: 25843173 Citi India Apprenticeship Program - SS Ops",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
- },
- {
-  "title": "",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Reference Data Management Representative",
