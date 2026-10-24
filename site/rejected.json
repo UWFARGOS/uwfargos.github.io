@@ -3050,11 +3050,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
- },
- {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
@@ -3151,6 +3146,11 @@
  },
  {
   "title": "Financial Reporting Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
  }
