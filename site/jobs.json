@@ -1,7 +1,72 @@
 {
- "generated": "2026-10-26T12:18:13+00:00",
- "count": 23,
+ "generated": "2026-10-26T22:22:49+00:00",
+ "count": 29,
  "jobs": [
+  {
+   "id": "wd-truist-R0121175",
+   "title": "2027 Fiduciary Internship Program",
+   "company": "Truist",
+   "location": "Atlanta, GA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Fiduciary-Intern_R0121175",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": "GA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "states": [
+    "GA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0118764",
+   "title": "Fiduciary Operations Analyst II",
+   "company": "Truist",
+   "location": "Richmond, VA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Fiduciary-Operations-Analyst-II_R0118764",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": "VA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Richmond, VA"
+   ],
+   "states": [
+    "VA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0115681",
+   "title": "Commercial & Specialized Industries Analyst II",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Commercial---Specialized-Industries-Analyst-II_R0115681-1",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
   {
    "id": "wd-citi-25926681",
    "title": "Banking - Commercial Banking - Natural Resources & Energy,  Summer Analyst, Houston - US, 2027",
@@ -150,6 +215,27 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-truist-R0120380",
+   "title": "Analyst II - Wholesale Credit Delivery - Dealer Services",
+   "company": "Truist",
+   "location": "5 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Analyst-II---Wholesale-Credit-Delivery---Dealer-Services_R0120380",
+   "posted": "Posted 18 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "5 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-citi-26945135",
    "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
    "company": "Citi",
@@ -171,6 +257,28 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-truist-R0120686",
+   "title": "Financial Crimes Sanctions Analyst II",
+   "company": "Truist",
+   "location": "4 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Sanctions-Analyst-II_R0120686",
+   "posted": "Posted 12 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "4 Locations",
+    "5 Locations"
+   ],
+   "states": [],
+   "extra_locations": 1
+  },
+  {
    "id": "wd-citi-26951372",
    "title": "Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027",
    "company": "Citi",
@@ -188,6 +296,29 @@
    ],
    "states": [
     "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0120746",
+   "title": "Securitization & Capital Call Underwriting Analyst",
+   "company": "Truist",
+   "location": "Atlanta, GA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Asset-Securitization-Structuring-Analyst_R0120746",
+   "posted": "Posted 10 Days Ago",
+   "flags": [
+    "Sophomore eligible"
+   ],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": "GA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "states": [
+    "GA"
    ],
    "extra_locations": 0
   },
