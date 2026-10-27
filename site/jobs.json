@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-27T17:34:10+00:00",
- "count": 31,
+ "generated": "2026-10-27T21:54:17+00:00",
+ "count": 34,
  "jobs": [
   {
    "id": "wd-truist-R0121175",
@@ -47,6 +47,27 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-truist-R0121127",
+   "title": "Junior Network Engineer",
+   "company": "Truist",
+   "location": "3 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---2320-Cascade-Pointe-Boulevard/Junior-Network-Engineer_R0121127",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "3 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0121215",
    "title": "Wealth Business Analyst II",
    "company": "Truist",
@@ -64,6 +85,48 @@
    ],
    "states": [
     "VA"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0121121",
+   "title": "CCB Analyst II",
+   "company": "Truist",
+   "location": "Charlotte, NC",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/CCB-Analyst-II_R0121121",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "states": [
+    "NC"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-261004015",
+   "title": "Functions - Human Resources, Summer Analyst, Tampa - USA, 2027",
+   "company": "Citi",
+   "location": "Tampa Florida United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Human-Resources--Summer-Analyst--Tampa---USA--2027_261004015",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Insurance & Actuarial",
+   "level": "Internship",
+   "state": "FL",
+   "employer_kind": "bank",
+   "snippet": "You\u2019re the brains behind our work. \u00a0 \n The Human Resources Analyst Summer Internship Program is Citi's flagship HR internship experience and a key entry point into Citi's Human Resources talent pipeline. \n Designed for high-performing students who are passionate about people, bus",
+   "locations": [
+    "Tampa Florida United States"
+   ],
+   "states": [
+    "FL"
    ],
    "extra_locations": 0
   },
