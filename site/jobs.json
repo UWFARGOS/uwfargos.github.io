@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T03:43:43+00:00",
+ "generated": "2026-10-27T11:40:30+00:00",
  "count": 29,
  "jobs": [
   {
@@ -8,7 +8,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Fiduciary-Intern_R0121175",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [
     "No sponsorship"
    ],
@@ -220,7 +220,7 @@
    "company": "Truist",
    "location": "5 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Analyst-II---Wholesale-Credit-Delivery---Dealer-Services_R0120380",
-   "posted": "Posted 18 Days Ago",
+   "posted": "Posted 19 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -241,7 +241,7 @@
    "company": "Citi",
    "location": "4 Locations",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
-   "posted": "Posted 13 Days Ago",
+   "posted": "Posted 14 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -262,7 +262,7 @@
    "company": "Truist",
    "location": "4 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Sanctions-Analyst-II_R0120686",
-   "posted": "Posted 12 Days Ago",
+   "posted": "Posted 13 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -284,7 +284,7 @@
    "company": "Citi",
    "location": "Irving Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
@@ -305,7 +305,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Asset-Securitization-Structuring-Analyst_R0120746",
-   "posted": "Posted 10 Days Ago",
+   "posted": "Posted 11 Days Ago",
    "flags": [
     "Sophomore eligible"
    ],
@@ -323,23 +323,23 @@
    "extra_locations": 0
   },
   {
-   "id": "us-CERD-26- 13088908-DHA",
-   "title": "FINANCIAL MANAGEMENT SPECIALIST",
-   "company": "U.S. Army Corps of Engineers",
-   "location": "Philadelphia, Pennsylvania",
-   "url": "https://www.usajobs.gov:443/job/888744300",
-   "posted": "2026-10-15T00:00:00.0000",
+   "id": "us-OF-DE(RG)-13093651-ERO",
+   "title": "Financial Program Specialist",
+   "company": "Customs and Border Protection",
+   "location": "Indianapolis, Indiana",
+   "url": "https://www.usajobs.gov:443/job/889534900",
+   "posted": "2026-10-27T00:00:00.0000",
    "flags": [],
    "bucket": "Commercial & Credit",
-   "level": "Entry level",
-   "state": "PA",
+   "level": "Internship",
+   "state": "IN",
    "employer_kind": "government",
-   "snippet": "Who May Apply: To be eligible for consideration you must meet the definition of post-secondary student or recent graduate as defined below: Post-Secondary Student: a person who, (1) is currently enrolled in, and in good academic standing at, a full-time program at an institution ",
+   "snippet": "Experience: You qualify for the GS-7 grade level if you possess 1 year of specialized experience equivalent to at least the next lower grade level, performing duties such as: Entering, updating, retrieving, or maintaining information in databases, spreadsheets, tracking logs, fin",
    "locations": [
-    "Philadelphia, Pennsylvania"
+    "Indianapolis, Indiana"
    ],
    "states": [
-    "PA"
+    "IN"
    ],
    "extra_locations": 0
   },
