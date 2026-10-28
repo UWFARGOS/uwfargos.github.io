@@ -155,11 +155,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Manager - East Point",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Corporate Relationship Specialist- Technology & Defense",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -196,6 +191,11 @@
  },
  {
   "title": "Branch Manager - Midtown Medical Center",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Manager - Cedar Falls",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -675,6 +675,36 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Investment Banking VP - Industrials",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Energy (Oil & Gas)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Investment Banking VP - Industrial Technology",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Corporate Banking Associate I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Wholesale Credit Delivery (WCD) Corporate and Leverage Finance Associate",
+  "company": "Truist",
+  "reason": "requires 6+ years experience"
+ },
+ {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -715,41 +745,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Investment Banking VP - Industrials",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Energy (Oil & Gas)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Healthcare",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Investment Banking VP - Industrial Technology",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Corporate Banking Associate I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Wholesale Credit Delivery (WCD) Corporate and Leverage Finance Associate",
-  "company": "Truist",
-  "reason": "requires 6+ years experience"
- },
- {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
   "company": "Truist",
   "reason": "requires 3+ years experience"
@@ -771,6 +766,11 @@
  },
  {
   "title": "Deposit Pricing Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -813,11 +813,6 @@
   "title": "Risk Data and Reporting Senior Analyst II",
   "company": "Truist",
   "reason": "senior title"
- },
- {
-  "title": "2027 Corporate Finance - Analyst Program (Full-time)",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Executive Compensation Lead",
@@ -966,6 +961,11 @@
  },
  {
   "title": "Branch Leader I, II, III - Shenandoah",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Leader I, II or III - Upper East Tennessee Area",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1231,6 +1231,11 @@
  },
  {
   "title": "Senior Analyst - Mortgage Market Intelligence & Channel Pricing Analytics",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Quantitative Model Development Analyst- AML and Financial Crimes",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2675,6 +2680,11 @@
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
  },
  {
+  "title": "Markets - Summer Internship Program, Boston Career Forum in 2026, Tokyo - Japan, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
+ },
+ {
   "title": "Banking \u2013 Corporate Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2026",
   "company": "Citi",
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
@@ -3105,14 +3115,14 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
- },
- {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
  },
  {
   "title": "Transfer Pricing Analyst",
