@@ -1,37 +1,14 @@
 {
- "generated": "2026-10-28T04:00:37+00:00",
+ "generated": "2026-10-28T12:12:04+00:00",
  "count": 34,
  "jobs": [
-  {
-   "id": "wd-truist-R0121175",
-   "title": "2027 Fiduciary Internship Program",
-   "company": "Truist",
-   "location": "Atlanta, GA",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Fiduciary-Intern_R0121175",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Tax",
-   "level": "Internship",
-   "state": "GA",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "states": [
-    "GA"
-   ],
-   "extra_locations": 0
-  },
   {
    "id": "wd-truist-R0121068",
    "title": "Financial Analyst II - Expense Management",
    "company": "Truist",
    "location": "2 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Analyst-II---Expense-Management_R0121068",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [
     "Check location"
    ],
@@ -52,7 +29,7 @@
    "company": "Truist",
    "location": "3 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---2320-Cascade-Pointe-Boulevard/Junior-Network-Engineer_R0121127",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [
     "Check location"
    ],
@@ -73,7 +50,7 @@
    "company": "Truist",
    "location": "Richmond, VA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Wealth-Business-Analyst-II_R0121215",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [],
    "bucket": "Wealth & Financial Planning",
    "level": "Entry level",
@@ -94,7 +71,7 @@
    "company": "Truist",
    "location": "Charlotte, NC",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/CCB-Analyst-II_R0121121",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [],
    "bucket": "Tax",
    "level": "Entry level",
@@ -115,7 +92,7 @@
    "company": "Citi",
    "location": "Tampa Florida United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Human-Resources--Summer-Analyst--Tampa---USA--2027_261004015",
-   "posted": "Posted Today",
+   "posted": "Posted Yesterday",
    "flags": [],
    "bucket": "Insurance & Actuarial",
    "level": "Internship",
@@ -127,6 +104,29 @@
    ],
    "states": [
     "FL"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0121175",
+   "title": "2027 Fiduciary Internship Program",
+   "company": "Truist",
+   "location": "Atlanta, GA",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Fiduciary-Intern_R0121175",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": "GA",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "states": [
+    "GA"
    ],
    "extra_locations": 0
   },
@@ -325,7 +325,7 @@
    "company": "Truist",
    "location": "5 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Analyst-II---Wholesale-Credit-Delivery---Dealer-Services_R0120380",
-   "posted": "Posted 19 Days Ago",
+   "posted": "Posted 20 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -346,7 +346,7 @@
    "company": "Citi",
    "location": "4 Locations",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
-   "posted": "Posted 14 Days Ago",
+   "posted": "Posted 15 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -367,7 +367,7 @@
    "company": "Truist",
    "location": "4 Locations",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Sanctions-Analyst-II_R0120686",
-   "posted": "Posted 13 Days Ago",
+   "posted": "Posted 14 Days Ago",
    "flags": [
     "Check location"
    ],
@@ -389,7 +389,7 @@
    "company": "Citi",
    "location": "Irving Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
-   "posted": "Posted 12 Days Ago",
+   "posted": "Posted 13 Days Ago",
    "flags": [],
    "bucket": "Audit & Assurance",
    "level": "Internship",
@@ -410,7 +410,7 @@
    "company": "Truist",
    "location": "Atlanta, GA",
    "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Asset-Securitization-Structuring-Analyst_R0120746",
-   "posted": "Posted 11 Days Ago",
+   "posted": "Posted 12 Days Ago",
    "flags": [
     "Sophomore eligible"
    ],
