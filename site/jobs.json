@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-29T12:22:28+00:00",
- "count": 34,
+ "generated": "2026-10-29T22:31:27+00:00",
+ "count": 37,
  "jobs": [
   {
    "id": "wd-truist-R0121175",
@@ -49,6 +49,92 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-truist-R0121314",
+   "title": "2028 Truist Securities - Energy, Oil & Gas Investment Banking - Summer Analyst Program - Houston, TX",
+   "company": "Truist",
+   "location": "Houston, TX",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Houston-TX/XMLNAME-2028-Truist-Securities---Energy--Oil---Gas-Investment-Banking---Summer-Analyst-Program---Houston--TX_R0121314-1",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Tax",
+   "level": "Internship",
+   "state": "TX",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Houston, TX"
+   ],
+   "states": [
+    "TX"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0121121",
+   "title": "CCB Analyst II",
+   "company": "Truist",
+   "location": "Charlotte, NC",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/CCB-Analyst-II_R0121121",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": "NC",
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "states": [
+    "NC"
+   ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0115681",
+   "title": "Commercial & Specialized Industries Analyst II",
+   "company": "Truist",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Commercial---Specialized-Industries-Analyst-II_R0115681-1",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-26992676",
+   "title": "Banking \u2013 Citi Commercial Banking, Full-Time Analyst, Mexico City\u2013 Mexico, 2027",
+   "company": "Citi",
+   "location": "THE SUMMIT - CIUDAD DE MEXICO",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Citi-Commercial-Banking--Full-Time-Analyst--Mexico-City--Mexico--2027_26992676-1",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Commercial & Credit",
+   "level": "Entry level",
+   "state": "DE",
+   "employer_kind": "bank",
+   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with ",
+   "locations": [
+    "THE SUMMIT - CIUDAD DE MEXICO"
+   ],
+   "states": [
+    "DE"
+   ],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0118764",
    "title": "Fiduciary Operations Analyst II",
    "company": "Truist",
@@ -67,27 +153,6 @@
    "states": [
     "VA"
    ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0115681",
-   "title": "Commercial & Specialized Industries Analyst II",
-   "company": "Truist",
-   "location": "2 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Commercial---Specialized-Industries-Analyst-II_R0115681-1",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
    "extra_locations": 0
   },
   {
@@ -238,6 +303,28 @@
    "extra_locations": 0
   },
   {
+   "id": "wd-citi-25928245",
+   "title": "Client Onboarding Analyst",
+   "company": "Citi",
+   "location": "Seef  Bahrain",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Seef--Bahrain/Client-Onboarding-Analyst_25928245",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [
+    "Check location",
+    "Sophomore eligible"
+   ],
+   "bucket": "General Finance & Accounting",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Come and join our Client Onboarding team in Bahrain! Are you looking for a career move that will put you at the heart of a global financial institution? Then bring your strong knowledge in FX Market and your skills in Excel, communication, problem-solving, communication, leadersh",
+   "locations": [
+    "Seef  Bahrain"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
    "id": "wd-truist-R0120380",
    "title": "Analyst II - Wholesale Credit Delivery - Dealer Services",
    "company": "Truist",
@@ -297,27 +384,6 @@
    ],
    "states": [
     "VA"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-truist-R0121121",
-   "title": "CCB Analyst II",
-   "company": "Truist",
-   "location": "Charlotte, NC",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/CCB-Analyst-II_R0121121",
-   "posted": "Posted 2 Days Ago",
-   "flags": [],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": "NC",
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "states": [
-    "NC"
    ],
    "extra_locations": 0
   },
