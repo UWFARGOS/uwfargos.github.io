@@ -450,6 +450,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Compensation Analyst",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Workforce Planning Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -675,6 +680,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Sr Investment Banking Associate - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -706,11 +716,6 @@
  },
  {
   "title": "Head of Fraud Strategy and Transformation",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Sr Investment Banking Associate - Healthcare",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1080,6 +1085,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Grandbridge Loan Administration Analyst / Associate",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Brokerage Client Service Associate - Fairfax, VA",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1121,11 +1131,6 @@
  },
  {
   "title": "Senior Associate AI & Data Consultant \u2013 Program Governance",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Closing Associate - Grandbridge Real Estate Capital",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2390,6 +2395,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Quality Review Specialist (Bilingual Spanish)",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2406,6 +2416,11 @@
  },
  {
   "title": "KYC Operations Analyst - International Personal Banking, Wealth Operations",
+  "company": "Citi",
+  "reason": "outside the US (Singapore  Singapore)"
+ },
+ {
+  "title": "Director/ MD, Senior Private Banker \u2013 International Clients (Singapore Based)",
   "company": "Citi",
   "reason": "outside the US (Singapore  Singapore)"
  },
@@ -2568,11 +2583,6 @@
   "title": "BANAMEX Asesor Previsional Afore",
   "company": "Citi",
   "reason": "outside the US (Monterrey Nuevo Leon Mexico)"
- },
- {
-  "title": "BANAMEX_ Asesor Previsional Afore",
-  "company": "Citi",
-  "reason": "outside the US (Cancun Quintana Roo Mexico)"
  },
  {
   "title": "Services \u2013 Internship, Bogot\u00e1 \u2013 Colombia, 2027",
@@ -3145,8 +3155,8 @@
   "reason": "outside the US (Budapest  Hungary)"
  },
  {
-  "title": "Valuation Control Analyst",
+  "title": "Fraud Ops Analyst",
   "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
+  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  }
 ]
