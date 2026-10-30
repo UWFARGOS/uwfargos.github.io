@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-30T12:12:03+00:00",
- "count": 37,
+ "generated": "2026-10-30T22:01:57+00:00",
+ "count": 36,
  "jobs": [
   {
    "id": "wd-truist-R0121314",
@@ -106,27 +106,6 @@
    ],
    "states": [
     "VA"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-25926681",
-   "title": "Banking - Commercial Banking - Natural Resources & Energy,  Summer Analyst, Houston - US, 2027",
-   "company": "Citi",
-   "location": "Houston Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Commercial-Banking--Summer-Analyst--Houston---US--2027_25926681",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "You \u2019 re the brains behind our work. Citi\u2019s Commercial Bank (\u201cCCB\u201d) is looking for Summer Analysts to join the Natural Resources team in Houston. This team covers clients in the Oil & Gas (Upstream and Midstream), Energy Transition, and Power and Utilities sectors. Our Commercial",
-   "locations": [
-    "Houston Texas United States"
-   ],
-   "states": [
-    "TX"
    ],
    "extra_locations": 0
   },
@@ -430,28 +409,6 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0120686",
-   "title": "Financial Crimes Sanctions Analyst II",
-   "company": "Truist",
-   "location": "4 Locations",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Sanctions-Analyst-II_R0120686",
-   "posted": "Posted 16 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Tax",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
-   "locations": [
-    "4 Locations",
-    "5 Locations"
-   ],
-   "states": [],
-   "extra_locations": 1
-  },
-  {
    "id": "wd-citi-26951372",
    "title": "Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027",
    "company": "Citi",
@@ -493,6 +450,27 @@
    "states": [
     "GA"
    ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0120828",
+   "title": "Financial Crimes Sanctions Analyst II",
+   "company": "Truist",
+   "location": "5 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Financial-Crimes-Sanctions-Analyst-II_R0120828",
+   "posted": "Posted 11 Days Ago",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Tax",
+   "level": "Entry level",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "5 Locations"
+   ],
+   "states": [],
    "extra_locations": 0
   },
   {
