@@ -140,11 +140,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Corporate Relationship Specialist- Technology & Defense",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Branch Manager - Clarksville",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -196,6 +191,11 @@
  },
  {
   "title": "Branch Manager - West Doral",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Mortgage Strategy and Insights Business Partner",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -655,6 +655,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Letters of Credit Trade Advisor II",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -685,22 +690,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Letters of Credit Trade Advisor II",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Sr Investment Banking Associate - TMT",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Brokerage Registered Client Service Associate - Maryland",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -770,17 +770,17 @@
   "reason": "senior title"
  },
  {
-  "title": "ORMP Risk Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Deposit Pricing Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Deposit Pricing Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ORMP Risk Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1292,11 +1292,6 @@
  {
   "title": "Accountant",
   "company": "Veterans Health Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Program Support Center",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1912,11 +1907,6 @@
  {
   "title": "Senior Auditor (Information Systems)",
   "company": "House of Representatives",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Program Support Center",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2545,6 +2535,11 @@
   "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
  },
  {
+  "title": "Markets - Summer Internship Program, Boston Career Forum in 2026, Tokyo - Japan, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
+ },
+ {
   "title": "Banking \u2013 Corporate Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2026",
   "company": "Citi",
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
@@ -2588,11 +2583,6 @@
   "title": "Banking  \u2013 Commercial Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2027",
   "company": "Citi",
   "reason": "outside the US (Sao Paulo Sao Paulo Brazil)"
- },
- {
-  "title": "Markets - Summer Internship Program, Boston Career Forum in 2026, Tokyo - Japan, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
  },
  {
   "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris, France 2026",
@@ -2780,14 +2770,14 @@
   "reason": "outside the US (Dubai United Arab Emirates)"
  },
  {
-  "title": "Fresh Graduate - Finance, Economics, Mathematics, Accounting, Business Administration, Commerce",
-  "company": "Citi",
-  "reason": "outside the US (Taguig  Philippines)"
- },
- {
   "title": "Associate - Healthcare Commercial Banking",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Fresh Graduate - Finance, Economics, Mathematics, Accounting, Business Administration, Commerce",
+  "company": "Citi",
+  "reason": "outside the US (Taguig  Philippines)"
  },
  {
   "title": "Graduan Career Fair  - Custody Asset Servicing Analyst / Senior Analyst",
@@ -2945,9 +2935,19 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
+ },
+ {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Transfer Pricing Analyst",
@@ -3053,15 +3053,5 @@
   "title": "Fraud Ops Analyst",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
- },
- {
-  "title": "Business Analytics Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Bangalore Karnataka India)"
- },
- {
-  "title": "SAS Data Analyst",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
  }
 ]
