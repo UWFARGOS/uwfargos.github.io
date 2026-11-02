@@ -10,6 +10,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Release Train Engineer",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Relationship Banker I - Meridianville Branch - Meridianville AL",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -60,11 +65,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Onsite Priority Banker - Hoover, AL",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Bilingual Priority Banker - Flex opportunity",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -76,6 +76,11 @@
  },
  {
   "title": "Priority Contact Center Banker - Kingwood, Texas",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Priority Banker - Hoover, Alabama",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -140,6 +145,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Branch Manager - Hollywood",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Branch Manager - Clarksville",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -186,16 +196,6 @@
  },
  {
   "title": "Branch Manager - Wetumpka",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Manager - West Doral",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Mortgage Strategy and Insights Business Partner",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -350,11 +350,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Capital Markets Syndicated Loan Services Analyst",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Philanthropic Solutions Advisor",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -441,6 +436,11 @@
  },
  {
   "title": "Mortgage Loan Officer - Indiana - Multiple Locations",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Mortgage Loan Officer - Iowa - Multiple Locations",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -655,11 +655,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Letters of Credit Trade Advisor II",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Portfolio Manager - Wholesale Credit Delivery \u2013 Commercial / Not-for-Profit Segment",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -690,12 +685,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Sr Investment Banking Associate - TMT",
+  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
+  "title": "Letters of Credit Trade Advisor II",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Sr Investment Banking Associate - TMT",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -721,6 +721,11 @@
  },
  {
   "title": "Sr Investment Banking Associate - Healthcare",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ORMP Risk Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -780,17 +785,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "ORMP Risk Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Payments Dedicated Support Specialist",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Wholesale Payments Dedicated Support Specialist",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Talent Acquisition Consultant - Wholesale Banking",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1155,11 +1160,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Pre-Processing Quality Analyst",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Grandbridge Real Estate Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1241,6 +1241,16 @@
  },
  {
   "title": "Senior Analyst - Mortgage Market Intelligence & Channel Pricing Analytics",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Quantitative Model Development Analyst- AML and Financial Crimes",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Loan Administration Analyst - Grandbridge Real Estate Capital - Operations Support (New Loan Boarding)",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1340,8 +1350,23 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Accountant",
+  "company": "Program Support Center",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Lead Accountant",
   "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Cost Accountant",
+  "company": "Program Support Center",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Administrative Specialist",
+  "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1700,11 +1725,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Management Specialist",
-  "company": "Drug Enforcement Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "SUPV FINANCIAL SYSTEMS SPECIALIST (PROJMGT)",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
@@ -1807,11 +1827,6 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Naval Air Systems Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "U.S. Pacific Fleet",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1952,6 +1967,11 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Naval Education and Training Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "National Institutes of Health",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2110,13 +2130,13 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Planning Specialist",
-  "company": "Defense Health Agency",
+  "title": "Quality Review Specialist (Bilingual Spanish)",
+  "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Quality Review Specialist (Bilingual Spanish)",
-  "company": "Internal Revenue Service",
+  "title": "Chief Financial Officer",
+  "company": "Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2142,6 +2162,11 @@
  {
   "title": "Supervisory Accountant  (Revenue Accounting Manager)",
   "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Management Analyst",
+  "company": "Military Treatment Facilities under DHA",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2185,6 +2210,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Accountant",
+  "company": "Program Support Center",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "SUPERVISORY ACCOUNTANT",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
@@ -2210,6 +2240,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "United States Fleet Forces Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Management Specialist",
   "company": "Federal Emergency Management Agency",
   "reason": "no internship or entry-level signal"
@@ -2225,13 +2260,38 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "SUPERVISORY FINANCIAL SYSTEMS SPECIALIST",
+  "company": "Customs and Border Protection",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Cost Accountant",
+  "company": "Program Support Center",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Policy Officer",
   "company": "Federal Emergency Management Agency",
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Special Warfare Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "United States Fleet Forces Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL ANALYST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Special Warfare Command",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2242,6 +2302,11 @@
  {
   "title": "Financial Management Specialist",
   "company": "Federal Emergency Management Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Administrative Specialist",
+  "company": "Immediate Office of the Assistant Secretary for Human Resources and Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2257,6 +2322,11 @@
  {
   "title": "Financial Resources Manager",
   "company": "U.S. Army Intelligence and Security Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Washington Headquarters Services",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2282,6 +2352,26 @@
  {
   "title": "Accountant",
   "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY AUDITOR (FAO Supervisor)",
+  "company": "Defense Contract Audit Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Assistant Director (Finance)",
+  "company": "Smithsonian Institution ",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Assistant Director (Finance)",
+  "company": "Smithsonian Institution ",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2323,6 +2413,11 @@
   "title": "Ops Sup Intermed Analyst - C11 - Chennai",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Regulatory Governance and Oversight in International Technology, Senior Vice President",
+  "company": "Citi",
+  "reason": "outside the US (Singapore  Singapore)"
  },
  {
   "title": "Ops Sup Intermed Analyst (Training & Capability Enablement)",
@@ -2468,11 +2563,6 @@
   "title": "Functions - Internal Audit, Summer Analyst - Mississauga, ON 2027",
   "company": "Citi",
   "reason": "outside the US (Mississauga Ontario Canada)"
- },
- {
-  "title": "BANAMEX Asesor Previsional Afore",
-  "company": "Citi",
-  "reason": "outside the US (Monterrey Nuevo Leon Mexico)"
  },
  {
   "title": "Services \u2013 Internship, Bogot\u00e1 \u2013 Colombia, 2027",
@@ -2670,9 +2760,19 @@
   "reason": "outside the US (Budapest  Hungary)"
  },
  {
+  "title": "Early Career Program Management Lead",
+  "company": "Citi",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Forward Deployed Engineer, AI Transformation -Senior Vice President",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Generative AI Data Scientist - Deep Learning and LLM",
+  "company": "Citi",
+  "reason": "outside the US (Pune Maharashtra India)"
  },
  {
   "title": "Assistant Vice President, Balance Sheet Analytics Developer \u2013 Treasury ALM",
@@ -2905,14 +3005,14 @@
   "reason": "outside the US (Pune Maharashtra India)"
  },
  {
-  "title": "Data Analyst",
+  "title": "Infrastructure Analyst",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
+  "title": "Data Analyst",
   "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
@@ -2920,9 +3020,9 @@
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
-  "title": "Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027",
+  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
   "company": "Citi",
-  "reason": "no internship or entry-level signal"
+  "reason": "outside the US (Warsaw  Poland)"
  },
  {
   "title": "Transfer Pricing Analyst",
