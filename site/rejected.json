@@ -670,12 +670,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Enterprise Data Risk Oversight Manager",
+  "title": "Letters of Credit Trade Advisor II",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Letters of Credit Trade Advisor II",
+  "title": "Senior Enterprise Data Risk Oversight Manager",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -735,11 +735,6 @@
   "reason": "requires 6+ years experience"
  },
  {
-  "title": "ORMP Risk Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
   "company": "Truist",
   "reason": "requires 3+ years experience"
@@ -761,6 +756,11 @@
  },
  {
   "title": "Deposit Pricing Analyst",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ORMP Risk Officer I",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -1125,17 +1125,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Investor Accounting & Reporting Associate - Grandbridge Real Estate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Senior Associate AI & Data Consultant \u2013 Program Governance",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Senior Closing Associate - Grandbridge Real Estate Capital",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2870,6 +2870,11 @@
   "reason": "outside the US (Norway)"
  },
  {
+  "title": "Banking \u2013 Citi Commercial Banking, Full-Time Analyst, Capital Federal \u2013 Argentina, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Capital Federal  Argentina)"
+ },
+ {
   "title": "2025 LATAM Markets Analyst Program - Colombia",
   "company": "Citi",
   "reason": "outside the US (Bogota  Colombia)"
@@ -2903,11 +2908,6 @@
   "title": "Technology - Application Development, Placement Analyst, Belfast 2027",
   "company": "Citi",
   "reason": "outside the US (Belfast  United Kingdom)"
- },
- {
-  "title": "Operations -Markets Operations Fulltime Analyst , Boston Career Forum in 2026, Tokyo - Japan, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Chiyoda-ku Tokyo Japan)"
  },
  {
   "title": "Banking, Commercial Banking, Full Time Analyst, Paris - France 2027",
@@ -2990,19 +2990,14 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
- },
- {
-  "title": "Functions - Risk Management, Full Time Analyst, Buffalo - USA, 2027",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
   "company": "Citi",
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
+ },
+ {
+  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
  },
  {
   "title": "Transfer Pricing Analyst",
@@ -3103,5 +3098,10 @@
   "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "Fraud Ops Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  }
 ]
