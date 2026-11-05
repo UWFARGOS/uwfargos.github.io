@@ -55,11 +55,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Contact Center Priority Banker - SLC, Utah",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Bilingual Priority Banker - Flex opportunity",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -200,17 +195,17 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Mortgage Strategy and Insights Business Partner",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Corporate Banking Analyst- 2 - Financial Services Group Sector, Diversified and Specialized Industries",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
  {
   "title": "Corporate Banking Analyst 2- Healthcare Banking Sector,  Diversified and Specialized Industries",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Trade Finance Analyst",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -750,6 +745,11 @@
   "reason": "senior title"
  },
  {
+  "title": "ORMP Risk Officer I",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Senior Deposit Pricing Analyst",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -760,17 +760,12 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "ORMP Risk Officer I",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Payments Dedicated Support Specialist",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Wholesale Payments Dedicated Support Specialist",
+  "title": "",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2035,11 +2030,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "FINANCIAL MANAGEMENT ANALYST",
-  "company": "U.S. Pacific Fleet",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Accountant - Recent Graduate",
   "company": "Department of Energy Headquarters",
   "reason": "requires 4+ years experience"
@@ -2210,6 +2200,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "SUPERVISORY FINANCIAL MANAGEMENT ANALYST",
+  "company": "U.S. Marine Corps",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Senior Auditor",
   "company": "National Credit Union Administration",
   "reason": "no internship or entry-level signal"
@@ -2220,18 +2215,23 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Field Assistance Territory Manager - Temporary Promotion Not To Exceed 1 Year",
-  "company": "Internal Revenue Service",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Agreements Management Analyst",
   "company": "Joint Services and Activities Supported by the Office, Secretary of the Army",
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Air Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Stakeholder Relationship Tax Consultant",
   "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor (Financial)",
+  "company": "Electronic Health Record Modernization",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2308,6 +2308,16 @@
   "title": "Supervisory Financial Program Administrator",
   "company": "Pacific Air Forces",
   "reason": "outside the US (Kadena Air Base Okinawa, Japan)"
+ },
+ {
+  "title": "Resource Management Officer",
+  "company": "United States Army Installation Management Command",
+  "reason": "outside the US (Poznan, Poland)"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL SPECIALIST",
+  "company": "Army National Guard Units",
+  "reason": "no internship or entry-level signal"
  },
  {
   "title": "S.V.P. International LFO",
@@ -2665,11 +2675,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Early Career, Campus Recruiter",
-  "company": "Citi",
-  "reason": "outside the US (Pune Maharashtra India)"
- },
- {
   "title": "Head of the Global Fraud Fusion Center, MD, C16",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2765,6 +2770,11 @@
   "reason": "outside the US (Mumbai Maharashtra India)"
  },
  {
+  "title": "Fraud Modeling Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Bangaluru Karnataka India)"
+ },
+ {
   "title": "Assistant Vice President - In-Business Quality Assurance - Counterparty Credit Risk",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -2798,6 +2808,11 @@
   "title": "Treasury Balance Sheet Management Senior Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "Data Science Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "Mehnaty Graduate Program (UAE Nationals Only)",
