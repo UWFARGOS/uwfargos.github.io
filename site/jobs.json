@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-05T14:04:57+00:00",
- "count": 31,
+ "generated": "2026-11-06T05:05:55+00:00",
+ "count": 33,
  "jobs": [
   {
    "id": "wd-truist-R0121482",
@@ -24,46 +24,88 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-261004015",
-   "title": "Functions - Human Resources, Summer Analyst, Tampa - USA, 2027",
-   "company": "Citi",
-   "location": "Tampa Florida United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Human-Resources--Summer-Analyst--Tampa---USA--2027_261004015",
-   "posted": "Posted 9 Days Ago",
-   "flags": [],
-   "bucket": "Insurance & Actuarial",
+   "id": "wd-regions-R107461",
+   "title": "2027 BlackArch Investment Banking Summer Analyst/ Associate",
+   "company": "Regions Bank",
+   "location": "Charlotte, NC - Blackarch Office",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Charlotte-NC---Blackarch-Office/XMLNAME-2027-BlackArch-Investment-Banking-Summer-Analyst--Associate_R107461",
+   "posted": "Posted Today",
+   "flags": [
+    "No sponsorship"
+   ],
+   "bucket": "Advisory & Consulting",
    "level": "Internship",
-   "state": "FL",
+   "state": "NC",
    "employer_kind": "bank",
-   "snippet": "You\u2019re the brains behind our work. \u00a0 \n The Human Resources Analyst Summer Internship Program is Citi's flagship HR internship experience and a key entry point into Citi's Human Resources talent pipeline. \n Designed for high-performing students who are passionate about people, bus",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
    "locations": [
-    "Tampa Florida United States"
+    "Charlotte, NC - Blackarch Office"
    ],
    "states": [
-    "FL"
+    "NC"
    ],
    "extra_locations": 0
   },
   {
-   "id": "wd-truist-R0121314",
-   "title": "2028 Truist Securities - Energy, Oil & Gas Investment Banking - Summer Analyst Program - Houston, TX",
+   "id": "wd-truist-R0121539",
+   "title": "2027 Enterprise Payments Summer Intern",
    "company": "Truist",
-   "location": "Houston, TX",
-   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Houston-TX/XMLNAME-2028-Truist-Securities---Energy--Oil---Gas-Investment-Banking---Summer-Analyst-Program---Houston--TX_R0121314-1",
-   "posted": "Posted 7 Days Ago",
+   "location": "2 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Enterprise-Payments-Summer-Intern_R0121539",
+   "posted": "Posted Today",
    "flags": [
-    "No sponsorship"
+    "Check location"
    ],
    "bucket": "Tax",
    "level": "Internship",
-   "state": "TX",
+   "state": null,
    "employer_kind": "bank",
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
-    "Houston, TX"
+    "2 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-truist-R0121545",
+   "title": "2027 Wholesale Client Coverage & Credit Summer Intern (Internship)",
+   "company": "Truist",
+   "location": "5 Locations",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wholesale-Client-Coverage---Credit-Summer-Intern--Internship-_R0121545",
+   "posted": "Posted Today",
+   "flags": [
+    "Check location"
+   ],
+   "bucket": "Commercial & Credit",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
+   "locations": [
+    "5 Locations"
+   ],
+   "states": [],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-regions-R106931",
+   "title": "Staff Accountant",
+   "company": "Regions Bank",
+   "location": "Birmingham, AL - Regions Center",
+   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/Staff-Accountant_R106931-1",
+   "posted": "Posted 9 Days Ago",
+   "flags": [],
+   "bucket": "Accounting Operations",
+   "level": "Entry level",
+   "state": "AL",
+   "employer_kind": "bank",
+   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
+   "locations": [
+    "Birmingham, AL - Regions Center"
    ],
    "states": [
-    "TX"
+    "AL"
    ],
    "extra_locations": 0
   },
