@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06T13:50:02+00:00",
- "count": 32,
+ "generated": "2026-11-06T22:48:15+00:00",
+ "count": 31,
  "jobs": [
   {
    "id": "wd-regions-R107461",
@@ -340,27 +340,6 @@
    ],
    "states": [
     "GA"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-regions-R106931",
-   "title": "Staff Accountant",
-   "company": "Regions Bank",
-   "location": "Birmingham, AL - Regions Center",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Birmingham-AL---Regions-Center/Staff-Accountant_R106931-1",
-   "posted": "Posted 10 Days Ago",
-   "flags": [],
-   "bucket": "Accounting Operations",
-   "level": "Entry level",
-   "state": "AL",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Birmingham, AL - Regions Center"
-   ],
-   "states": [
-    "AL"
    ],
    "extra_locations": 0
   },
