@@ -140,11 +140,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Branch Manager - Military Road",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Branch Manager - Crosstown",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -191,6 +186,11 @@
  },
  {
   "title": "Branch Manager - Dalton Main",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Branch Manager - Military Road",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -2763,6 +2763,11 @@
   "title": "Job Requisition: 25843173 Citi India Apprenticeship Program - SS Ops",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
+ },
+ {
+  "title": "Retail Banking Operations - Financial Servicing & Accounting",
+  "company": "Citi",
+  "reason": "outside the US (Pune Maharashtra India)"
  },
  {
   "title": "Reference Data Management Representative",
