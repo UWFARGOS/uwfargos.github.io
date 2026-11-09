@@ -720,17 +720,17 @@
   "reason": "senior title"
  },
  {
-  "title": "Head of Fraud Strategy and Transformation",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Wholesale Credit Delivery Associate \u2013 Project Finance",
   "company": "Truist",
   "reason": "requires 3+ years experience"
  },
  {
   "title": "Investment Banking Associate - Power, Utilities & Infrastructure (Renewables)",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Head of Fraud Strategy and Transformation",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -826,6 +826,11 @@
  },
  {
   "title": "Branch Leader I Red Bank",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Data Scientist II - Fraud Reporting",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -951,11 +956,6 @@
  },
  {
   "title": "Branch Leader - Coal Country Area",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Leader (Saturday Required) - Durham/Chapel Hill Area- Northgate",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
