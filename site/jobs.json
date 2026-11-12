@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T13:37:49+00:00",
+ "generated": "2026-11-12T00:07:48+00:00",
  "count": 30,
  "jobs": [
   {
@@ -134,29 +134,6 @@
    "extra_locations": 1
   },
   {
-   "id": "wd-regions-R107461",
-   "title": "2027 BlackArch Investment Banking Summer Analyst/ Associate",
-   "company": "Regions Bank",
-   "location": "Charlotte, NC - Blackarch Office",
-   "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Charlotte-NC---Blackarch-Office/XMLNAME-2027-BlackArch-Investment-Banking-Summer-Analyst--Associate_R107461",
-   "posted": "Posted 6 Days Ago",
-   "flags": [
-    "No sponsorship"
-   ],
-   "bucket": "Advisory & Consulting",
-   "level": "Internship",
-   "state": "NC",
-   "employer_kind": "bank",
-   "snippet": "Thank you for your interest in a career at Regions. At Regions, we believe associates deserve more than just a job. We believe in offering performance-driven individuals a place where they can build a career --- a place to expect more opportunities. If you are focused on results,",
-   "locations": [
-    "Charlotte, NC - Blackarch Office"
-   ],
-   "states": [
-    "NC"
-   ],
-   "extra_locations": 0
-  },
-  {
    "id": "wd-citi-26951376",
    "title": "Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027",
    "company": "Citi",
@@ -280,6 +257,28 @@
    "states": [
     "TX"
    ],
+   "extra_locations": 0
+  },
+  {
+   "id": "wd-citi-25928245",
+   "title": "Client Onboarding Analyst",
+   "company": "Citi",
+   "location": "Seef  Bahrain",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Seef--Bahrain/Client-Onboarding-Analyst_25928245",
+   "posted": "Posted 30+ Days Ago",
+   "flags": [
+    "Check location",
+    "Sophomore eligible"
+   ],
+   "bucket": "General Finance & Accounting",
+   "level": "Internship",
+   "state": null,
+   "employer_kind": "bank",
+   "snippet": "Come and join our Client Onboarding team in Bahrain! Are you looking for a career move that will put you at the heart of a global financial institution? Then bring your strong knowledge in FX Market and your skills in Excel, communication, problem-solving, communication, leadersh",
+   "locations": [
+    "Seef  Bahrain"
+   ],
+   "states": [],
    "extra_locations": 0
   },
   {
