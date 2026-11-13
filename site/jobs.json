@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-13T14:00:13+00:00",
- "count": 29,
+ "generated": "2026-11-13T23:16:12+00:00",
+ "count": 20,
  "jobs": [
   {
    "id": "wd-truist-R0120746",
@@ -47,24 +47,24 @@
    "extra_locations": 0
   },
   {
-   "id": "wd-citi-26945135",
-   "title": "Associate, Commercial Banking - Healthcare, Higher Ed & Nonprofit - AVP",
-   "company": "Citi",
-   "location": "4 Locations",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Associate--Commercial-Banking---Healthcare--Higher-Ed---Nonprofit---AVP_26945135",
-   "posted": "Posted Yesterday",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Advisory & Consulting",
+   "id": "wd-truist-R0121553",
+   "title": "ABL Originations Analyst II",
+   "company": "Truist",
+   "location": "Atlanta GA - 740 Battery Avenue",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA---740-Battery-Avenue/Commercial-Banking-ABL-Analyst-II_R0121553",
+   "posted": "Posted Today",
+   "flags": [],
+   "bucket": "Tax",
    "level": "Entry level",
-   "state": null,
+   "state": "GA",
    "employer_kind": "bank",
-   "snippet": "We are seeking a highly motivated Associate for a front-office coverage role on Healthcare, Higher Ed & Nonprofit\u00a0team. This position is an excellent opportunity for individuals looking to build a career in a nonprofit industry The Commercial Associate role role is an entry level",
+   "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
-    "4 Locations"
+    "Atlanta GA - 740 Battery Avenue"
    ],
-   "states": [],
+   "states": [
+    "GA"
+   ],
    "extra_locations": 0
   },
   {
@@ -84,153 +84,6 @@
    "snippet": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communicatio",
    "locations": [
     "Houston, TX"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-261005063",
-   "title": "Technology - Application Development, Summer Analyst, Bahrain 2027",
-   "company": "Citi",
-   "location": "Seef  Bahrain",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Seef--Bahrain/Technology---Application-Development--Summer-Analyst--Bahrain-2027_261005063",
-   "posted": "Posted 4 Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "General Finance & Accounting",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "You are the brain behind our work \u2026 At Citi, we do not just adapt to change \u2013 we drive it. Our Summer Technology Analyst Program is where forward thinking talents meet unparalleled opportunities. This is your chance to innovate, influence, and make an impact in the most global fi",
-   "locations": [
-    "Seef  Bahrain"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26951376",
-   "title": "Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027",
-   "company": "Citi",
-   "location": "Tampa Florida United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Audit & Assurance",
-   "level": "Internship",
-   "state": "FL",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
-   "locations": [
-    "Tampa Florida United States"
-   ],
-   "states": [
-    "FL"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26992451",
-   "title": "Banking, Debt Capital Markets, Placement Analyst Internship, Frankfurt - Germany 2027",
-   "company": "Citi",
-   "location": "TAURUS",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Treasury",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work You are ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network; we know that success cannot come without growth. Our programs equip you wit",
-   "locations": [
-    "TAURUS"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26992089",
-   "title": "Banking, Corporate Banking, Placement Analyst Internship, Frankfurt - Germany 2027",
-   "company": "Citi",
-   "location": "TAURUS",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Corporate-Banking--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992089",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with the knowledge and training you nee",
-   "locations": [
-    "TAURUS"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-25913692",
-   "title": "Customer Solutions Officer",
-   "company": "Citi",
-   "location": "2 Locations",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Customer-Solutions-Officer_25913692-1",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Commercial & Credit",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "We are now accepting WALK-IN applicants every Monday - Friday 9AM to 4PM at Citi Plaza Career Center, 34th Street Bonifacio Global City Taguig The Service Analyst 1 in CBPS is an entry-level position servicing off-shore clients of Citi . The overall objective of this role is to p",
-   "locations": [
-    "2 Locations"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-/job/Dhaka--Bangladesh/Officer--Cash-and-Trade-Processing_21376205",
-   "title": "Officer, Cash and Trade Processing",
-   "company": "Citi",
-   "location": "Dhaka  Bangladesh",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dhaka--Bangladesh/Officer--Cash-and-Trade-Processing_21376205",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [
-    "Check location"
-   ],
-   "bucket": "Audit & Assurance",
-   "level": "Entry level",
-   "state": null,
-   "employer_kind": "bank",
-   "snippet": "Officer, Cash and Trade Processing is an entry level role responsible for the processing of all regular, restricted and legal transfers in coordination with the Transaction Services team. The overall objective is to perform moderately complex cash & trade operation tasks, by prov",
-   "locations": [
-    "Dhaka  Bangladesh"
-   ],
-   "states": [],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-25926650",
-   "title": "Banking - Corporate Banking, Summer Analyst, Houston - US, 2027",
-   "company": "Citi",
-   "location": "Houston Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650",
-   "posted": "Posted 30+ Days Ago",
-   "flags": [],
-   "bucket": "Commercial & Credit",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "The CB Intern Analyst NE is an intermediate level position responsible for leading the planning of investment strategies and solutions for major market clients in coordination with the Institutional Banking team. The overall objective of this role is to drive revenue by cross sel",
-   "locations": [
-    "Houston Texas United States"
    ],
    "states": [
     "TX"
@@ -325,48 +178,6 @@
     "GA"
    ],
    "extra_locations": 1
-  },
-  {
-   "id": "wd-citi-26951372",
-   "title": "Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027",
-   "company": "Citi",
-   "location": "Irving Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
-   "posted": "Posted 29 Days Ago",
-   "flags": [],
-   "bucket": "Audit & Assurance",
-   "level": "Internship",
-   "state": "TX",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with",
-   "locations": [
-    "Irving Texas United States"
-   ],
-   "states": [
-    "TX"
-   ],
-   "extra_locations": 0
-  },
-  {
-   "id": "wd-citi-26992676",
-   "title": "Banking \u2013 Citi Commercial Banking, Full-Time Analyst, Mexico City\u2013 Mexico, 2027",
-   "company": "Citi",
-   "location": "THE SUMMIT - CIUDAD DE MEXICO",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Citi-Commercial-Banking--Full-Time-Analyst--Mexico-City--Mexico--2027_26992676-1",
-   "posted": "Posted 15 Days Ago",
-   "flags": [],
-   "bucket": "Commercial & Credit",
-   "level": "Entry level",
-   "state": "DE",
-   "employer_kind": "bank",
-   "snippet": "You're the brains behind our work. You\u2019re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it\u2019s honing your skills or building your network, we know that success can\u2019t come without growth. Our programs equip you with ",
-   "locations": [
-    "THE SUMMIT - CIUDAD DE MEXICO"
-   ],
-   "states": [
-    "DE"
-   ],
-   "extra_locations": 0
   },
   {
    "id": "mn-goldman-sachs-1",
