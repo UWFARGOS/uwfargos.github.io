@@ -30,6 +30,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Release Train Engineer",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Relationship Banker I - Altamonte Branch",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -191,11 +196,6 @@
  },
  {
   "title": "Branch Manager - Corydon Plaza",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Branch Manager - Magnolia Mall",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -505,11 +505,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Fraud Data and Analytics Analyst",
-  "company": "Regions Bank",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Core Finance Analyst - Corporate Banking",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
@@ -581,6 +576,11 @@
  },
  {
   "title": "Small Business Relationship Manager",
+  "company": "Regions Bank",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Commercial Relationship Manager",
   "company": "Regions Bank",
   "reason": "no internship or entry-level signal"
  },
@@ -1415,6 +1415,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "ACCOUNTANT",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT SPECIALIST",
+  "company": "Air Force Civilian Career Training",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Accountant",
   "company": "Central Intelligence Agency",
   "reason": "no internship or entry-level signal"
@@ -2160,11 +2170,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Financial Analyst (DIRECT HIRE)",
-  "company": "Office of the Secretary of Transportation",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "FINANCIAL SYSTEMS ADMINISTRATOR",
   "company": "Air Education and Training Command",
   "reason": "no internship or entry-level signal"
@@ -2472,6 +2477,26 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "U.S. Pacific Fleet",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Systems Accountant",
+  "company": "ARMY TRANSPORTATION",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "ACCOUNTANT",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT SPECIALIST",
+  "company": "Air Force Civilian Career Training",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "PROCESS MANAGER NF4",
+  "company": "U.S. Marine Corps",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -2850,6 +2875,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Senior Network Security Engineer",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
   "title": "Trading Head - Equity Principal Trading",
   "company": "Citi",
   "reason": "outside the US (Shanghai Shanghai China)"
@@ -3152,7 +3182,32 @@
  {
   "title": "Data Analyst",
   "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
+  "title": "Data Analyst",
+  "company": "Citi",
   "reason": "outside the US (Ciudad De Mexico Distrito Federal Mexico)"
+ },
+ {
+  "title": "Data Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
+  "title": "Data Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
+  "title": "Data Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
+ },
+ {
+  "title": "Data  Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Gurugram Haryana India)"
  },
  {
   "title": "Custody Ops Readiness (Business Analyst) Intmd Analyst - Hybrid",
@@ -3238,30 +3293,5 @@
   "title": "KYC Modernization Analyst",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
- },
- {
-  "title": "Digital Service Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Singapore  Singapore)"
- },
- {
-  "title": "Digital Service Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Singapore  Singapore)"
- },
- {
-  "title": "Financial Reporting Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
-  "title": "Valuation Control Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
-  "title": "Fraud Ops Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  }
 ]
