@@ -2450,6 +2450,16 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "ACCOUNTANT",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "Defense Finance and Accounting Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "S.V.P. International LFO",
   "company": "Citi",
   "reason": "no internship or entry-level signal"
@@ -2910,11 +2920,6 @@
   "reason": "outside the US (Warsaw  Poland)"
  },
  {
-  "title": "Machine Learning Analyst-Python and SQL",
-  "company": "Citi",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Python Angular Fullstack Developer",
   "company": "Citi",
   "reason": "outside the US (Bangaluru Karnataka India)"
@@ -3140,11 +3145,6 @@
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
-  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
-  "company": "Citi",
-  "reason": "outside the US (Warsaw  Poland)"
- },
- {
   "title": "Transfer Pricing Analyst",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -3236,6 +3236,11 @@
  },
  {
   "title": "Financial Reporting Analyst",
+  "company": "Citi",
+  "reason": "outside the US (Budapest  Hungary)"
+ },
+ {
+  "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
  }
