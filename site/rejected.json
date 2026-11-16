@@ -1025,11 +1025,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Associate Software Engineer",
-  "company": "Truist",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Equity Research Associate - Biotech",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
@@ -1146,6 +1141,11 @@
  },
  {
   "title": "Senior Closing Associate - Grandbridge Real Estate Capital",
+  "company": "Truist",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Brokerage Registered Client Service Associate, Huntsville, Alabama",
   "company": "Truist",
   "reason": "no internship or entry-level signal"
  },
@@ -2815,9 +2815,9 @@
   "reason": "outside the US (London  United Kingdom)"
  },
  {
-  "title": "Citi - Markets, Summer Analyst, India \u2013 APAC, 2027",
+  "title": "Wealth - Citigold, Summer Analyst, Hong Kong, 2027",
   "company": "Citi",
-  "reason": "outside the US (Mumbai Maharashtra India)"
+  "reason": "outside the US (Hong Kong  Hong Kong)"
  },
  {
   "title": "Head of the Global Fraud Fusion Center, MD, C16",
@@ -3145,6 +3145,11 @@
   "reason": "outside the US (Kuala Lumpur Selangor Malaysia)"
  },
  {
+  "title": "Functions - Risk, Full-Time Analyst - Warsaw, 2027",
+  "company": "Citi",
+  "reason": "outside the US (Warsaw  Poland)"
+ },
+ {
   "title": "Transfer Pricing Analyst",
   "company": "Citi",
   "reason": "outside the US (Mumbai Maharashtra India)"
@@ -3236,11 +3241,6 @@
  },
  {
   "title": "Financial Reporting Analyst",
-  "company": "Citi",
-  "reason": "outside the US (Budapest  Hungary)"
- },
- {
-  "title": "Valuation Control Analyst",
   "company": "Citi",
   "reason": "outside the US (Budapest  Hungary)"
  }
