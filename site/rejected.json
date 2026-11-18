@@ -675,11 +675,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Senior Financial Analyst",
-  "company": "Securities and Exchange Commission",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Senior Stakeholder Relationship Tax Consultant",
   "company": "Internal Revenue Service",
   "reason": "no internship or entry-level signal"
@@ -1185,6 +1180,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "SUPERVISORY FINANCIAL SERVICES SPECIALIST",
+  "company": "Air Education and Training Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Auditor / Senior Auditor",
   "company": "House of Representatives",
   "reason": "no internship or entry-level signal"
@@ -1207,6 +1207,41 @@
  {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Naval Air Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Air Force Services Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Payroll Management Specialist",
+  "company": "Smithsonian Institution ",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL SERVICES SPECIALIST",
+  "company": "Air Education and Training Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "AUDITOR",
+  "company": "U.S. Army Corps of Engineers",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPV FINANCIAL MANAGEMENT ANALYST",
+  "company": "Naval Sea Systems Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Veterans Health Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
  }
 ]
