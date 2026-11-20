@@ -185,11 +185,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "INTERNAL CONTROL ANALYST (TITLE 5)",
-  "company": "Air National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Auditor",
   "company": "Office of the Director of National Intelligence",
   "reason": "no internship or entry-level signal"
@@ -830,11 +825,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "SUPERVISORY FINANCIAL SERVICES SPECIALIST",
-  "company": "Air Education and Training Command",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Auditor / Senior Auditor",
   "company": "House of Representatives",
   "reason": "no internship or entry-level signal"
@@ -1127,6 +1117,36 @@
  {
   "title": "Air Director",
   "company": "Defense Contract Audit Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Auditor (Performance)",
+  "company": "National Archives and Records Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Associate Advocate (Local Taxpayer Advocate)",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT SPECIALIST- DIRECT HIRING AUTHORITY",
+  "company": "Department of the Air Force Headquarters",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Business Administrator",
+  "company": "Bureau of Prisons/Federal Prison System",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Analyst",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Operations Liaison",
+  "company": "Defense Logistics Agency",
   "reason": "no internship or entry-level signal"
  }
 ]
