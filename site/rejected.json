@@ -130,6 +130,11 @@
   "reason": "requires 4+ years experience"
  },
  {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Accountant",
   "company": "Central Intelligence Agency",
   "reason": "no internship or entry-level signal"
@@ -835,7 +840,7 @@
   "reason": "requires 4+ years experience"
  },
  {
-  "title": "Financial Management Specialist",
+  "title": "Senior Financial Management Specialist",
   "company": "Drug Enforcement Administration",
   "reason": "no internship or entry-level signal"
  },
@@ -980,18 +985,8 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Accountant",
-  "company": "Veterans Health Administration",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "FINANCIAL MANAGEMENT ANALYST",
   "company": "Naval Medical Command",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Accountant",
-  "company": "Veterans Health Administration",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1127,6 +1122,31 @@
  {
   "title": "Supervisory Financial Management Specialist (Open to both U.S. Citizens and Federal Employees)",
   "company": "Office of the Secretary of Transportation",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Financial Analyst",
+  "company": "Commander, Navy Installations Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Tax Analyst",
+  "company": "Internal Revenue Service",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Resource Management Officer",
+  "company": "United States Army Installation Management Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Resource Management Officer",
+  "company": "United States Army Installation Management Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Lead Financial Systems Analyst",
+  "company": "Defense Logistics Agency",
   "reason": "no internship or entry-level signal"
  }
 ]
