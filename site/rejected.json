@@ -60,6 +60,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Accountant",
+  "company": "Office of the Secretary of the Interior",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Financial Specialist (PDP) (Direct Hire)",
   "company": "Federal Highway Administration",
   "reason": "no internship or entry-level signal"
@@ -230,11 +235,6 @@
   "reason": "no internship or entry-level signal"
  },
  {
-  "title": "Assistant Director (Information Systems)",
-  "company": "House of Representatives",
-  "reason": "no internship or entry-level signal"
- },
- {
   "title": "Financial Management Specialist-Direct Hire Authority",
   "company": "Air Force Materiel Command",
   "reason": "no internship or entry-level signal"
@@ -242,11 +242,6 @@
  {
   "title": "FINANCIAL MANAGEMENT SPECIALIST",
   "company": "U.S. Marine Corps",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Financial Program Analyst",
-  "company": "House of Representatives",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -372,6 +367,11 @@
  {
   "title": "Accountant",
   "company": "Smithsonian Institution ",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Accountant",
+  "company": "Office of the Secretary of the Interior",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1013,5 +1013,35 @@
   "title": "SUPERVISORY ACCOUNTANT",
   "company": "Defense Finance and Accounting Service",
   "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "SUPERVISORY FINANCIAL SPECIALIST (Title 32)",
+  "company": "Air National Guard Units",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL MANAGEMENT ANALYST",
+  "company": "U.S. Marine Corps",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL SPECIALIST - DIRECT HIRE AUTHORITY",
+  "company": "Air Force Materiel Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Management Specialist (Deputy Director)",
+  "company": "Food and Drug Administration",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Resource Management Officer",
+  "company": "United States Army Installation Management Command",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL ASSISTANT",
+  "company": "Pacific Air Forces",
+  "reason": "outside the US (Yokota Air Base, Japan)"
  }
 ]
