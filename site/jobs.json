@@ -1,7 +1,28 @@
 {
- "generated": "2026-11-25T01:53:21+00:00",
- "count": 12,
+ "generated": "2026-11-25T16:45:07+00:00",
+ "count": 13,
  "jobs": [
+  {
+   "id": "us-PA-13084463-AF-26-263",
+   "title": "STAFF ACCOUNTANT",
+   "company": "Air National Guard Units",
+   "location": "Horsham, Pennsylvania",
+   "url": "https://www.usajobs.gov:443/job/894263800",
+   "posted": "2026-11-25T08:06:36.8600",
+   "flags": [],
+   "bucket": "Accounting Operations",
+   "level": "Entry level",
+   "state": "PA",
+   "employer_kind": "government",
+   "snippet": "APPOINTMENT STATUS: EXCEPTED This is a Dual Status Excepted Service Technician position in the Pennsylvania Air National Guard. AREA OF CONSIDERATION: Non-Bargaining Position AOC 1: NG Employees at the 111th ATKW AOC 2: NG Employees in the 111th Attack Wing (This includes 270 EIS",
+   "locations": [
+    "Horsham, Pennsylvania"
+   ],
+   "states": [
+    "PA"
+   ],
+   "extra_locations": 0
+  },
   {
    "id": "mn-goldman-sachs-1",
    "title": "Summer Analyst Programme",
