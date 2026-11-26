@@ -100,6 +100,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Financial Manager",
+  "company": "Immediate Office of the Assistant Secretary for Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Accountant",
   "company": "Central Intelligence Agency",
   "reason": "no internship or entry-level signal"
@@ -202,11 +207,6 @@
  {
   "title": "ACCOUNTING OFFICER",
   "company": "Army National Guard Units",
-  "reason": "no internship or entry-level signal"
- },
- {
-  "title": "Senior Auditor (Information Systems)",
-  "company": "House of Representatives",
   "reason": "no internship or entry-level signal"
  },
  {
@@ -1027,6 +1027,36 @@
  {
   "title": "Supervisory Accountant (Systems)",
   "company": "Office of the Secretary of the Interior",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Management Specialist",
+  "company": "Environmental Protection Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Management Specialist",
+  "company": "Immediate Office of the Assistant Secretary for Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Manager",
+  "company": "Immediate Office of the Assistant Secretary for Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Accountant",
+  "company": "Defense Logistics Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "AUDITOR",
+  "company": "U.S. Marine Corps",
   "reason": "no internship or entry-level signal"
  }
 ]
