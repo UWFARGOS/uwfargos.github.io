@@ -105,6 +105,11 @@
   "reason": "no internship or entry-level signal"
  },
  {
+  "title": "Supervisory Financial Manager",
+  "company": "Immediate Office of the Assistant Secretary for Management",
+  "reason": "no internship or entry-level signal"
+ },
+ {
   "title": "Accountant",
   "company": "Central Intelligence Agency",
   "reason": "no internship or entry-level signal"
@@ -1007,6 +1012,16 @@
  {
   "title": "AUDITOR",
   "company": "U.S. Marine Corps",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "FINANCIAL ANALYST",
+  "company": "Defense Commissary Agency",
+  "reason": "no internship or entry-level signal"
+ },
+ {
+  "title": "Supervisory Financial Manager",
+  "company": "Immediate Office of the Assistant Secretary for Management",
   "reason": "no internship or entry-level signal"
  }
 ]
